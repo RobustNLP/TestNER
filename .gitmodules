@@ -1,0 +1,3 @@
+[submodule "TIN_Test/AEON"]
+	path = TIN_Test/AEON
+	url = https://github.com/CUHK-ARISE/AEON
