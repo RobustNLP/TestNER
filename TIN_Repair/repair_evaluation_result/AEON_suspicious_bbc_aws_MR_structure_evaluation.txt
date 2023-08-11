@@ -1,0 +1,984 @@
+sentence:  Does Elon Musk say Twitter will provide a general amnesty to some suspended accounts from next week ?
+sentence type ['mutant']
+entity:  ['suspended']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  There were many others .
+sentence type ['original']
+entity:  ['many others']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Many customers used their FTX digital wallets like bank accounts , expecting their funds to be safe .
+sentence type ['original']
+entity:  ['FTX']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NFF
+sentence:  The agency said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Frank']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The agency said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Storm Frank']
+ori_prediction:  ['NULL']
+new_prediction:  ['EVENT']
+evaluation: FT
+sentence:  The agency said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Storm']
+ori_prediction:  ['EVENT']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Guernsey Water say households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up ?
+sentence type ['mutant']
+entity:  ['Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Guernsey Water say households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up ?
+sentence type ['mutant']
+entity:  ['Guernsey']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Guernsey Water say households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up ?
+sentence type ['mutant']
+entity:  ['Guernsey Water']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Does the Elms system largely focus the award of subsidies around the environmental work farmers can undertake ?
+sentence type ['mutant']
+entity:  ['Elms']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  Dr FitzGerald recalls constantly explaining Australian sense of humour to mystified Chinese officials .
+sentence type ['original']
+entity:  ['Dr']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The number of summer wildfires which Shropshire firefighters had to tackle nearly trebled in 2022 .
+sentence type ['original']
+entity:  ['summer']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It currently opens from 7 .
+sentence type ['original']
+entity:  ['7']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Does Dr FitzGerald recall constantly explaining Australian sense of humour to mystified Chinese officials ?
+sentence type ['mutant']
+entity:  ['Dr']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Lucy Powell MP , Labour 's shadow culture secretary , criticised the decision to remove obligations over legal but harmful material .
+sentence type ['original']
+entity:  ['MP']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Love Learning say it had tried everything to avoid this situation ?
+sentence type ['mutant']
+entity:  ['Love Learning']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: 
+sentence:  Did some local residents recount harrowing escapes from the storm over the last several days ?
+sentence type ['mutant']
+entity:  ['local residents']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did State Governor Kathy Hochul , a native of Buffalo , describe the storm as the blizzard of the century ?
+sentence type ['mutant']
+entity:  ['State']
+ori_prediction:  ['PERSON']
+new_prediction:  ['LOCATION']
+evaluation: FF
+sentence:  Was it looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 ?
+sentence type ['mutant']
+entity:  ['Abu']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was it looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 ?
+sentence type ['mutant']
+entity:  ['Sir']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was it looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 ?
+sentence type ['mutant']
+entity:  ['Abu Sir']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  Did the agency say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Frank']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did the agency say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Storm Frank']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NTT
+sentence:  Did the agency say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Storm']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Dr Michael Ryan says intensive care units ( ICU ) are busy despite officials saying numbers are relatively low .
+sentence type ['original']
+entity:  ['Dr']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Russia plans to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region .
+sentence type ['original']
+entity:  ['25']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Russia plans to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region .
+sentence type ['original']
+entity:  ['Luna']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Russia plans to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region .
+sentence type ['original']
+entity:  ['Luna 25']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NTT
+sentence:  It outlined recommendations earlier this year to ensure all examples of deliberately taking or sharing intimate images without consent are illegal .
+sentence type ['original']
+entity:  ['examples']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It outlined recommendations earlier this year to ensure all examples of deliberately taking or sharing intimate images without consent are illegal .
+sentence type ['original']
+entity:  ['all examples']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Her daughter , Edie Syta , told the Post that it 's possible her mother did not understand the severity of the storm warnings because she was not fluent in English .
+sentence type ['original']
+entity:  ['Post']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Elon Musk says Twitter will provide a general amnesty to some suspended accounts from next week .
+sentence type ['original']
+entity:  ['suspended']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  Did her daughter , Edie Syta , tell the Post that it 's possible her mother did not understand the severity of the storm warnings because she was not fluent in English ?
+sentence type ['mutant']
+entity:  ['Post']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Did experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen ?
+sentence type ['mutant']
+entity:  ['University']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen ?
+sentence type ['mutant']
+entity:  ['Cambridge University']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Did experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen ?
+sentence type ['mutant']
+entity:  ['Cambridge']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Two yellow weather warnings remain in place heading for New Year ?
+sentence type ['mutant']
+entity:  ['New Year']
+ori_prediction:  ['EVENT']
+new_prediction:  ['LOCATION']
+evaluation: TF
+sentence:  He said : While some of these latest changes are welcome … Does it risk being too little too late , especially given the current economic challenges we are experiencing and the rapid erosion of direct payments ?
+sentence type ['mutant']
+entity:  ['some of these latest changes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  He said : While some of these latest changes are welcome … Does it risk being too little too late , especially given the current economic challenges we are experiencing and the rapid erosion of direct payments ?
+sentence type ['mutant']
+entity:  ['some of these latest']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Russia plan to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region ?
+sentence type ['mutant']
+entity:  ['25']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NFF
+sentence:  Does Russia plan to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region ?
+sentence type ['mutant']
+entity:  ['Luna']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Russia plan to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region ?
+sentence type ['mutant']
+entity:  ['Luna 25']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did more electricity come from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 ?
+sentence type ['mutant']
+entity:  ['second']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did more electricity come from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 ?
+sentence type ['mutant']
+entity:  ['second highest']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Did both companies deny the accusations ?
+sentence type ['mutant']
+entity:  ['both companies']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Did both companies deny the accusations ?
+sentence type ['mutant']
+entity:  ['companies']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the travelling public want 5G ?
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  Does Dr Michael Ryan say intensive care units ( ICU ) are busy despite officials saying numbers are relatively low ?
+sentence type ['mutant']
+entity:  ['Dr']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  The travelling public wants 5G .
+sentence type ['original']
+entity:  ['5G']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Did One group of researchers say their study provided evidence that landfill is n't the final sink of plastics , but a potential source of microplastics ?
+sentence type ['mutant']
+entity:  ['One group']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Did One group of researchers say their study provided evidence that landfill is n't the final sink of plastics , but a potential source of microplastics ?
+sentence type ['mutant']
+entity:  ['One group of researchers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It 's true that FTX had collected dozens of permissions to operate in many countries and to offer many different crypto services .
+sentence type ['original']
+entity:  ['many different crypto services']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  It 's true that FTX had collected dozens of permissions to operate in many countries and to offer many different crypto services .
+sentence type ['original']
+entity:  ['crypto']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Love Learning said it had tried everything to avoid this situation .
+sentence type ['original']
+entity:  ['Love Learning']
+ori_prediction:  ['PERSON']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Did the parents of teenagers Molly Russell and Olly Stephens say they were frustrated by repeated delays to the passing of the new Online Safety Bill ?
+sentence type ['mutant']
+entity:  ['Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the UN 's World Food Programme ( WFP ) have a target of getting emergency food aid to 2 ?
+sentence type ['mutant']
+entity:  ['2']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Zone']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Norfolk']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Offshore']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Norfolk Offshore Wind']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Wind Zone']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Welsh rugby lose another former captain and a legendary broadcaster when Eddie Butler died during a charity trek in Peru , aged 65 ?
+sentence type ['mutant']
+entity:  ['Welsh']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Did the lead author , Dr David Button from Bristol University , say it was due to having different jaw muscles and biting actions ?
+sentence type ['mutant']
+entity:  ['Dr']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did it outline recommendations earlier this year to ensure all examples of deliberately taking or sharing intimate images without consent are illegal ?
+sentence type ['mutant']
+entity:  ['examples']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did it outline recommendations earlier this year to ensure all examples of deliberately taking or sharing intimate images without consent are illegal ?
+sentence type ['mutant']
+entity:  ['all examples']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  More electricity came from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 .
+sentence type ['original']
+entity:  ['second']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  More electricity came from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 .
+sentence type ['original']
+entity:  ['second highest']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Did Amy Collins , 22 , first notice a change in her eating habits during the Covid lockdowns , when charity Beat says its referrals soared ?
+sentence type ['mutant']
+entity:  ['first']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Amy Collins , 22 , first notice a change in her eating habits during the Covid lockdowns , when charity Beat says its referrals soared ?
+sentence type ['mutant']
+entity:  ['first notice']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Does this come as one of Twitter 's major advertising partners expresses doubts about its future with Twitter ?
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen .
+sentence type ['original']
+entity:  ['Cambridge University']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen .
+sentence type ['original']
+entity:  ['University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Experts at Cambridge University say syngas produced by artificial photosynthesis could bridge the gap between fossil fuels and clean hydrogen .
+sentence type ['original']
+entity:  ['Cambridge']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Ms Svyrydenko said the deal illustrated that Ukrainian IT companies were in demand around the world despite all the challenges of war .
+sentence type ['original']
+entity:  ['all the challenges of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Ms Svyrydenko said the deal illustrated that Ukrainian IT companies were in demand around the world despite all the challenges of war .
+sentence type ['original']
+entity:  ['all the challenges of war']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Did Sepa say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Frank']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Sepa say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Storm Frank']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NTT
+sentence:  Did Sepa say levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 ?
+sentence type ['mutant']
+entity:  ['Storm']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by repeated delays to the passing of the new Online Safety Bill .
+sentence type ['original']
+entity:  ['Safety']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Erin McDaid , the trust 's head of communications , say the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 ?
+sentence type ['mutant']
+entity:  ['Reserve']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Erin McDaid , the trust 's head of communications , say the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 ?
+sentence type ['mutant']
+entity:  ['Attenborough Nature Reserve']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  Did Erin McDaid , the trust 's head of communications , say the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 ?
+sentence type ['mutant']
+entity:  ['Attenborough Nature']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Lucy Powell MP , Labour 's shadow culture secretary , criticise the decision to remove obligations over legal but harmful material ?
+sentence type ['mutant']
+entity:  ['MP']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Sepa said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Frank']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Sepa said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Storm Frank']
+ori_prediction:  ['NULL']
+new_prediction:  ['EVENT']
+evaluation: FT
+sentence:  Sepa said levels at the River Nith reached the highest ever recorded , higher than Storm Frank in 2015 and flooding in December 1982 .
+sentence type ['original']
+entity:  ['Storm']
+ori_prediction:  ['EVENT']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was it valid from 14:00 on Tuesday until 06:00 on Wednesday ?
+sentence type ['mutant']
+entity:  ['06:00']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Was it valid from 14:00 on Tuesday until 06:00 on Wednesday ?
+sentence type ['mutant']
+entity:  ['06:00 on']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does it currently open from 7 ?
+sentence type ['mutant']
+entity:  ['7']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  No single person has enough interesting things to say to the entire world to tweet more than five times a day .
+sentence type ['original']
+entity:  ['single']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Ms Svyrydenko say the deal illustrated that Ukrainian IT companies were in demand around the world despite all the challenges of war ?
+sentence type ['mutant']
+entity:  ['all the challenges of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Did Ms Svyrydenko say the deal illustrated that Ukrainian IT companies were in demand around the world despite all the challenges of war ?
+sentence type ['mutant']
+entity:  ['all the challenges of war']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did the DPC say Meta had breached Europe 's General Data Protection Regulation ( GDPR ) ?
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Water']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Guernsey']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Guernsey Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The council leader said he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors .
+sentence type ['original']
+entity:  ['people']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The council leader said he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors .
+sentence type ['original']
+entity:  ['some people']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Det']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Supt Rance']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['JUICE']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NTT
+sentence:  Did Many customers use their FTX digital wallets like bank accounts , expecting their funds to be safe ?
+sentence type ['mutant']
+entity:  ['FTX']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  Forestry England said the new beaver from Scotland seemed to be settling well into her new Gloucestershire home .
+sentence type ['original']
+entity:  ['Forestry England']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  One upcycler said they refitted a friend 's kitchen using materials costing about £ 300 .
+sentence type ['original']
+entity:  ['One upcycler']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Met Commissioner Sir Mark Rowley described an enormous endeavour in gathering evidence after the discovery of an online fraud network .
+sentence type ['original']
+entity:  ['Commissioner']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Does it 's true that FTX had collected dozens of permissions to operate in many countries and to offer many different crypto services ?
+sentence type ['mutant']
+entity:  ['many different crypto services']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Does it 's true that FTX had collected dozens of permissions to operate in many countries and to offer many different crypto services ?
+sentence type ['mutant']
+entity:  ['crypto']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Were there many others ?
+sentence type ['mutant']
+entity:  ['many others']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Did the council leader say he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors ?
+sentence type ['mutant']
+entity:  ['people']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Did the council leader say he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors ?
+sentence type ['mutant']
+entity:  ['some people']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Poachers previously took advantage of Union islanders ' friendly nature to locate the geckos ' habitat .
+sentence type ['original']
+entity:  ['Union islanders']
+ori_prediction:  ['OTHER']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The lead author , Dr David Button from Bristol University , said it was due to having different jaw muscles and biting actions .
+sentence type ['original']
+entity:  ['Dr']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Does no single person have enough interesting things to say to the entire world to tweet more than five times a day ?
+sentence type ['mutant']
+entity:  ['single']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Welsh rugby lost another former captain and a legendary broadcaster when Eddie Butler died during a charity trek in Peru , aged 65 .
+sentence type ['original']
+entity:  ['Welsh']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  Did One deepfake porn creator tell the BBC earlier this year that the risk of prosecution could make him stop ?
+sentence type ['mutant']
+entity:  ['One']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Did One deepfake porn creator tell the BBC earlier this year that the risk of prosecution could make him stop ?
+sentence type ['mutant']
+entity:  ['One deepfake porn creator']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  State Governor Kathy Hochul , a native of Buffalo , described the storm as the blizzard of the century .
+sentence type ['original']
+entity:  ['State']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: TF
+sentence:  Did poachers previously take advantage of Union islanders ' friendly nature to locate the geckos ' habitat ?
+sentence type ['mutant']
+entity:  ['Union islanders']
+ori_prediction:  ['PERSON']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Erin McDaid , the trust 's head of communications , said the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 .
+sentence type ['original']
+entity:  ['Reserve']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Erin McDaid , the trust 's head of communications , said the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 .
+sentence type ['original']
+entity:  ['Attenborough Nature Reserve']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Erin McDaid , the trust 's head of communications , said the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 .
+sentence type ['original']
+entity:  ['Attenborough Nature']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Det']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It was valid from 14:00 on Tuesday until 06:00 on Wednesday .
+sentence type ['original']
+entity:  ['06:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It was valid from 14:00 on Tuesday until 06:00 on Wednesday .
+sentence type ['original']
+entity:  ['06:00 on']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NFF
+sentence:  Did One upcycler say they refitted a friend 's kitchen using materials costing about £ 300 ?
+sentence type ['mutant']
+entity:  ['One upcycler']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  Did One female student predict it a few weeks ago ?
+sentence type ['mutant']
+entity:  ['few weeks ago']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did One female student predict it a few weeks ago ?
+sentence type ['mutant']
+entity:  ['One female']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  Did One female student predict it a few weeks ago ?
+sentence type ['mutant']
+entity:  ['a few weeks ago']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Did One female student predict it a few weeks ago ?
+sentence type ['mutant']
+entity:  ['One female student']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did Forestry England say the new beaver from Scotland seemed to be settling well into her new Gloucestershire home ?
+sentence type ['mutant']
+entity:  ['Forestry England']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The DPC said Meta had breached Europe 's General Data Protection Regulation ( GDPR ) .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['PERSON']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Amy Collins , 22 , first noticed a change in her eating habits during the Covid lockdowns , when charity Beat says its referrals soared .
+sentence type ['original']
+entity:  ['first']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Amy Collins , 22 , first noticed a change in her eating habits during the Covid lockdowns , when charity Beat says its referrals soared .
+sentence type ['original']
+entity:  ['first notice']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  This comes as one of Twitter 's major advertising partners expresses doubts about its future with Twitter .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['original']
+entity:  ['Abu Sir']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['original']
+entity:  ['Sir']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['original']
+entity:  ['Abu']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Both companies deny the accusations .
+sentence type ['original']
+entity:  ['companies']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Both companies deny the accusations .
+sentence type ['original']
+entity:  ['Both companies']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  He said : While some of these latest changes are welcome … it risks being too little too late , especially given the current economic challenges we are experiencing and the rapid erosion of direct payments .
+sentence type ['original']
+entity:  ['some of these latest changes']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  He said : While some of these latest changes are welcome … it risks being too little too late , especially given the current economic challenges we are experiencing and the rapid erosion of direct payments .
+sentence type ['original']
+entity:  ['some of these latest']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The UN 's World Food Programme ( WFP ) has a target of getting emergency food aid to 2 .
+sentence type ['original']
+entity:  ['2']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One deepfake porn creator told the BBC earlier this year that the risk of prosecution could make him stop .
+sentence type ['original']
+entity:  ['One']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One deepfake porn creator told the BBC earlier this year that the risk of prosecution could make him stop .
+sentence type ['original']
+entity:  ['One deepfake porn creator']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Some local residents recounted harrowing escapes from the storm over the last several days .
+sentence type ['original']
+entity:  ['local residents']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Elms system largely focuses the award of subsidies around the environmental work farmers can undertake .
+sentence type ['original']
+entity:  ['Elms']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  Two yellow weather warnings remain in place heading for New Year .
+sentence type ['original']
+entity:  ['New Year']
+ori_prediction:  ['DATE']
+new_prediction:  ['LOCATION']
+evaluation: TF
+sentence:  One group of researchers said their study provided evidence that landfill is n't the final sink of plastics , but a potential source of microplastics .
+sentence type ['original']
+entity:  ['One group']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One group of researchers said their study provided evidence that landfill is n't the final sink of plastics , but a potential source of microplastics .
+sentence type ['original']
+entity:  ['One group of researchers']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  One female student predicted it a few weeks ago .
+sentence type ['original']
+entity:  ['few weeks ago']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  One female student predicted it a few weeks ago .
+sentence type ['original']
+entity:  ['One female']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One female student predicted it a few weeks ago .
+sentence type ['original']
+entity:  ['a few weeks ago']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  One female student predicted it a few weeks ago .
+sentence type ['original']
+entity:  ['One female student']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Did the number of summer wildfires which Shropshire firefighters had to tackle nearly treble in 2022 ?
+sentence type ['mutant']
+entity:  ['summer']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did met Commissioner Sir Mark Rowley describe an enormous endeavour in gathering evidence after the discovery of an online fraud network ?
+sentence type ['mutant']
+entity:  ['Commissioner']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Does the European Space Agency ( Esa ) , an organisation backed by 22 European countries , plan to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 ?
+sentence type ['mutant']
+entity:  ['JUICE']
+ori_prediction:  ['DATE']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: FT
+sentence:  Does the Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Wind Zone']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does the Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Norfolk']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  Does the Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Offshore']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does the Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Norfolk Offshore Wind']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Zone']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT

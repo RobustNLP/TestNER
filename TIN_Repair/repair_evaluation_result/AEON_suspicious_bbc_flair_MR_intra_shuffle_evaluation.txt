@@ -1,0 +1,947 @@
+sentence:  Scotland was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Aberdeenshire on the 12th .
+sentence type ['original']
+entity:  ['Aberdeenshire']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Norfolk , Banham Zoo and Kessingland in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Norfolk , Banham Zoo and Kessingland in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Kessingland']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Newport Wafer Fab to sell at least 86 % of Nexperia to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Norfolk , Suffolk and Banham Zoo in Kessingland , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Suffolk , Kessingland and Banham Zoo in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The Urdd']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wales Today The , Aberystwyth University and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wales Today The , Aberystwyth University and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( UN ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Suffolk , Banham Zoo and Kessingland in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Suffolk , Banham Zoo and Kessingland in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Kessingland']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Virgin Orbit ' s LauncherOne has been at Spaceport Cornwall since October , followed a week later by their Cosmic Girl 747 rocket that will carry nine satellites .
+sentence type ['mutant']
+entity:  ['Cosmic Girl']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Virgin Orbit ' s LauncherOne has been at Spaceport Cornwall since October , followed a week later by their Cosmic Girl 747 rocket that will carry nine satellites .
+sentence type ['mutant']
+entity:  ['Cosmic Girl 747']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The Royal Zoological Society of Scotland ( RZSS ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would be confirmed closer to the time .
+sentence type ['original']
+entity:  ['.']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Wales Today Urdd , Aberystwyth University and The all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wales Today Urdd , Aberystwyth University and The all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Apple ' s audience leaned more towards pop , charting songs by Adele and Elton John that did n't appear in Spotify ' s list .
+sentence type ['original']
+entity:  ['Adele']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  Mr Musk has also reactivated the Twitter accounts of rapper Andrew Tate ( formerly Ye ) and influencer Kanye West .
+sentence type ['mutant']
+entity:  ['Ye']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  The company behind the Woodhouse Colliery scheme , West Cumbria Mining , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['original']
+entity:  ['West']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The company behind the Woodhouse Colliery scheme , West Cumbria Mining , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['original']
+entity:  ['Cumbria Mining']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The company behind the Woodhouse Colliery scheme , West Cumbria Mining , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['original']
+entity:  ['West Cumbria Mining']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Deezer , Apple Music and Spotify all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Nasa will launch its 16 Psyche spacecraft in summer 2023 to explore an asteroid called Psyche , thought to be the remnant of a planet created in the earliest days of the solar system .
+sentence type ['mutant']
+entity:  ['Psyche']
+ori_prediction:  ['MISC', 'MISC']
+new_prediction:  ['MISC', 'MISC']
+evaluation: NFF
+evaluation: NTT
+sentence:  Nasa will launch its 16 Psyche spacecraft in summer 2023 to explore an asteroid called Psyche , thought to be the remnant of a planet created in the earliest days of the solar system .
+sentence type ['mutant']
+entity:  ['16 Psyche']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In any hospital , the administrators will be thinking about allergies , but on the other hand there ' s the consideration about how popular Tabor is and at times of stress , cats genuinely are stress relievers , Mr Henry says .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['LOC']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  The Space works with 10 schools in the Wessex Learning Trust and said 76 % of the children it works with have anxiety , while 54 % have depression and 41 % have had suicidal thoughts .
+sentence type ['original']
+entity:  ['Space']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Lockdowns prevent Covid outbreaks from spreading , William Hurst , professor of Chinese development at Cambridge University , told BBC News recently .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competition from Ed Sheeran , Taylor Swift and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Wales Today , Aberystwyth University and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Seth , the first wheelchair user to become a member of the Welsh Youth Parliament , started gaming during the first Minecraft lockdown in 2020 and enjoyed building stuff and blowing up my brother ' s houses in Covid .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Shire remains under the control of the Tigrayan government though federal forces control areas in the north around Mekelle .
+sentence type ['mutant']
+entity:  ['Shire']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  And 27 people were charged and 18 later put behind bars over the riot that took place in Mayhill ' s Swansea area the previous summer .
+sentence type ['mutant']
+entity:  ['Mayhill']
+ori_prediction:  ['PER']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Vanguard']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Boreas']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The Aberystwyth University , Wales Today and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Installations took place at Springfield Campus in Salisbury , Corsham ' s Chippenham and the Olympiad in Five Rivers .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  In a statement , Ye said : The company has mutually agreed with Parlement Technologies to terminate the intent of sale .
+sentence type ['mutant']
+entity:  ['Ye']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  The Esa module delivered two key engine burns last week to get Orion into a big loop around the Moon known as a Distant Retrograde Orbit .
+sentence type ['original']
+entity:  ['Esa']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Luckily the pair managed to make online contact with UN ( Awareness Against Human Trafficking ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Mr Musk has also reactivated the Twitter accounts of rapper Ye ( formerly Kanye West ) and influencer Andrew Tate .
+sentence type ['original']
+entity:  ['Ye']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Apple Music , Spotify and Deezer all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Installations took place at Five Rivers in Salisbury , Corsham ' s Springfield Campus and the Olympiad in Chippenham .
+sentence type ['original']
+entity:  ['Corsham']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Installations took place at Five Rivers in Salisbury , Corsham ' s Springfield Campus and the Olympiad in Chippenham .
+sentence type ['original']
+entity:  ['in']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Rowan Smith , solicitor at Leigh Day which is representing the group , added : A critical issue raised by Friends of the Earth during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['original']
+entity:  ['Leigh Day']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Lockdowns prevent Chinese outbreaks from spreading , William Hurst , professor of Covid development at Cambridge University , told BBC News recently .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The UN ' s World Food Programme ( WFP ) has a target of getting emergency food aid to 2 .
+sentence type ['original']
+entity:  ['World Food Programme']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The UN ' s World Food Programme ( WFP ) has a target of getting emergency food aid to 2 .
+sentence type ['original']
+entity:  ['WFP']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The troubled crypto firm BlockFi has filed for bankruptcy in the US , as the dramatic collapse of FTX continues to reverberate across the industry .
+sentence type ['original']
+entity:  ['BlockFi']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  On a video posted on the platform Twitter , Jones said he did not care about being on Rumble , reports news website Axios .
+sentence type ['mutant']
+entity:  ['Rumble']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  In 1971 the CCP ( Chinese Communist Party ) was forcing its way on to the world stage amid the Cold War , seeking improved foreign relationships and a seat at the United Nations .
+sentence type ['mutant']
+entity:  ['.']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Installations took place at Springfield Campus in Chippenham , Corsham ' s Five Rivers and the Olympiad in Salisbury .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous .
+sentence type ['original']
+entity:  ['iSpoof']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Spotify ' s audience leaned more towards pop , charting songs by Apple and Elton John that did n't appear in Adele ' s list .
+sentence type ['mutant']
+entity:  ['Adele']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  The Wessex Learning Trust works with 10 schools in the Space and said 76 % of the children it works with have anxiety , while 54 % have depression and 41 % have had suicidal thoughts .
+sentence type ['mutant']
+entity:  ['Space']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Instagram conducted its own review and decided the track contained a veiled threat linked to a shooting in 2017 and so removed it from Meta .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  The company behind the West Cumbria Mining scheme , Woodhouse Colliery , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['mutant']
+entity:  ['West']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The company behind the West Cumbria Mining scheme , Woodhouse Colliery , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['mutant']
+entity:  ['Cumbria Mining']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The company behind the West Cumbria Mining scheme , Woodhouse Colliery , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['mutant']
+entity:  ['West Cumbria Mining']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The troubled crypto firm FTX has filed for bankruptcy in the US , as the dramatic collapse of BlockFi continues to reverberate across the industry .
+sentence type ['mutant']
+entity:  ['BlockFi']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['The Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['The']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Urdd']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Wales Today']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Wales']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  NewsGuard found that Wagner Group ' s algorithm appeared to push users towards violent TikTok content .
+sentence type ['mutant']
+entity:  ['TikTok']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  On a video posted on the platform Rumble , Jones said he did not care about being on Twitter , reports news website Axios .
+sentence type ['original']
+entity:  ['Rumble']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mekelle remains under the control of the Tigrayan government though federal forces control areas in the north around Shire .
+sentence type ['original']
+entity:  ['Shire']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ["Queen ' s"]
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ["Queen '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Adele ' s audience leaned more towards pop , charting songs by Apple and Elton John that did n't appear in Spotify ' s list .
+sentence type ['mutant']
+entity:  ['Adele']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  The DPC said Meta had breached Europe ' s General Data Protection Regulation ( GDPR ) .
+sentence type ['original']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In September , Meta lodged an appeal in the DPC against a record fine of € 405m imposed on Instagram by the High Court .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: TF
+sentence:  Nasa will launch its Psyche spacecraft in summer 2023 to explore an asteroid called 16 Psyche , thought to be the remnant of a planet created in the earliest days of the solar system .
+sentence type ['original']
+entity:  ['Psyche']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Nasa will launch its Psyche spacecraft in summer 2023 to explore an asteroid called 16 Psyche , thought to be the remnant of a planet created in the earliest days of the solar system .
+sentence type ['original']
+entity:  ['16 Psyche']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( Haart ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of UN and Kenyan authorities .
+sentence type ['original']
+entity:  ['Haart']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Urdd The , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Urdd The , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Suffolk , Norfolk and Banham Zoo in Kessingland , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Norfolk , Kessingland and Banham Zoo in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Installations took place at Springfield Campus in Chippenham , Corsham ' s Salisbury and the Olympiad in Five Rivers .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Installations took place at Springfield Campus in Chippenham , Corsham ' s Salisbury and the Olympiad in Five Rivers .
+sentence type ['mutant']
+entity:  ['in']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Virgin Orbit ' s Cosmic Girl 747 has been at Spaceport Cornwall since October , followed a week later by their LauncherOne rocket that will carry nine satellites .
+sentence type ['original']
+entity:  ['Cosmic Girl']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Virgin Orbit ' s Cosmic Girl 747 has been at Spaceport Cornwall since October , followed a week later by their LauncherOne rocket that will carry nine satellites .
+sentence type ['original']
+entity:  ['Cosmic Girl 747']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  FTX , which offered loans and other financial services backed by borrowers ' crypto assets , described the collapse of BlockFi as shocking .
+sentence type ['mutant']
+entity:  ['BlockFi']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  More than 70 million people from Washington state to Maryland are under a winter weather alert .
+sentence type ['original']
+entity:  ['Washington']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  More than 70 million people from Washington state to Maryland are under a winter weather alert .
+sentence type ['original']
+entity:  ['Washington state']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Aberdeenshire was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Scotland on the 12th .
+sentence type ['mutant']
+entity:  ['Aberdeenshire']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  In September , Meta lodged an appeal in the High Court against a record fine of € 405m imposed on Instagram by the DPC .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  In any hospital , the administrators will be thinking about allergies , but on the other hand there ' s the consideration about how popular Henry is and at times of stress , cats genuinely are stress relievers , Mr Tabor says .
+sentence type ['original']
+entity:  ['Tabor']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Orion module delivered two key engine burns last week to get Esa into a big loop around the Moon known as a Distant Retrograde Orbit .
+sentence type ['mutant']
+entity:  ['Esa']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Apple Music , Deezer and Spotify all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Urdd The , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Urdd The , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wagner Group found that NewsGuard ' s algorithm appeared to push users towards violent TikTok content .
+sentence type ['mutant']
+entity:  ['TikTok']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Rowan Smith , solicitor at Friends of the Earth which is representing the group , added : A critical issue raised by Leigh Day during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['mutant']
+entity:  ['Leigh Day']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Boreas and the Vanguard .
+sentence type ['mutant']
+entity:  ['Vanguard']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Boreas and the Vanguard .
+sentence type ['mutant']
+entity:  ['Boreas']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Adele ' s audience leaned more towards pop , charting songs by Spotify and Elton John that did n't appear in Apple ' s list .
+sentence type ['mutant']
+entity:  ['Adele']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  At the moment he likes to visit my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['original']
+entity:  ['Drouet']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Police believe 59 , 000 potential suspects may have used the Bitcoin service , but are prioritising those in the UK who have spent at least 100 iSpoof to get access , believing they were anonymous .
+sentence type ['mutant']
+entity:  ['iSpoof']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Urdd Wales Today , Aberystwyth University and The all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Urdd Wales Today , Aberystwyth University and The all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Suffolk and Banham Zoo in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['original']
+entity:  ['Africa Alive']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Suffolk and Banham Zoo in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['original']
+entity:  ['Kessingland']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Suffolk and Banham Zoo in Norfolk , said 2022 was a year of highs and lows .
+sentence type ['original']
+entity:  ['Norfolk']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  On a video posted on the platform Axios , Jones said he did not care about being on Rumble , reports news website Twitter .
+sentence type ['mutant']
+entity:  ['Rumble']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  They said the messages would direct victims to the Action Fraud website which would ask people to register with Metropolitan Police .
+sentence type ['mutant']
+entity:  ['Action Fraud']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Norfolk and Banham Zoo in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Installations took place at Springfield Campus in Five Rivers , Corsham ' s Chippenham and the Olympiad in Salisbury .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  BlockFi , which offered loans and other financial services backed by borrowers ' crypto assets , described the collapse of FTX as shocking .
+sentence type ['original']
+entity:  ['BlockFi']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  And 27 people were charged and 18 later put behind bars over the riot that took place in Swansea ' s Mayhill area the previous summer .
+sentence type ['original']
+entity:  ['Mayhill']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Wales Today The , Urdd and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wales Today The , Urdd and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Belfast , you do n't get to know the other people around Queen ' s , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ["Queen ' s"]
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  While you ' re a student living up in Belfast , you do n't get to know the other people around Queen ' s , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ["Queen '"]
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Wales Today , Urdd and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Aberystwyth University The , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Aberystwyth University The , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Banham Zoo and Norfolk in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Africa Alive']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Zoological Society of East Anglia , which runs Africa Alive at Kessingland , Banham Zoo and Norfolk in Suffolk , said 2022 was a year of highs and lows .
+sentence type ['mutant']
+entity:  ['Norfolk']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to sell at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['original']
+entity:  ['Order']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner PMC sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+evaluation: FF
+sentence:  The RZSS ( Royal Zoological Society of Scotland ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would be confirmed closer to the time .
+sentence type ['mutant']
+entity:  ['.']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Whilst across New Year ' s Day and Hogmanay we ' re seeing an improving picture , we ' ll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['mutant']
+entity:  ['Hogmanay']
+ori_prediction:  ['LOC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  In a statement , Parlement Technologies said : The company has mutually agreed with Ye to terminate the intent of sale .
+sentence type ['original']
+entity:  ['Ye']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  At the moment he likes to visit my neighbour and steal his cats ' Drouet soft toys , Ms Kevin the Carrot says .
+sentence type ['mutant']
+entity:  ['Drouet']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  The Edinburgh to Glasgow Queen Street line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['mutant']
+entity:  ['Queen Street']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  The Edinburgh to Glasgow Queen Street line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['mutant']
+entity:  ['Glasgow']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Edinburgh to Glasgow Queen Street line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['mutant']
+entity:  ['Glasgow Queen Street']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The UN ' s WFP ( World Food Programme ) has a target of getting emergency food aid to 2 .
+sentence type ['mutant']
+entity:  ['World Food Programme']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The UN ' s WFP ( World Food Programme ) has a target of getting emergency food aid to 2 .
+sentence type ['mutant']
+entity:  ['WFP']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Seth , the first wheelchair user to become a member of the Welsh Youth Parliament , started gaming during the first Covid lockdown in 2020 and enjoyed building stuff and blowing up my brother ' s houses in Minecraft .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  NewsGuard found that TikTok ' s algorithm appeared to push users towards violent Wagner Group content .
+sentence type ['original']
+entity:  ['TikTok']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Meta conducted its own review and decided the track contained a veiled threat linked to a shooting in 2017 and so removed it from Instagram .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Deezer , Spotify and Apple Music all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Glasgow Queen Street to Edinburgh line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['original']
+entity:  ['Queen Street']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Glasgow Queen Street to Edinburgh line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['original']
+entity:  ['Glasgow']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Glasgow Queen Street to Edinburgh line had to be closed for a number of hours due to severe flooding but it has since reopened .
+sentence type ['original']
+entity:  ['Glasgow Queen Street']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Whilst across Hogmanay and New Year ' s Day we ' re seeing an improving picture , we ' ll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['original']
+entity:  ['Hogmanay']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Urdd Aberystwyth University , The and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Urdd Aberystwyth University , The and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['ORG', 'PER']
+new_prediction:  ['ORG', 'ORG', 'ORG']
+evaluation: NTT
+evaluation: FT
+evaluation: FT
+sentence:  They said the messages would direct victims to the Metropolitan Police website which would ask people to register with Action Fraud .
+sentence type ['original']
+entity:  ['Action Fraud']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  More than 70 million people from Maryland to Washington state are under a winter weather alert .
+sentence type ['mutant']
+entity:  ['Washington']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  More than 70 million people from Maryland to Washington state are under a winter weather alert .
+sentence type ['mutant']
+entity:  ['Washington state']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Deezer , Apple Music and Spotify all said the track was their top performer of the year , beating competition from Ed Sheeran , Taylor Swift and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Installations took place at Springfield Campus in Salisbury , Corsham ' s Five Rivers and the Olympiad in Chippenham .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Spotify , Deezer and Apple Music all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Meta said DPC had breached Europe ' s General Data Protection Regulation ( GDPR ) .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  In 1971 the Chinese Communist Party ( CCP ) was forcing its way on to the world stage amid the Cold War , seeking improved foreign relationships and a seat at the United Nations .
+sentence type ['original']
+entity:  ['.']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competition from Ed Sheeran , Drake and Taylor Swift .
+sentence type ['original']
+entity:  ['Drake']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT

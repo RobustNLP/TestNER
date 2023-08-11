@@ -1,0 +1,1688 @@
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 18:00 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 18:00 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['02:00 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many parts of the east of England have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the North , UK and Northern Ireland .
+sentence type ['mutant']
+entity:  ['abundance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Boreas']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  The WWT , which operates the Steart Marshes nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Bridgwater , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['original']
+entity:  ['Bridgwater']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  The WWT , which operates the Steart Marshes nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Bridgwater , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['original']
+entity:  ['reserve']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The WWT , which operates the Steart Marshes nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Bridgwater , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['original']
+entity:  ['Steart']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Record avian flu outbreak sees mass cull in UK , EU .
+sentence type ['original']
+entity:  ['EU']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NFF
+sentence:  Record avian flu outbreak sees mass cull in UK , EU .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  CAP is designed to replace the EU 's common agricultural policy ( ELMS ) .
+sentence type ['mutant']
+entity:  ['agricultural policy']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Record avian flu outbreak sees mass cull in EU , UK .
+sentence type ['mutant']
+entity:  ['EU']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Record avian flu outbreak sees mass cull in EU , UK .
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  Nations including Germany , Spain and Italy and the US responded by increasing their renewable capacity .
+sentence type ['original']
+entity:  ['Spain']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Supt']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Det']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Supt Rance']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  As it stands , Twitter could take up to 30 % of the money from the monthly fee Apple plans to charge some users .
+sentence type ['mutant']
+entity:  ['users']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Twitter , Odnoklassniki , VKontakte , Telegram and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: 
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['YouTube']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['TITLE']
+evaluation: TF
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['VKontakte']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Many parts of the east of England have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the UK , North and Northern Ireland .
+sentence type ['mutant']
+entity:  ['abundance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 18:00 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 18:00 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['02:00 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One of the manikins on board Orion has been nicknamed Arturo Campos Commander in honour of Moonikin Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['mutant']
+entity:  ['Arturo Campos']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One of the manikins on board Orion has been nicknamed Arturo Campos Commander in honour of Moonikin Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['mutant']
+entity:  ['Commander']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Luckily the pair managed to make online contact with UN ( Awareness Against Human Trafficking ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  Many parts of the east of England have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the UK , Northern Ireland and North .
+sentence type ['mutant']
+entity:  ['abundance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  On a video posted on the platform Rumble , Jones said he did not care about being on Twitter , reports news website Axios .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 02:00 GMT 18:00 ) , Global News reports .
+sentence type ['mutant']
+entity:  ['18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after Sunday ( 02:00 GMT 18:00 ) , Global News reports .
+sentence type ['mutant']
+entity:  ['02:00 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Odnoklassniki , YouTube , VKontakte , Telegram and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Whilst across Bells and New Year 's Day we 're seeing an improving picture , we 'll see rain , sleet and snow on higher grounds , particularly across the Hogmanay .
+sentence type ['mutant']
+entity:  ['Bells']
+ori_prediction:  ['EVENT']
+new_prediction:  ['DATE']
+evaluation: FF
+sentence:  Mr Musk has also reactivated the Twitter accounts of rapper Andrew Tate ( formerly Ye ) and influencer Kanye West .
+sentence type ['mutant']
+entity:  ['Ye']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  In July , customers eating at a McDonald 's in Bognor Regis , West Sussex , found a 1 ( 5ft .
+sentence type ['mutant']
+entity:  ['1']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , customers eating at a McDonald 's in Bognor Regis , West Sussex , found a 1 ( 5ft .
+sentence type ['mutant']
+entity:  ['5ft']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Given how much of a distraction Musk 's tenure at Twitter has become , shareholders in the electric vehicle manufacturer will be breathing a big sigh of relief if he steps back from Tesla and gets back to the day job at Twitter , he said .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION', 'TITLE']
+new_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+evaluation: NTT
+evaluation: FT
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Nadine Dorries Culture Secretary , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Secretary']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Nadine Dorries Culture Secretary , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Nadine Dorries Culture Secretary , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Culture Secretary']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Nadine Dorries Culture Secretary , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one of nine senior']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Nadine Dorries Culture Secretary , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['nine senior']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Today']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Urdd , Aberystwyth University and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( 02:00 GMT Sunday ) , Global News reports .
+sentence type ['original']
+entity:  ['18:00']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( 02:00 GMT Sunday ) , Global News reports .
+sentence type ['original']
+entity:  ['02:00 GMT']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( 02:00 GMT Sunday ) , Global News reports .
+sentence type ['original']
+entity:  ['Sunday']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Andrei Dr and his team at Cambridge University have developed artificial leaves that generate clean fuels from sunlight and water , and could eventually operate on a large scale at sea .
+sentence type ['mutant']
+entity:  ['Dr']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Andrei Dr and his team at Cambridge University have developed artificial leaves that generate clean fuels from sunlight and water , and could eventually operate on a large scale at sea .
+sentence type ['mutant']
+entity:  ['Andrei']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  TikTok found that NewsGuard 's algorithm appeared to push users towards violent Wagner Group content .
+sentence type ['mutant']
+entity:  ['NewsGuard']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( UN ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Supt']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Det']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Supt Rance']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Many parts of the UK have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of England , North and Northern Ireland .
+sentence type ['original']
+entity:  ['abundance']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , YouTube , VKontakte , Telegram and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Meta , YouTube , VKontakte , Telegram and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , YouTube , VKontakte , Telegram and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: 
+sentence:  kerosene , even in liquid form , takes up about four times as much space as the Hydrogen required to fly the same distance .
+sentence type ['mutant']
+entity:  ['kerosene']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  Curator Briony Smith said : We hope Leia and Luka can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['original']
+entity:  ['Curator']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Curator Briony Smith said : We hope Leia and Luka can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['original']
+entity:  ['Briony Smith']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NT
+sentence:  Curator Briony Smith said : We hope Leia and Luka can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['original']
+entity:  ['Curator Briony Smith']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  The rate increase was announced by the Mark Spencer farming minister at the Oxford Farming Conference on Thursday .
+sentence type ['mutant']
+entity:  ['farming minister']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  For those stuck at home , a film about the campaign to save a Carmarthen cinema hit the small screen and leading Flintshire actor Jonathan Pryce would later receive a knighthood from the Queen .
+sentence type ['original']
+entity:  ['Carmarthen']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  NewsGuard found that TikTok 's algorithm appeared to push users towards violent Wagner Group content .
+sentence type ['original']
+entity:  ['NewsGuard']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  NewsGuard found that TikTok 's algorithm appeared to push users towards violent Wagner Group content .
+sentence type ['original']
+entity:  ['TikTok']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including YouTube , Meta , VKontakte , Telegram and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including YouTube , Meta , VKontakte , Telegram and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  ELMS is designed to replace the EU 's common agricultural policy ( CAP ) .
+sentence type ['original']
+entity:  ['agricultural policy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['nine senior']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one of nine senior']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In July , the former David Davis minister was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Nevertheless , in partnership with the government and energy companies , Rwanda 's EvPlugin charging network is planning to build 200 public chargers across the country over the next two years .
+sentence type ['original']
+entity:  ['Rwanda']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Boreas and the Vanguard .
+sentence type ['mutant']
+entity:  ['Boreas']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  TikTok found that Wagner Group 's algorithm appeared to push users towards violent NewsGuard content .
+sentence type ['mutant']
+entity:  ['NewsGuard']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Environment']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Therese Coffey']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  The operation ran across many internet services , including Meta , YouTube , Telegram , VKontakte and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , YouTube , Telegram , VKontakte and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , YouTube , Telegram , VKontakte and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: 
+sentence:  Nations including Germany , Italy and Spain and the US responded by increasing their renewable capacity .
+sentence type ['mutant']
+entity:  ['Spain']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Wales Today']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Wales']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , the former David Davis Culture Secretary was one of nine senior Conservatives who wrote a letter to then minister Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Secretary']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  In July , the former David Davis Culture Secretary was one of nine senior Conservatives who wrote a letter to then minister Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Culture']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  In July , the former David Davis Culture Secretary was one of nine senior Conservatives who wrote a letter to then minister Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Culture Secretary']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Virgin Orbit 's LauncherOne has been at Spaceport Cornwall since October , followed a week later by their Cosmic Girl 747 rocket that will carry nine satellites .
+sentence type ['mutant']
+entity:  ['Cosmic Girl 747']
+ori_prediction:  ['NULL']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: TF
+sentence:  Hydrogen , even in liquid form , takes up about four times as much space as the kerosene required to fly the same distance .
+sentence type ['original']
+entity:  ['kerosene']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  Victim and Mind Support have confidential helplines that provide support to consumers who have been hit .
+sentence type ['mutant']
+entity:  ['Mind']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , Odnoklassniki , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Twitter , Odnoklassniki , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Aberdeenshire was also on course for its coldest December in 12 years after the UK 's lowest maximum temperature for over a decade was recorded in Scotland on the 12th .
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Scotland was also on course for its coldest December in 12 years after the UK 's lowest maximum temperature for over a decade was recorded in Aberdeenshire on the 12th .
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  While you 're a student living up in Belfast , you do n't get to know the other people around Queen 's , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['mutant']
+entity:  ['Handy']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you 're a student living up in Belfast , you do n't get to know the other people around Queen 's , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Internet safety campaigner Mr Russell told BBC Radio 4 's Today programme : I think the most harmful content to [ Molly ] was content that could be described as legal but harmful .
+sentence type ['original']
+entity:  ['4']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Internet safety campaigner Mr Russell told BBC Radio 4 's Today programme : I think the most harmful content to [ Molly ] was content that could be described as legal but harmful .
+sentence type ['original']
+entity:  ['BBC Radio']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Internet safety campaigner Mr Russell told BBC Radio 4 's Today programme : I think the most harmful content to [ Molly ] was content that could be described as legal but harmful .
+sentence type ['original']
+entity:  ['BBC Radio 4']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Environment']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Land and Business']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Association']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Country , Land and Business Association']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NTT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Country']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking at a Country , Land and Business Association ( CLA ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['original']
+entity:  ['Therese Coffey']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  It was equally moving when Paul Sir played I Got A Feeling as a duet with Peter Jackson , whose vocals had been isolated for John Lennon 's Get Back documentary .
+sentence type ['mutant']
+entity:  ['Sir']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It was equally moving when Paul Sir played I Got A Feeling as a duet with Peter Jackson , whose vocals had been isolated for John Lennon 's Get Back documentary .
+sentence type ['mutant']
+entity:  ['Paul']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wagner Group found that TikTok 's algorithm appeared to push users towards violent NewsGuard content .
+sentence type ['mutant']
+entity:  ['NewsGuard']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  It was equally moving when Sir Paul played I Got A Feeling as a duet with John Lennon , whose vocals had been isolated for Peter Jackson 's Get Back documentary .
+sentence type ['original']
+entity:  ['Sir']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It was equally moving when Sir Paul played I Got A Feeling as a duet with John Lennon , whose vocals had been isolated for Peter Jackson 's Get Back documentary .
+sentence type ['original']
+entity:  ['Paul']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  State Governor Kathy Hochul , a native of Buffalo , described the storm as the blizzard of the century .
+sentence type ['original']
+entity:  ['Governor']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  State Governor Kathy Hochul , a native of Buffalo , described the storm as the blizzard of the century .
+sentence type ['original']
+entity:  ['Kathy Hochul']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Lee Pache Supt said it meant officers could stop and search vehicles , seize dogs and make arrests .
+sentence type ['mutant']
+entity:  ['Supt']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Lee Pache Supt said it meant officers could stop and search vehicles , seize dogs and make arrests .
+sentence type ['mutant']
+entity:  ['Lee Pache']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out last week as 5 % iPhone 14 Pro shortages grew to 10 % + a month ago and now are roughly 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['10 %']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  What started out last week as 5 % iPhone 14 Pro shortages grew to 10 % + a month ago and now are roughly 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Sir Jon , who is deputy governor for financial stability at the Bank , also said the recent volatility in the value of cryptocurrencies posed a threat .
+sentence type ['original']
+entity:  ['Sir']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Sir Jon , who is deputy governor for financial stability at the Bank , also said the recent volatility in the value of cryptocurrencies posed a threat .
+sentence type ['original']
+entity:  ['Jon']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  One of the manikins on board Orion has been nicknamed Commander Arturo Campos in honour of Moonikin Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['mutant']
+entity:  ['manikins']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  While you 're a student living up in Queen 's , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['original']
+entity:  ['Handy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  While you 're a student living up in Queen 's , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['original']
+entity:  ['Handy Helpers']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Meta , Twitter , VKontakte , Telegram and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Meta , Twitter , VKontakte , Telegram and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , Twitter , VKontakte , Telegram and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  As part of its investigation , Meta 's Oversight Board said it filed multiple freedom of information requests with the Met Police .
+sentence type ['original']
+entity:  ['information']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( Sunday 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( Sunday 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['02:00 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Mr Musk has also reactivated the Twitter accounts of rapper Ye ( formerly Kanye West ) and influencer Andrew Tate .
+sentence type ['original']
+entity:  ['Ye']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Musk , investment director at Tesla , added investors at AJ Bell would be closely watching Mr Russ Mould 's poll .
+sentence type ['mutant']
+entity:  ['AJ']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Musk , investment director at Tesla , added investors at AJ Bell would be closely watching Mr Russ Mould 's poll .
+sentence type ['mutant']
+entity:  ['AJ Bell']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Musk , investment director at Tesla , added investors at AJ Bell would be closely watching Mr Russ Mould 's poll .
+sentence type ['mutant']
+entity:  ['Bell']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( Haart ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of UN and Kenyan authorities .
+sentence type ['original']
+entity:  ['Haart']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The Wessex Learning Trust works with 10 schools in the Space and said 76 % of the children it works with have anxiety , while 54 % have depression and 41 % have had suicidal thoughts .
+sentence type ['mutant']
+entity:  ['Space']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Many parts of the east of England have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the Northern Ireland , UK and North .
+sentence type ['mutant']
+entity:  ['abundance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Environment']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Therese Coffey']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Land and Business']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Association']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country , Land and Business Association']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Environment Secretary said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: BFF
+sentence:  Luka said : We hope Leia and Curator Briony Smith can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['mutant']
+entity:  ['Curator']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Luka said : We hope Leia and Curator Briony Smith can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['mutant']
+entity:  ['Briony Smith']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Luka said : We hope Leia and Curator Briony Smith can boost the genetic diversity and number in the captive population , which acts as a safety net for the species .
+sentence type ['mutant']
+entity:  ['Curator Briony Smith']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( Sunday 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( Sunday 02:00 GMT ) , Global News reports .
+sentence type ['mutant']
+entity:  ['02:00 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Space works with 10 schools in the Wessex Learning Trust and said 76 % of the children it works with have anxiety , while 54 % have depression and 41 % have had suicidal thoughts .
+sentence type ['original']
+entity:  ['Space']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The rate increase was announced by the farming minister Mark Spencer at the Oxford Farming Conference on Thursday .
+sentence type ['original']
+entity:  ['farming minister']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  There are 258 Ukrainian refugees living in North Tyneside , with a further 37 expected to arrive in the next weeks , the Local Democracy Reporting Service said .
+sentence type ['original']
+entity:  ['refugees']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  One of the manikins on board Orion has been nicknamed Commander Moonikin Campos in honour of Arturo Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['original']
+entity:  ['manikins']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  One of the manikins on board Orion has been nicknamed Commander Moonikin Campos in honour of Arturo Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['original']
+entity:  ['Arturo Campos']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  One of the manikins on board Orion has been nicknamed Commander Moonikin Campos in honour of Arturo Campos , a Nasa engineer who played a critical role in helping to get the troubled Apollo 13 back .
+sentence type ['original']
+entity:  ['Commander']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Odnoklassniki , YouTube , Telegram , VKontakte and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Ginger cat Garfield and black cat Lupin found fame at Sainsbury 's in Ely , Cambridgeshire , and Aldi in Haverhill , Suffolk .
+sentence type ['original']
+entity:  ['Lupin']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  There are 37 Ukrainian refugees living in North Tyneside , with a further 258 expected to arrive in the next weeks , the Local Democracy Reporting Service said .
+sentence type ['mutant']
+entity:  ['refugees']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for Newquay and St Austell , said he was very keen for the launch to take place .
+sentence type ['mutant']
+entity:  ['St Austell']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: 
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for Newquay and St Austell , said he was very keen for the launch to take place .
+sentence type ['mutant']
+entity:  ['Newquay']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for Newquay and St Austell , said he was very keen for the launch to take place .
+sentence type ['mutant']
+entity:  ['Austell']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for Newquay and St Austell , said he was very keen for the launch to take place .
+sentence type ['mutant']
+entity:  ['St']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Russ Mould , investment director at AJ Bell , added investors at Tesla would be closely watching Mr Musk 's poll .
+sentence type ['original']
+entity:  ['AJ Bell']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Russ Mould , investment director at AJ Bell , added investors at Tesla would be closely watching Mr Musk 's poll .
+sentence type ['original']
+entity:  ['AJ']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Russ Mould , investment director at AJ Bell , added investors at Tesla would be closely watching Mr Musk 's poll .
+sentence type ['original']
+entity:  ['Bell']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Wessex Learning Trust works with 10 schools in the Space and said 76 % of the children it works with have anxiety , while 41 % have depression and 54 % have had suicidal thoughts .
+sentence type ['mutant']
+entity:  ['Space']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Many parts of the east of England have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the North , Northern Ireland and UK .
+sentence type ['mutant']
+entity:  ['abundance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  As part of its investigation , Met Police said it filed multiple freedom of information requests with the Meta 's Oversight Board .
+sentence type ['mutant']
+entity:  ['information']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Virgin Orbit 's Cosmic Girl 747 has been at Spaceport Cornwall since October , followed a week later by their LauncherOne rocket that will carry nine satellites .
+sentence type ['original']
+entity:  ['Cosmic Girl 747']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 02:00 GMT ( 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 02:00 GMT ( 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , customers eating at a McDonald 's in Bognor Regis , West Sussex , found a 5ft ( 1 .
+sentence type ['original']
+entity:  ['1']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  In July , customers eating at a McDonald 's in Bognor Regis , West Sussex , found a 5ft ( 1 .
+sentence type ['original']
+entity:  ['5ft']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Jon Sir , who is deputy governor for financial stability at the Bank , also said the recent volatility in the value of cryptocurrencies posed a threat .
+sentence type ['mutant']
+entity:  ['Sir']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jon Sir , who is deputy governor for financial stability at the Bank , also said the recent volatility in the value of cryptocurrencies posed a threat .
+sentence type ['mutant']
+entity:  ['Jon']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The WWT , which operates the Steart Bridgwater nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Marshes , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['mutant']
+entity:  ['reserve']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The WWT , which operates the Steart Bridgwater nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Marshes , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['mutant']
+entity:  ['Bridgwater']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: TF
+sentence:  The WWT , which operates the Steart Bridgwater nature reserve at the mouth of the River Parrett , and helped to deliver the Meads ' eco park ' on the western edge of Marshes , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['mutant']
+entity:  ['Steart']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  For those stuck at home , a film about the campaign to save a Flintshire cinema hit the small screen and leading Carmarthen actor Jonathan Pryce would later receive a knighthood from the Queen .
+sentence type ['mutant']
+entity:  ['Carmarthen']
+ori_prediction:  ['OTHER']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: TF
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['nine senior']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: TF
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['one of nine senior']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['Secretary']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['Culture Secretary']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['Culture']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In July , the former minister David Davis was one of nine senior Conservatives who wrote a letter to then Culture Secretary Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['original']
+entity:  ['minister']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  I may get a permission tomorrow to set up a manufacturing unit , and today the government or the health minister may resign .
+sentence type ['mutant']
+entity:  ['health']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The unprecedented rescue on Wednesday involved nine volunteers from Moelfre and British Divers Marine Life Rescue crews from HM Coastguard and Penmon .
+sentence type ['mutant']
+entity:  ['Penmon']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Internet safety campaigner Mr Molly told BBC Radio 4 's Today programme : I think the most harmful content to [ Russell ] was content that could be described as legal but harmful .
+sentence type ['mutant']
+entity:  ['4']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Internet safety campaigner Mr Molly told BBC Radio 4 's Today programme : I think the most harmful content to [ Russell ] was content that could be described as legal but harmful .
+sentence type ['mutant']
+entity:  ['BBC Radio']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Internet safety campaigner Mr Molly told BBC Radio 4 's Today programme : I think the most harmful content to [ Russell ] was content that could be described as legal but harmful .
+sentence type ['mutant']
+entity:  ['BBC Radio 4']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including YouTube , Twitter , Telegram , VKontakte and Meta , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Nevertheless , in partnership with the government and energy companies , EvPlugin 's Rwanda charging network is planning to build 200 public chargers across the country over the next two years .
+sentence type ['mutant']
+entity:  ['Rwanda']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  Governor Hochul , who spoke to Joe Biden on Monday , said the US president had offered the full force of the federal government to support New York state .
+sentence type ['original']
+entity:  ['Hochul']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Mind and Victim Support have confidential helplines that provide support to consumers who have been hit .
+sentence type ['original']
+entity:  ['Mind']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  They may not be the ones now being deposited at the location known as Jezero Crater , in Mars ' Three Forks .
+sentence type ['mutant']
+entity:  ['Three Forks']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including YouTube , Odnoklassniki , VKontakte , Telegram and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including YouTube , Odnoklassniki , VKontakte , Telegram and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  During a court recess some participants spoke about how they had lost money in the FTX collapse , with one saying they lost their life savings .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Dan Ives , senior equity analyst at Twitter , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk 's reign as Wedbush Securities chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['chief']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Dan Ives , senior equity analyst at Twitter , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk 's reign as Wedbush Securities chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['chief executive']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 02:00 GMT ( 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 02:00 GMT ( 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  I may get a permission today to set up a manufacturing unit , and tomorrow the government or the health minister may resign .
+sentence type ['original']
+entity:  ['health']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country , Land and Business Association']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Land and Business']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Association']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Environment Secretary Therese Coffey said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  The death toll in the New York city of Buffalo has risen to 28 , with thousands still without power amid a monster winter storm that has battered North America .
+sentence type ['original']
+entity:  ['New York city']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The death toll in the New York city of Buffalo has risen to 28 , with thousands still without power amid a monster winter storm that has battered North America .
+sentence type ['original']
+entity:  ['New York']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  Given how much of a distraction Musk 's tenure at Twitter has become , shareholders in the electric vehicle manufacturer will be breathing a big sigh of relief if he steps back from Twitter and gets back to the day job at Tesla , he said .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+new_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+evaluation: NTT
+evaluation: NTT
+sentence:  As it stands , Apple could take up to 30 % of the money from the monthly fee Twitter plans to charge some users .
+sentence type ['original']
+entity:  ['users']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: TF
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , VKontakte , Telegram and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , VKontakte , Telegram and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The unprecedented rescue on Wednesday involved nine volunteers from British Divers Marine Life Rescue and HM Coastguard crews from Moelfre and Penmon .
+sentence type ['original']
+entity:  ['Penmon']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper Versius is an extremely busy department and adopting GI signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['mutant']
+entity:  ['Versius']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper Versius is an extremely busy department and adopting GI signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['mutant']
+entity:  ['GI']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The two other advertising partners for 4As are Twitter and Association of National Advertisers ( ANA ) .
+sentence type ['mutant']
+entity:  ['4As']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Luckily the pair managed to make online contact with Haart ( Awareness Against Human Trafficking ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of UN and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['PERSON']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Rowan Smith , solicitor at Friends of the Earth which is representing the group , added : A critical issue raised by Leigh Day during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['mutant']
+entity:  ['Leigh Day']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  In July , the former Culture Secretary minister was one of nine senior Conservatives who wrote a letter to then David Davis Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  In July , the former Culture Secretary minister was one of nine senior Conservatives who wrote a letter to then David Davis Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['Culture Secretary']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  In July , the former Culture Secretary minister was one of nine senior Conservatives who wrote a letter to then David Davis Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['one of nine senior']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In July , the former Culture Secretary minister was one of nine senior Conservatives who wrote a letter to then David Davis Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['minister']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  In July , the former Culture Secretary minister was one of nine senior Conservatives who wrote a letter to then David Davis Nadine Dorries , warning the legal but harmful provision posed a threat to free speech .
+sentence type ['mutant']
+entity:  ['nine senior']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Secretary Environment said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Environment']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Secretary Environment said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Land and Business']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Secretary Environment said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Association']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Secretary Environment said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country , Land and Business Association']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Speaking at a CLA ( Country , Land and Business Association ) conference , Therese Coffey Secretary Environment said the review was now complete and the government moving ahead with the transition .
+sentence type ['mutant']
+entity:  ['Country']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Wagner Group found that NewsGuard 's algorithm appeared to push users towards violent TikTok content .
+sentence type ['mutant']
+entity:  ['NewsGuard']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  Wagner Group found that NewsGuard 's algorithm appeared to push users towards violent TikTok content .
+sentence type ['mutant']
+entity:  ['TikTok']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The death toll in the New York city of Buffalo has risen to thousands , with 28 still without power amid a monster winter storm that has battered North America .
+sentence type ['mutant']
+entity:  ['New York city']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The death toll in the New York city of Buffalo has risen to thousands , with 28 still without power amid a monster winter storm that has battered North America .
+sentence type ['mutant']
+entity:  ['New York']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  They may not be the ones now being deposited at the location known as Three Forks , in Mars ' Jezero Crater .
+sentence type ['original']
+entity:  ['Three Forks']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: 
+sentence:  Dr Andrei and his team at Cambridge University have developed artificial leaves that generate clean fuels from sunlight and water , and could eventually operate on a large scale at sea .
+sentence type ['original']
+entity:  ['Dr']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Dr Andrei and his team at Cambridge University have developed artificial leaves that generate clean fuels from sunlight and water , and could eventually operate on a large scale at sea .
+sentence type ['original']
+entity:  ['Andrei']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['original']
+entity:  ['World Heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['original']
+entity:  ['World Heritage status']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  State Kathy Hochul Governor , a native of Buffalo , described the storm as the blizzard of the century .
+sentence type ['mutant']
+entity:  ['Governor']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  State Kathy Hochul Governor , a native of Buffalo , described the storm as the blizzard of the century .
+sentence type ['mutant']
+entity:  ['Kathy Hochul']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The death toll in the Buffalo of North America has risen to thousands , with 28 still without power amid a monster winter storm that has battered New York city .
+sentence type ['mutant']
+entity:  ['New York city']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The death toll in the Buffalo of North America has risen to thousands , with 28 still without power amid a monster winter storm that has battered New York city .
+sentence type ['mutant']
+entity:  ['New York']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Supt Rance Det said the investigation remained active .
+sentence type ['mutant']
+entity:  ['Supt']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Supt Rance Det said the investigation remained active .
+sentence type ['mutant']
+entity:  ['Det']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Supt Rance Det said the investigation remained active .
+sentence type ['mutant']
+entity:  ['Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Supt Lee Pache said it meant officers could stop and search vehicles , seize dogs and make arrests .
+sentence type ['original']
+entity:  ['Supt']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Supt Lee Pache said it meant officers could stop and search vehicles , seize dogs and make arrests .
+sentence type ['original']
+entity:  ['Lee Pache']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Rowan Smith , solicitor at Leigh Day which is representing the group , added : A critical issue raised by Friends of the Earth during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['original']
+entity:  ['Leigh Day']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Scotland was also on course for its coldest December in over a decade after the UK 's lowest maximum temperature for 12 years was recorded in Aberdeenshire on the 12th .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  On a video posted on the platform Twitter , Jones said he did not care about being on Rumble , reports news website Axios .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for St Austell and Newquay , said he was very keen for the launch to take place .
+sentence type ['original']
+entity:  ['St Austell']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for St Austell and Newquay , said he was very keen for the launch to take place .
+sentence type ['original']
+entity:  ['Newquay']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for St Austell and Newquay , said he was very keen for the launch to take place .
+sentence type ['original']
+entity:  ['Austell']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Speaking to BBC Radio Cornwall , Steve Double , MP for St Austell and Newquay , said he was very keen for the launch to take place .
+sentence type ['original']
+entity:  ['St']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Musk , senior equity analyst at Twitter , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Dan Ives 's reign as Wedbush Securities chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['chief']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Musk , senior equity analyst at Twitter , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Dan Ives 's reign as Wedbush Securities chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['chief executive']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted 2024 , with a decision from Unesco expected in this early year .
+sentence type ['mutant']
+entity:  ['World Heritage']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted 2024 , with a decision from Unesco expected in this early year .
+sentence type ['mutant']
+entity:  ['World Heritage status']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Dan Ives , senior equity analyst at Wedbush Securities , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk 's reign as Twitter chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['original']
+entity:  ['chief']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Dan Ives , senior equity analyst at Wedbush Securities , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk 's reign as Twitter chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['original']
+entity:  ['chief executive']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The two other advertising partners for Twitter are 4As and Association of National Advertisers ( ANA ) .
+sentence type ['original']
+entity:  ['4As']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Today']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Supt Rance Det warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['mutant']
+entity:  ['Supt']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Supt Rance Det warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['mutant']
+entity:  ['Det']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Supt Rance Det warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['mutant']
+entity:  ['Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Whilst across Hogmanay and New Year 's Day we 're seeing an improving picture , we 'll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['original']
+entity:  ['Bells']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['YouTube']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Governor Joe Biden , who spoke to Hochul on Monday , said the US president had offered the full force of the federal government to support New York state .
+sentence type ['mutant']
+entity:  ['Hochul']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper GI is an extremely busy department and adopting Versius signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['original']
+entity:  ['Versius']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper GI is an extremely busy department and adopting Versius signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['original']
+entity:  ['GI']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['10 %']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['10 % +']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Ginger cat Lupin and black cat Garfield found fame at Sainsbury 's in Ely , Cambridgeshire , and Aldi in Haverhill , Suffolk .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FF
+sentence:  During a court recess one spoke about how they had lost money in the FTX collapse , with some participants saying they lost their life savings .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT

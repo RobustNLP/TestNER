@@ -1,0 +1,1600 @@
+sentence:  Over the next decade of the Tiangong 's operation , it is expected China will conduct two crewed missions to the station each year .
+sentence type ['mutant']
+entity:  ['next decade']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Monica Horten , of the Open Rights Group , which campaigns to defend digital rights and freedoms , said the bill created a Hobson 's choice about content for children .
+sentence type ['mutant']
+entity:  ['Hobson']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a German art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['mutant']
+entity:  ['German']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  In fact , offshore , using fewer , larger turbines results in savings benefits overall , including over the lifetime of the project , Mr Anderson said .
+sentence type ['mutant']
+entity:  ['over the lifetime']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The trust has reflected on many successful campaigns over the decades .
+sentence type ['mutant']
+entity:  ['successful campaigns']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  The council leader said he hoped the campaign will make some people sit back and relax twice before they direct hate towards councillors .
+sentence type ['mutant']
+entity:  ['people']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The council leader said he hoped the campaign will make some people sit back and relax twice before they direct hate towards councillors .
+sentence type ['mutant']
+entity:  ['some people']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  They somehow survive most of the red blood cells in the liver , so they 're removed from the blood plasma .
+sentence type ['mutant']
+entity:  ['red blood']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  They somehow survive most of the red blood cells in the liver , so they 're removed from the blood plasma .
+sentence type ['mutant']
+entity:  ['red blood cells']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  She wrote : The GCP proposals would see large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['mutant']
+entity:  ['large numbers of my constituents']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  She wrote : The GCP proposals would see large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['mutant']
+entity:  ['constituents']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  She wrote : The GCP proposals would see large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['mutant']
+entity:  ['large numbers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A planned new law would make sharing pornographic deepfakes without consent a crime in England and Wales .
+sentence type ['original']
+entity:  ['deepfakes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Experts are clear that we need to dump less carbon dioxide into the atmosphere to slow down the rate of change to our climate and yet the debates still rage about how to do that and the impact on our industries , energy supply and jobs .
+sentence type ['mutant']
+entity:  ['carbon']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  Elon Musk says Twitter will give a general amnesty to some suspended accounts from next week .
+sentence type ['mutant']
+entity:  ['suspended']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  More than one million investors had cryptocurrency stored on the FTX exchange and are owed money , which they may not get back .
+sentence type ['original']
+entity:  ['FTX exchange']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  More than one million investors had cryptocurrency stored on the FTX exchange and are owed money , which they may not get back .
+sentence type ['original']
+entity:  ['FTX']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: FF
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for people and help European companies grow .
+sentence type ['original']
+entity:  ['Commissioner']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for people and help European companies grow .
+sentence type ['original']
+entity:  ['Commissioner for the Internal Market']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for people and help European companies grow .
+sentence type ['original']
+entity:  ['the Internal Market']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  This means that a cricket coach can spot numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['mutant']
+entity:  ['numerous']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Experts are clear that we need to introduce less carbon dioxide into the atmosphere to slow down the rate of change to our climate and yet the debates still rage about how to do that and the impact on our industries , energy supply and jobs .
+sentence type ['mutant']
+entity:  ['carbon']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  The moves have alarmed some civil rights groups , who have accused the billionaire of taking steps that will reduce hate speech , misinformation and abuse .
+sentence type ['mutant']
+entity:  ['civil']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  ELMS is designed to support the EU 's common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['ELMS']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Water']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Guernsey']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Guernsey Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can enter to a world of virtual reality .
+sentence type ['mutant']
+entity:  ['Duchenne Muscular Dystrophy']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can enter to a world of virtual reality .
+sentence type ['mutant']
+entity:  ['Muscular Dystrophy']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can enter to a world of virtual reality .
+sentence type ['mutant']
+entity:  ['Duchenne']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The next Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Newport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The next Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Newport West']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The next Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Labour']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The next Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['West']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Over the next decade of the Tiangong 's operation , it is expected China will send two crewed missions to the station each year .
+sentence type ['mutant']
+entity:  ['next decade']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  The council leader said he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors .
+sentence type ['original']
+entity:  ['people']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The council leader said he hoped the campaign will make some people sit back and think twice before they direct hate towards councillors .
+sentence type ['original']
+entity:  ['some people']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  In contrast , the calm , cool spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['mutant']
+entity:  ['this year']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  In contrast , the calm , cool spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['mutant']
+entity:  ["this year 's"]
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  A key part of the plan is to cut greenhouse gas emissions and reduce the nation 's dependence on imported fossil fuels , which account for 40 % of the country 's foreign exchange expenditure .
+sentence type ['original']
+entity:  ['40 % of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A key part of the plan is to cut greenhouse gas emissions and reduce the nation 's dependence on imported fossil fuels , which account for 40 % of the country 's foreign exchange expenditure .
+sentence type ['original']
+entity:  ['40 % of the']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  These citizen scientists are asked to describe the types of sharks , skates and rays they see , helping to save researchers lots of time and effort .
+sentence type ['mutant']
+entity:  ['effort']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The council has also applied for government funding to carry out feasibility studies to launch two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['original']
+entity:  ['hundreds of homes']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  The council has also applied for government funding to carry out feasibility studies to launch two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['original']
+entity:  ['hundreds of homes and businesses']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The council has also applied for government funding to carry out feasibility studies to launch two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['original']
+entity:  ['businesses']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking later on Monday , US state department spokesperson Ned Price said Putin 's statement was the height of irony given he was currently seeking to flee Ukraine .
+sentence type ['mutant']
+entity:  ['Ukraine']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area 's taking part in a government trial featuring Elon Musk 's Starlink , which uses satellites to bounce a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Record avian flu outbreak sees mass cull in UK , EU .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Record avian flu outbreak sees mass cull in UK , EU .
+sentence type ['original']
+entity:  ['UK ,']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Meanwhile , engineers worked through the night to clear a landslip on the line just south of Markinch station in Fife .
+sentence type ['original']
+entity:  ['night']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  He added : World Heritage site status for the Flow Country would shine a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['original']
+entity:  ['Heritage']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  He added : World Heritage site status for the Flow Country would shine a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['original']
+entity:  ['World Heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  He added : World Heritage site status for the Flow Country would shine a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['original']
+entity:  ['World']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  However , mild winter events such as these do not have the same human impact as summer heatwaves , which can result in large numbers of excess deaths .
+sentence type ['mutant']
+entity:  ['excess']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Only now do we realize that the emperor had no clothes , attorney James Bromley said , describing the situation as one of most abrupt and difficult collapses in the history of corporate America .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a second different option .
+sentence type ['mutant']
+entity:  ['large numbers']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a second different option .
+sentence type ['mutant']
+entity:  ['large numbers of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to meet gas power shortages caused by the war in Ukraine .
+sentence type ['mutant']
+entity:  ['vast amounts of water']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to meet gas power shortages caused by the war in Ukraine .
+sentence type ['mutant']
+entity:  ['vast amounts of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Take the summer when many of us were basking in glorious sunshine , dry rivers meant farmers in Fife were losing crops of vegetables and emergency meetings were being convened about whether to declare a food supply crisis .
+sentence type ['original']
+entity:  ['many']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Fibrus is delivering a scheme scheme in Northern Ireland known as Project Stratum .
+sentence type ['mutant']
+entity:  ['Project']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Fibrus is delivering a scheme scheme in Northern Ireland known as Project Stratum .
+sentence type ['mutant']
+entity:  ['Project Stratum']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  Fibrus is delivering a scheme scheme in Northern Ireland known as Project Stratum .
+sentence type ['mutant']
+entity:  ['Stratum']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Experts are clear that we need to put less carbon dioxide into the atmosphere to slow down the rate of change to our climate and yet the debates still rage about how to do that and the impact on our industries , energy supply and jobs .
+sentence type ['original']
+entity:  ['carbon']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  At the moment he likes to play my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['mutant']
+entity:  ['the Carrot']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NFF
+sentence:  This means that a cricket coach can play numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['original']
+entity:  ['numerous clips']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  This means that a cricket coach can play numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['original']
+entity:  ['numerous']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The moves have alarmed some civil rights groups , who have accused the billionaire of taking steps that will prevent hate speech , misinformation and abuse .
+sentence type ['mutant']
+entity:  ['civil']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to replace gas power shortages caused by the war in Ukraine .
+sentence type ['original']
+entity:  ['vast amounts of water']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to replace gas power shortages caused by the war in Ukraine .
+sentence type ['original']
+entity:  ['vast amounts of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  This means that a cricket coach can retrieve numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['mutant']
+entity:  ['numerous clips']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Speaking later on Monday , US state department spokesperson Ned Price said Putin 's statement was the height of irony given he was currently seeking to defect Ukraine .
+sentence type ['mutant']
+entity:  ['Ukraine']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Speaking later on Monday , US state department spokesperson Ned Price said Putin 's statement was the height of irony given he was currently seeking to absorb Ukraine .
+sentence type ['original']
+entity:  ['Ukraine']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  A planned new law would make sharing video deepfakes without consent a crime in England and Wales .
+sentence type ['mutant']
+entity:  ['deepfakes']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The other Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Newport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The other Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Newport West']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The other Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['Labour']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  The other Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['mutant']
+entity:  ['West']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  For anyone who remembers the Brexit debates in Parliament , or the PMQs from earlier this year , this display of mutual goodwill will feel very unfamiliar .
+sentence type ['original']
+entity:  ['PMQs']
+ori_prediction:  ['EVENT']
+new_prediction:  ['EVENT']
+evaluation: NTT
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['original']
+entity:  ['German']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Colin explains : One of the original founding programmers at DMA , Mike Dailly , was basically doing a tech experiment as a way of showing how buildings could look in 3D from top down with a little bit of perspective .
+sentence type ['original']
+entity:  ['3D']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  He did n't choose to study China .
+sentence type ['original']
+entity:  ['China']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  Over the next decade of the Tiangong 's operation , it is expected China will launch two crewed missions to the station each year .
+sentence type ['original']
+entity:  ['next decade']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  The trust has reflected on numerous successful campaigns over the decades .
+sentence type ['original']
+entity:  ['successful campaigns']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  We are using everything we possibly can to help and support them and quite a number of them speak quite good English , Mr Rice said .
+sentence type ['original']
+entity:  ['a number of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  We are using everything we possibly can to help and support them and quite a number of them speak quite good English , Mr Rice said .
+sentence type ['original']
+entity:  ['a number of them']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  The best time to view the spectacle is shortly after sunset .
+sentence type ['mutant']
+entity:  ['sunset']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FF
+sentence:  A vast area of eastern in Scotland 's Flow Country could become one of Unesco 's newest World Heritage sites .
+sentence type ['mutant']
+entity:  ['Flow Country']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: FT
+sentence:  A vast area of eastern in Scotland 's Flow Country could become one of Unesco 's newest World Heritage sites .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  ELMS is designed to replace the EU 's common agricultural policy ( CAP ) .
+sentence type ['original']
+entity:  ['CAP']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  ELMS is designed to replace the EU 's common agricultural policy ( CAP ) .
+sentence type ['original']
+entity:  ['ELMS']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would boost innovative services for people and help European companies grow .
+sentence type ['mutant']
+entity:  ['Commissioner']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would boost innovative services for people and help European companies grow .
+sentence type ['mutant']
+entity:  ['Commissioner for the Internal Market']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would boost innovative services for people and help European companies grow .
+sentence type ['mutant']
+entity:  ['the Internal Market']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Sources told the newspaper concern over the operation had made the Pentagon complete a manual audit of how the US military conducted clandestine information warfare .
+sentence type ['mutant']
+entity:  ['US']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['OTHER']
+evaluation: FF
+sentence:  Sources told the newspaper concern over the operation had made the Pentagon complete a manual audit of how the US military conducted clandestine information warfare .
+sentence type ['mutant']
+entity:  ['US military']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to use their phones to full effect in the sky .
+sentence type ['original']
+entity:  ['European Union']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NFF
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to use their phones to full effect in the sky .
+sentence type ['original']
+entity:  ['Union']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to use their phones to full effect in the sky .
+sentence type ['original']
+entity:  ['European']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Claire Lincoln , senior research physiotherapist at the hospital , said patients using the machine could see a lot more before becoming too tired .
+sentence type ['mutant']
+entity:  ['a lot']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Claire Lincoln , senior research physiotherapist at the hospital , said patients using the machine could see a lot more before becoming too tired .
+sentence type ['mutant']
+entity:  ['a lot more']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  ELMS is designed to address the EU 's common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['ELMS']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  However , warm winter events such as these do not have the same human impact as summer heatwaves , which can result in large numbers of excess deaths .
+sentence type ['original']
+entity:  ['excess']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Guernsey Water said households should be able to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Guernsey Water said households should be able to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Guernsey']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Guernsey Water said households should be able to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Guernsey Water']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  In contrast , the calm , dry spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['original']
+entity:  ['this year']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  In contrast , the calm , dry spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['original']
+entity:  ["this year 's"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In response to news of the legal challenge , the Department of Levelling Up , Housing and Communities said in a statement : The secretary of state has agreed to grant planning permission for a new metallurgical coal mine in Cumbria as recommended by the chief planning inspector .
+sentence type ['mutant']
+entity:  ['inspector']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Fibrus is delivering a similar scheme in Northern Ireland known as Project Stratum .
+sentence type ['original']
+entity:  ['Project']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Fibrus is delivering a similar scheme in Northern Ireland known as Project Stratum .
+sentence type ['original']
+entity:  ['Project Stratum']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  Fibrus is delivering a similar scheme in Northern Ireland known as Project Stratum .
+sentence type ['original']
+entity:  ['Stratum']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  We are using everything we possibly can to help and protect them and quite a number of them speak quite good English , Mr Rice said .
+sentence type ['mutant']
+entity:  ['a number of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  We are using everything we possibly can to help and protect them and quite a number of them speak quite good English , Mr Rice said .
+sentence type ['mutant']
+entity:  ['a number of them']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  At the moment he likes to stay my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['mutant']
+entity:  ['the Carrot']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NFF
+sentence:  He has said he intends to stay on his own platform , Truth Social , although this has a fraction of the audience of Twitter .
+sentence type ['original']
+entity:  ['Truth Social']
+ori_prediction:  ['NULL']
+new_prediction:  ['TITLE']
+evaluation: FF
+sentence:  A few places could rise 40 to 60 mm ( 1 .
+sentence type ['mutant']
+entity:  ['1']
+ori_prediction:  ['OTHER']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  If you 're a Republican , you might want your Republican nominee to control the media to the best of their ability , he says .
+sentence type ['mutant']
+entity:  ['Republican']
+ori_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+new_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+evaluation: NFF
+evaluation: NTT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to win local support for the formal bid .
+sentence type ['mutant']
+entity:  ['past few years']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to win local support for the formal bid .
+sentence type ['mutant']
+entity:  ['the past few years']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  The council has also applied for government funding to carry out feasibility studies to establish two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['mutant']
+entity:  ['hundreds of homes']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  The council has also applied for government funding to carry out feasibility studies to establish two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['mutant']
+entity:  ['hundreds of homes and businesses']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The council has also applied for government funding to carry out feasibility studies to establish two heat networks , which could provide heat for hundreds of homes and businesses in the town .
+sentence type ['mutant']
+entity:  ['businesses']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In contrast , the calm , clear spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['mutant']
+entity:  ['this year']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  In contrast , the calm , clear spring weather resulted in a few success stories , especially for this year 's apple harvest due to the lack of late frosts and blossom lasting on the trees for longer .
+sentence type ['mutant']
+entity:  ["this year 's"]
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by prior delays to the passing of the new Online Safety Bill .
+sentence type ['mutant']
+entity:  ['Safety Bill']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by prior delays to the passing of the new Online Safety Bill .
+sentence type ['mutant']
+entity:  ['Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by prior delays to the passing of the new Online Safety Bill .
+sentence type ['mutant']
+entity:  ['Bill']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['original']
+entity:  ['large numbers']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['original']
+entity:  ['large numbers of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['original']
+entity:  ['large numbers of my constituents']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  She wrote : The GCP proposals would leave large numbers of my constituents worse off and fundamentally , the GCP plans would charge people for driving their vehicles into Cambridge and parts of South Cambridgeshire without offering them a viable different option .
+sentence type ['original']
+entity:  ['constituents']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  This gives us a real chance to protect these patients , and the ZeroG system will be instrumental in this work .
+sentence type ['mutant']
+entity:  ['ZeroG']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['original']
+entity:  ['Twitter HQ']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  With a bit of care , it has been possible to create an experience on Twitter that is generally pleasant .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['TITLE']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Critics question the positive environmental impact of the Outlander as , in hilly Kigali , it can only manage about 50 km to 70 km ( 30 to 44 miles ) on battery power alone .
+sentence type ['original']
+entity:  ['Outlander']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['LOCATION']
+evaluation: FF
+sentence:  ELMS is designed to implement the EU 's common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['CAP']
+ori_prediction:  ['TITLE']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  ELMS is designed to implement the EU 's common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['ELMS']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  In 2020 , UK mobile networks were ordered to replace out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['mutant']
+entity:  ['all']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the moment he likes to visit my neighbour and play his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['mutant']
+entity:  ['Carrot']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  She plans to post the photographs on her Instagram page at the end of the year .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  Dai Whittingham , chief executive of the UK Flight Safety Committee , told the BBC that airplane mode was historically secondary due to a lack of knowledge about how mobile devices affect aircraft .
+sentence type ['mutant']
+entity:  ['chief']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Dai Whittingham , chief executive of the UK Flight Safety Committee , told the BBC that airplane mode was historically secondary due to a lack of knowledge about how mobile devices affect aircraft .
+sentence type ['mutant']
+entity:  ['chief executive']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  With cats like this , the usual developmental pattern in the very early weeks did n't happen and while he wants to hunt and retrieve things , he 's become fixated on toys which he thinks of as prey .
+sentence type ['mutant']
+entity:  ['early weeks']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  With cats like this , the usual developmental pattern in the very early weeks did n't happen and while he wants to hunt and retrieve things , he 's become fixated on toys which he thinks of as prey .
+sentence type ['mutant']
+entity:  ['early']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many customers used their FTX token wallets like bank accounts , expecting their funds to be safe .
+sentence type ['mutant']
+entity:  ['FTX']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NFF
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by repeated delays to the passing of the new Online Safety Bill .
+sentence type ['original']
+entity:  ['Safety Bill']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by repeated delays to the passing of the new Online Safety Bill .
+sentence type ['original']
+entity:  ['Safety']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The parents of teenagers Molly Russell and Olly Stephens said they were frustrated by repeated delays to the passing of the new Online Safety Bill .
+sentence type ['original']
+entity:  ['Bill']
+ori_prediction:  ['TITLE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area 's taking part in a government trial featuring Elon Musk 's Starlink , which uses satellites to beam a broadband signal down to Earth .
+sentence type ['original']
+entity:  ['Starlink']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  This means that a cricket coach can see numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['mutant']
+entity:  ['numerous clips']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Take the summer when many of us were basking in glorious sunshine , dry rivers meant farmers in Fife were losing crops of vegetables and emergency meetings were being convened about whether to face a food supply crisis .
+sentence type ['mutant']
+entity:  ['many']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to display their phones to full effect in the sky .
+sentence type ['mutant']
+entity:  ['European Union']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOCATION']
+evaluation: FF
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to display their phones to full effect in the sky .
+sentence type ['mutant']
+entity:  ['Union']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Airline passengers in the European Union ( EU ) will soon be able to display their phones to full effect in the sky .
+sentence type ['mutant']
+entity:  ['European']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to achieve the 100 mark by the end of 2023 .
+sentence type ['mutant']
+entity:  ['100 mark']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to achieve the 100 mark by the end of 2023 .
+sentence type ['mutant']
+entity:  ['100']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The best time to enjoy the spectacle is shortly after sunset .
+sentence type ['mutant']
+entity:  ['sunset']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FF
+sentence:  Critics question the potential environmental impact of the Outlander as , in hilly Kigali , it can only manage about 50 km to 70 km ( 30 to 44 miles ) on battery power alone .
+sentence type ['mutant']
+entity:  ['Outlander']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NFF
+sentence:  A vast area of peatbog in Scotland 's Flow Country could become one of Unesco 's newest World Heritage sites .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A vast area of peatbog in Scotland 's Flow Country could become one of Unesco 's newest World Heritage sites .
+sentence type ['original']
+entity:  ['Flow Country']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['LOCATION']
+evaluation: NTT
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a rare fish species .
+sentence type ['original']
+entity:  ['Chester Zoo']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a rare fish species .
+sentence type ['original']
+entity:  ['Chester']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a rare fish species .
+sentence type ['original']
+entity:  ['Zoo']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area 's taking part in a government trial featuring Elon Musk 's Starlink , which uses satellites to send a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  Monica Horten , of the Open Rights Group , which campaigns to preserve digital rights and freedoms , said the bill created a Hobson 's choice about content for children .
+sentence type ['original']
+entity:  ['Hobson']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Picking up a lump of snow from the slope , he held it out : not fluffy snow powder , but a lump of dripping slush .
+sentence type ['mutant']
+entity:  ['of snow']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Katie McKenzie feels raising awareness of disordered eating is important because it 's actually a lot more common than eating disorders themselves as diagnosable conditions .
+sentence type ['original']
+entity:  ['a lot more']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Katie McKenzie feels raising awareness of disordered eating is important because it 's actually a lot more important than eating disorders themselves as diagnosable conditions .
+sentence type ['mutant']
+entity:  ['a lot more']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: TT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to secure local support for the formal bid .
+sentence type ['original']
+entity:  ['past few years']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to secure local support for the formal bid .
+sentence type ['original']
+entity:  ['the past few years']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Elon Musk says Twitter will provide a general amnesty to some suspended accounts from next week .
+sentence type ['original']
+entity:  ['suspended']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can escape to a world of virtual reality .
+sentence type ['original']
+entity:  ['Duchenne Muscular Dystrophy']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can escape to a world of virtual reality .
+sentence type ['original']
+entity:  ['Muscular Dystrophy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The children 's hospice in south Wales where Seth receives care for his condition Duchenne Muscular Dystrophy has a games room where he can escape to a world of virtual reality .
+sentence type ['original']
+entity:  ['Duchenne']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Colin explains : One of the original founding programmers at DMA , Mike Dailly , was basically doing a map experiment as a way of showing how buildings could look in 3D from top down with a little bit of perspective .
+sentence type ['mutant']
+entity:  ['3D']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  More than one million investors had cryptocurrency stored on the FTX exchange and are owed money , which they may not pay back .
+sentence type ['mutant']
+entity:  ['FTX exchange']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  More than one million investors had cryptocurrency stored on the FTX exchange and are owed money , which they may not pay back .
+sentence type ['mutant']
+entity:  ['FTX']
+ori_prediction:  ['OTHER']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Monica Horten , of the Open Rights Group , which campaigns to protect digital rights and freedoms , said the bill created a Hobson 's choice about content for children .
+sentence type ['mutant']
+entity:  ['Hobson']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to gain local support for the formal bid .
+sentence type ['mutant']
+entity:  ['past few years']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The idea of securing this status has been around since the late 1980s , but over the past few years The Flow Country Partnership has been leading work to gain local support for the formal bid .
+sentence type ['mutant']
+entity:  ['the past few years']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  A key part of the plan is to decrease greenhouse gas emissions and reduce the nation 's dependence on imported fossil fuels , which account for 40 % of the country 's foreign exchange expenditure .
+sentence type ['mutant']
+entity:  ['40 % of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A key part of the plan is to decrease greenhouse gas emissions and reduce the nation 's dependence on imported fossil fuels , which account for 40 % of the country 's foreign exchange expenditure .
+sentence type ['mutant']
+entity:  ['40 % of the']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: TT
+sentence:  A few places could accommodate 40 to 60 mm ( 1 .
+sentence type ['mutant']
+entity:  ['1']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  While you 're a student living up in Queen 's , you do n't get to met the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['mutant']
+entity:  ['Handy']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you 're a student living up in Queen 's , you do n't get to met the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  These citizen scientists are asked to log the types of sharks , skates and rays they see , helping to save researchers lots of time and effort .
+sentence type ['original']
+entity:  ['effort']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Sources told the newspaper concern over the operation had made the Pentagon complete a sweeping audit of how the US military conducted clandestine information warfare .
+sentence type ['original']
+entity:  ['US']
+ori_prediction:  ['NULL']
+new_prediction:  ['OTHER']
+evaluation: TF
+sentence:  Sources told the newspaper concern over the operation had made the Pentagon complete a sweeping audit of how the US military conducted clandestine information warfare .
+sentence type ['original']
+entity:  ['US military']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  However , officers claimed no guests had yet complained and added it had helped foster up dialogue .
+sentence type ['mutant']
+entity:  ['no guests']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  However , officers claimed no guests had yet complained and added it had helped foster up dialogue .
+sentence type ['mutant']
+entity:  ['guests']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In 2020 , UK mobile networks were ordered to pull out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['mutant']
+entity:  ['all']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  With a bit of care , it has been possible to curate an experience on Twitter that is generally pleasant .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['DATE']
+evaluation: TF
+sentence:  He added : World Heritage site status for the Flow Country would shed a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['mutant']
+entity:  ['World Heritage']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NFF
+sentence:  He added : World Heritage site status for the Flow Country would shed a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['mutant']
+entity:  ['Heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He added : World Heritage site status for the Flow Country would shed a brighter light on peatlands globally , prompting fresh efforts to conserve , restore and research these landscapes in other parts of the world .
+sentence type ['mutant']
+entity:  ['World']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  On Sunday Derrick Johnson , president of NAACP , tweeted that any advertiser still funding Twitter should immediately end all advertising now .
+sentence type ['mutant']
+entity:  ['all advertising']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Leftover Christmas pudding will usually survive for up to two weeks if refrigerated , according to Nigella Lawson 's website , while US nutrition website Eat Right says that you can keep stuffing in the fridge for up to three or four days .
+sentence type ['mutant']
+entity:  ['up']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY', 'QUANTITY']
+evaluation: NFF
+evaluation: TF
+sentence:  A few places could get 40 to 60 mm ( 1 .
+sentence type ['original']
+entity:  ['1']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Meanwhile , engineers worked through the night to prevent a landslip on the line just south of Markinch station in Fife .
+sentence type ['mutant']
+entity:  ['night']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: 
+sentence:  He has said he intends to launch on his own platform , Truth Social , although this has a fraction of the audience of Twitter .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['TITLE']
+new_prediction:  ['TITLE']
+evaluation: NFF
+sentence:  In 2020 , UK mobile networks were ordered to strip out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['original']
+entity:  ['all']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  With cats like this , the normal developmental pattern in the very early weeks did n't happen and while he wants to hunt and retrieve things , he 's become fixated on toys which he thinks of as prey .
+sentence type ['original']
+entity:  ['early weeks']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  With cats like this , the normal developmental pattern in the very early weeks did n't happen and while he wants to hunt and retrieve things , he 's become fixated on toys which he thinks of as prey .
+sentence type ['original']
+entity:  ['early']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The best time to see the spectacle is shortly after sunset .
+sentence type ['original']
+entity:  ['sunset']
+ori_prediction:  ['DATE']
+new_prediction:  ['QUANTITY']
+evaluation: FF
+sentence:  At the moment he likes to visit my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['original']
+entity:  ['the Carrot']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the moment he likes to visit my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['original']
+entity:  ['Carrot']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: TF
+sentence:  Claire Lincoln , senior research physiotherapist at the hospital , said patients using the machine could do a lot more before becoming too tired .
+sentence type ['original']
+entity:  ['a lot']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Claire Lincoln , senior research physiotherapist at the hospital , said patients using the machine could do a lot more before becoming too tired .
+sentence type ['original']
+entity:  ['a lot more']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Colin explains : One of the original founding programmers at DMA , Mike Dailly , was basically doing a demo experiment as a way of showing how buildings could look in 3D from top down with a little bit of perspective .
+sentence type ['mutant']
+entity:  ['3D']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  On Sunday Derrick Johnson , president of NAACP , tweeted that any advertiser still funding Twitter should immediately pause all advertising now .
+sentence type ['original']
+entity:  ['all advertising']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Also speaking to MPs , Paul Kelly , the owner of a turkey hatchery that supplies farms around the UK , told the committee : I think it will just be a warning issue rather than the prices being hiked .
+sentence type ['mutant']
+entity:  ['turkey']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The local Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['original']
+entity:  ['Newport']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The local Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['original']
+entity:  ['Newport West']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The local Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['original']
+entity:  ['Labour']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  The local Labour MP , Newport West 's Ruth Jones , is backing moves by Nexperia to appeal .
+sentence type ['original']
+entity:  ['West']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  This gives us a real chance to help these patients , and the ZeroG system will be instrumental in this work .
+sentence type ['original']
+entity:  ['ZeroG']
+ori_prediction:  ['TITLE']
+new_prediction:  ['OTHER']
+evaluation: FT
+sentence:  However , extreme winter events such as these do not have the same human impact as summer heatwaves , which can result in large numbers of excess deaths .
+sentence type ['mutant']
+entity:  ['excess']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Guernsey Water said households should be sure to remove any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Guernsey Water said households should be sure to remove any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Guernsey']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Guernsey Water said households should be sure to remove any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['mutant']
+entity:  ['Guernsey Water']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  In response to news of the legal challenge , the Department of Levelling Up , Housing and Communities said in a statement : The secretary of state has agreed to grant planning permission for a new metallurgical coal mine in Cumbria as recommended by the independent planning inspector .
+sentence type ['original']
+entity:  ['inspector']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Dai Whittingham , chief executive of the UK Flight Safety Committee , told the BBC that airplane mode was historically important due to a lack of knowledge about how mobile devices affect aircraft .
+sentence type ['original']
+entity:  ['chief']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Dai Whittingham , chief executive of the UK Flight Safety Committee , told the BBC that airplane mode was historically important due to a lack of knowledge about how mobile devices affect aircraft .
+sentence type ['original']
+entity:  ['chief executive']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Mr Coughlan said his company will make the NuCell that will generate power for the National Grid .
+sentence type ['original']
+entity:  ['NuCell']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NTT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will grow or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will grow or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['mutant']
+entity:  ['Twitter HQ']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FT
+sentence:  Leftover Christmas pudding will usually keep for up to two weeks if refrigerated , according to Nigella Lawson 's website , while US nutrition website Eat Right says that you can keep stuffing in the fridge for up to three or four days .
+sentence type ['original']
+entity:  ['up']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY', 'QUANTITY']
+evaluation: TF
+evaluation: TF
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to pass the 100 mark by the end of 2023 .
+sentence type ['mutant']
+entity:  ['100 mark']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to pass the 100 mark by the end of 2023 .
+sentence type ['mutant']
+entity:  ['100']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  This means that a cricket coach can have numerous clips of a certain shot , without having to laboriously go through all the footage to first find them .
+sentence type ['mutant']
+entity:  ['numerous']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Mr Coughlan said his company will develop the NuCell that will generate power for the National Grid .
+sentence type ['mutant']
+entity:  ['NuCell']
+ori_prediction:  ['OTHER']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: FT
+sentence:  The reasons for the secretary of state 's decision are set out in full in his published letter , alongside the report of the independent planning inspector who oversaw the inquiry into the proposal .
+sentence type ['original']
+entity:  ['inspector']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Record avian flu outbreak sees flu cull in UK , EU .
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Record avian flu outbreak sees flu cull in UK , EU .
+sentence type ['mutant']
+entity:  ['UK ,']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to solve gas power shortages caused by the war in Ukraine .
+sentence type ['mutant']
+entity:  ['vast amounts of water']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That uses up vast amounts of water , which is not ideal when Switzerland has been carefully preserving water this winter in order to be able to generate enough hydropower to solve gas power shortages caused by the war in Ukraine .
+sentence type ['mutant']
+entity:  ['vast amounts of']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you 're a student living up in Queen 's , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['original']
+entity:  ['Handy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  While you 're a student living up in Queen 's , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it 's fantastic .
+sentence type ['original']
+entity:  ['Handy Helpers']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NTT
+sentence:  They somehow pack most of the red blood cells in the liver , so they 're removed from the blood plasma .
+sentence type ['original']
+entity:  ['red blood']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  They somehow pack most of the red blood cells in the liver , so they 're removed from the blood plasma .
+sentence type ['original']
+entity:  ['red blood cells']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  She plans to publish the photographs on her Instagram page at the end of the year .
+sentence type ['original']
+entity:  ['Instagram']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['TITLE']
+evaluation: TF
+sentence:  For anyone who remembers the Brexit debates in Parliament , or the PMQs from earlier this year , this display of mutual goodwill will remain very unfamiliar .
+sentence type ['mutant']
+entity:  ['PMQs']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Picking up a lump of snow from the slope , he held it out : not fluffy white powder , but a lump of dripping slush .
+sentence type ['original']
+entity:  ['of snow']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  If you 're a Republican , you might want your Republican nominee to use the media to the best of their ability , he says .
+sentence type ['original']
+entity:  ['Republican']
+ori_prediction:  ['OTHER', 'ORGANIZATION']
+new_prediction:  ['ORGANIZATION', 'ORGANIZATION']
+evaluation: TF
+evaluation: NTT
+sentence:  Also speaking to MPs , Paul Kelly , the owner of a turkey hatchery that supplies farms around the UK , told the committee : I think it will just be a supply issue rather than the prices being hiked .
+sentence type ['original']
+entity:  ['turkey']
+ori_prediction:  ['OTHER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a extinct fish species .
+sentence type ['mutant']
+entity:  ['Chester Zoo']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORGANIZATION']
+evaluation: FF
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a extinct fish species .
+sentence type ['mutant']
+entity:  ['Chester']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Hollywood star Leonardo DiCaprio recently praised Chester Zoo for its conservation work in helping to resurrecting a extinct fish species .
+sentence type ['mutant']
+entity:  ['Zoo']
+ori_prediction:  ['LOCATION']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The reasons for the secretary of state 's decision are set out in full in his published letter , alongside the report of the chief planning inspector who oversaw the inquiry into the proposal .
+sentence type ['mutant']
+entity:  ['inspector']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Many customers used their FTX digital wallets like bank accounts , expecting their funds to be safe .
+sentence type ['original']
+entity:  ['FTX']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['COMMERCIAL_ITEM']
+evaluation: NFF
+sentence:  The moves have alarmed some civil rights groups , who have accused the billionaire of taking steps that will increase hate speech , misinformation and abuse .
+sentence type ['original']
+entity:  ['civil']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['OTHER']
+evaluation: FF
+sentence:  These citizen scientists are asked to record the types of sharks , skates and rays they see , helping to save researchers lots of time and effort .
+sentence type ['mutant']
+entity:  ['effort']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FF
+sentence:  These citizen scientists are asked to identify the types of sharks , skates and rays they see , helping to save researchers lots of time and effort .
+sentence type ['mutant']
+entity:  ['effort']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FF
+sentence:  However , officers claimed no guests had yet complained and added it had helped open up dialogue .
+sentence type ['original']
+entity:  ['no guests']
+ori_prediction:  ['NULL']
+new_prediction:  ['QUANTITY']
+evaluation: FT
+sentence:  However , officers claimed no guests had yet complained and added it had helped open up dialogue .
+sentence type ['original']
+entity:  ['guests']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to hit the 100 mark by the end of 2023 .
+sentence type ['original']
+entity:  ['100 mark']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Thanks to a spike in interest during and since the Covid pandemic , organisers hope to hit the 100 mark by the end of 2023 .
+sentence type ['original']
+entity:  ['100']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In fact , offshore , using fewer , larger turbines results in environmental benefits overall , including over the lifetime of the project , Mr Anderson said .
+sentence type ['original']
+entity:  ['over the lifetime']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  At the moment he likes to be my neighbour and steal his cats ' Kevin the Carrot soft toys , Ms Drouet says .
+sentence type ['mutant']
+entity:  ['the Carrot']
+ori_prediction:  ['COMMERCIAL_ITEM']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Only now do we remember that the emperor had no clothes , attorney James Bromley said , describing the situation as one of most abrupt and difficult collapses in the history of corporate America .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Only now do we realise that the emperor had no clothes , attorney James Bromley said , describing the situation as one of most abrupt and difficult collapses in the history of corporate America .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Colin explains : One of the original founding programmers at DMA , Mike Dailly , was basically doing a tech experiment as a way of showing how buildings could appear in 3D from top down with a little bit of perspective .
+sentence type ['mutant']
+entity:  ['3D']
+ori_prediction:  ['OTHER']
+new_prediction:  ['OTHER']
+evaluation: NTT
+sentence:  He did n't choose to die China .
+sentence type ['mutant']
+entity:  ['China']
+ori_prediction:  ['ORGANIZATION']
+new_prediction:  ['ORGANIZATION']
+evaluation: NFF
+sentence:  A vast area of western in Scotland 's Flow Country could become one of Unesco 's newest World Heritage sites .
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF

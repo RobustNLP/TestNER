@@ -1,0 +1,780 @@
+sentence:  We should not wait until it is large and connected to develop the regulatory frameworks necessary to prevent a crypto shock that could have a much greater destabilising impact .
+sentence type ['original']
+entity:  ['frameworks']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Google say its Android operating system offered a greater choice of apps and app stores than any other mobile platform ?
+sentence type ['mutant']
+entity:  ['mobile']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: TF
+sentence:  Is the Metropolitan Police sending text messages to mobile phone users it believes spoke with fraudsters pretending to be their bank ?
+sentence type ['mutant']
+entity:  ['bank']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FF
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['Jupiter']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  Did a family representative say he died at a hospital in Houston on Tuesday from natural causes after a full and complete life ?
+sentence type ['mutant']
+entity:  ['family']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NTT
+sentence:  The Nottinghamshire Wildlife Trust has been campaigning to protect the county 's green spaces and habitats since 1962 .
+sentence type ['original']
+entity:  ['green']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Det']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NFF
+sentence:  I just thought that I was being greedy .
+sentence type ['original']
+entity:  ['greedy']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Conservation charity Buglife want to restore habitats across The Marches to boost key species ?
+sentence type ['mutant']
+entity:  ['Conservation']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: TF
+sentence:  Emissions of carbon dioxide are a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect .
+sentence type ['original']
+entity:  ['effect']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Emissions of carbon dioxide are a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect .
+sentence type ['original']
+entity:  ['greenhouse effect']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Emissions of carbon dioxide are a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect .
+sentence type ['original']
+entity:  ['change']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NFF
+sentence:  Any sensible government should be choosing to leave coal in the ground and accelerating the transition to a safe , clean and sustainable future .
+sentence type ['original']
+entity:  ['government']
+ori_prediction:  ['Skill']
+new_prediction:  ['PersonType']
+evaluation: FF
+sentence:  A family representative said he died at a hospital in Houston on Tuesday from natural causes after a full and complete life .
+sentence type ['original']
+entity:  ['family']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Det']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  Lynne Bell said Love Learning was now propping up Gorgie Farm with £ 20 , 000 a month .
+sentence type ['original']
+entity:  ['Love Learning']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  A Somerset charity believes social media is contributing to poor mental health among the children it supports .
+sentence type ['original']
+entity:  ['media']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A Somerset charity believes social media is contributing to poor mental health among the children it supports .
+sentence type ['original']
+entity:  ['mental health']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Was he speaking to the UK parliamentary committee on the environment , food and rural affairs ?
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was he speaking to the UK parliamentary committee on the environment , food and rural affairs ?
+sentence type ['mutant']
+entity:  ['UK parliamentary']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  Was he speaking to the UK parliamentary committee on the environment , food and rural affairs ?
+sentence type ['mutant']
+entity:  ['parliamentary']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does their story match that of other Kenyans held in what the foreign ministry has called fraud factories and forced labour camps where their passports are normally confiscated and remain under the custody of the criminal gang ?
+sentence type ['mutant']
+entity:  ['criminal']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Elon Musk is having a similar effect on the platform .
+sentence type ['original']
+entity:  ['platform']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Did we 've had this paired sample strategy to ensure that we had one tube to put down in the depot and one tube to carry with us , explained Katie Stack Morgan , the deputy project scientist on Perseverance ?
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['Scientific Interest']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['Area of Special Scientific Interest']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  He has bought a new barn with the online revenue , and invested in premium camera kit , including a drone for aerial shots .
+sentence type ['original']
+entity:  ['aerial']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  Their story matches that of other Kenyans held in what the foreign ministry has called fraud factories and forced labour camps where their passports are normally confiscated and remain under the custody of the criminal gang .
+sentence type ['original']
+entity:  ['criminal']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NFF
+sentence:  Did Lewis Shields , 21 , add that the course has been a real eye opener to the business world surrounding esports ?
+sentence type ['mutant']
+entity:  ['business']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Are WWF Scotland and RSPB Scotland among those watching the world heritage bid closely ?
+sentence type ['mutant']
+entity:  ['heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Erin McDaid , the trust 's head of communications , said the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 .
+sentence type ['original']
+entity:  ['communications']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Mr Musk , who bought Twitter for $ 44bn ( £ 36bn ) , said before the poll closed that he would abide by the result .
+sentence type ['original']
+entity:  ['poll']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  Has the Nottinghamshire Wildlife Trust been campaigning to protect the county 's green spaces and habitats since 1962 ?
+sentence type ['mutant']
+entity:  ['green']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Three Forks store guarantees something is available to pick up when the retrieval mission arrives .
+sentence type ['original']
+entity:  ['store']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Should any sensible government be choosing to leave coal in the ground and accelerating the transition to a safe , clean and sustainable future ?
+sentence type ['mutant']
+entity:  ['government']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FF
+sentence:  Does he have bought a new barn with the online revenue , and invested in premium camera kit , including a drone for aerial shots ?
+sentence type ['mutant']
+entity:  ['aerial']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does this come as one of Twitter 's major advertising partners expresses doubts about its future with Twitter ?
+sentence type ['mutant']
+entity:  ['partners']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Felix Pangibitan run his hands through what is left of his precious rice crop ?
+sentence type ['mutant']
+entity:  ['rice']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Felix Pangibitan run his hands through what is left of his precious rice crop ?
+sentence type ['mutant']
+entity:  ['rice crop']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  More electricity came from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 .
+sentence type ['original']
+entity:  ['fossil']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Detectives have begun contacting 70 , 000 people suspected of being victims of a sophisticated banking scam .
+sentence type ['original']
+entity:  ['scam']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Her daughter , Edie Syta , told the Post that it 's possible her mother did not understand the severity of the storm warnings because she was not fluent in English .
+sentence type ['original']
+entity:  ['storm']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Welsh rugby lost another former captain and a legendary broadcaster when Eddie Butler died during a charity trek in Peru , aged 65 .
+sentence type ['original']
+entity:  ['Welsh']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: TF
+sentence:  Does a Somerset charity believe social media is contributing to poor mental health among the children it supports ?
+sentence type ['mutant']
+entity:  ['media']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does a Somerset charity believe social media is contributing to poor mental health among the children it supports ?
+sentence type ['mutant']
+entity:  ['mental health']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Was it valid from 14:00 on Tuesday until 06:00 on Wednesday ?
+sentence type ['mutant']
+entity:  ['06:00 on Wednesday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Was it valid from 14:00 on Tuesday until 06:00 on Wednesday ?
+sentence type ['mutant']
+entity:  ['14:00 on Tuesday until 06:00 on Wednesday']
+ori_prediction:  ['DateTime']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Was it valid from 14:00 on Tuesday until 06:00 on Wednesday ?
+sentence type ['mutant']
+entity:  ['14:00 on Tuesday']
+ori_prediction:  ['NULL']
+new_prediction:  ['DateTime']
+evaluation: FT
+sentence:  Is he also nominated at the same time for a Latin Grammy in the same category ?
+sentence type ['mutant']
+entity:  ['Latin Grammy']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Felix Pangibitan runs his hands through what is left of his precious rice crop .
+sentence type ['original']
+entity:  ['rice']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Felix Pangibitan runs his hands through what is left of his precious rice crop .
+sentence type ['original']
+entity:  ['rice crop']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The UN 's World Food Programme ( WFP ) has a target of getting emergency food aid to 2 .
+sentence type ['original']
+entity:  ['Programme']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did her daughter , Edie Syta , tell the Post that it 's possible her mother did not understand the severity of the storm warnings because she was not fluent in English ?
+sentence type ['mutant']
+entity:  ['storm']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It added that employment would be secured and grown across all trades , engineering disciplines and support professions in Cumbria for decades to come .
+sentence type ['original']
+entity:  ['support']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He is also nominated at the same time for a Latin Grammy in the same category .
+sentence type ['original']
+entity:  ['Latin Grammy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Is Elon Musk having a similar effect on the platform ?
+sentence type ['mutant']
+entity:  ['platform']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: TF
+sentence:  This comes as one of Twitter 's major advertising partners expresses doubts about its future with Twitter .
+sentence type ['original']
+entity:  ['partners']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  Does Russia plan to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region ?
+sentence type ['mutant']
+entity:  ['southern polar region']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Does Russia plan to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region ?
+sentence type ['mutant']
+entity:  ['polar region']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It was valid from 14:00 on Tuesday until 06:00 on Wednesday .
+sentence type ['original']
+entity:  ['06:00 on Wednesday']
+ori_prediction:  ['DateTime']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  It was valid from 14:00 on Tuesday until 06:00 on Wednesday .
+sentence type ['original']
+entity:  ['14:00 on Tuesday until 06:00 on Wednesday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It was valid from 14:00 on Tuesday until 06:00 on Wednesday .
+sentence type ['original']
+entity:  ['14:00 on Tuesday']
+ori_prediction:  ['DateTime']
+new_prediction:  ['DateTime']
+evaluation: NTT
+sentence:  Did the Meta official say the platform had implemented changes to reduce the potential for data to be scraped using phone numbers ?
+sentence type ['mutant']
+entity:  ['phone']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did the Meta official say the platform had implemented changes to reduce the potential for data to be scraped using phone numbers ?
+sentence type ['mutant']
+entity:  ['phone numbers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Mr Mousley , 45 , a former builder who now works in marketing , set up the Facebook group a month ago and already has more than 200 followers .
+sentence type ['original']
+entity:  ['Facebook']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: TF
+sentence:  Mr Mousley , 45 , a former builder who now works in marketing , set up the Facebook group a month ago and already has more than 200 followers .
+sentence type ['original']
+entity:  ['Facebook group']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Google said its Android operating system offered a greater choice of apps and app stores than any other mobile platform .
+sentence type ['original']
+entity:  ['mobile']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NFF
+sentence:  Have Detectives begun contacting 70 , 000 people suspected of being victims of a sophisticated banking scam ?
+sentence type ['mutant']
+entity:  ['scam']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He was speaking to the UK parliamentary committee on the environment , food and rural affairs .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He was speaking to the UK parliamentary committee on the environment , food and rural affairs .
+sentence type ['original']
+entity:  ['UK parliamentary']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  He was speaking to the UK parliamentary committee on the environment , food and rural affairs .
+sentence type ['original']
+entity:  ['parliamentary']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Are emissions of carbon dioxide a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect ?
+sentence type ['mutant']
+entity:  ['effect']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Are emissions of carbon dioxide a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect ?
+sentence type ['mutant']
+entity:  ['greenhouse effect']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  Are emissions of carbon dioxide a major contributor to climate change , because they act to trap the Earth 's heat in a phenomenon known as the greenhouse effect ?
+sentence type ['mutant']
+entity:  ['change']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Metropolitan Police is sending text messages to mobile phone users it believes spoke with fraudsters pretending to be their bank .
+sentence type ['original']
+entity:  ['bank']
+ori_prediction:  ['Location']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  Does the European Space Agency ( Esa ) , an organisation backed by 22 European countries , plan to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 ?
+sentence type ['mutant']
+entity:  ['Jupiter']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  The report simply calls for a clear end date for the new oil and gas licensing rounds in the North Sea so the government can continue to demonstrate its international climate leadership .
+sentence type ['original']
+entity:  ['leadership']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Conservation charity Buglife wants to restore habitats across The Marches to boost key species .
+sentence type ['original']
+entity:  ['Conservation']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The One Million Trees Project has the backing of planting organisations , landowners and Belfast City councillors .
+sentence type ['original']
+entity:  ['planting']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Russia plans to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region .
+sentence type ['original']
+entity:  ['southern polar region']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Russia plans to launch its Luna 25 mission in July 2023 , putting a probe on the Moon to gather samples from its southern polar region .
+sentence type ['original']
+entity:  ['polar region']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Are people in Guernsey making Christmas dinner being told to prevent fats or oils from going down the sink ?
+sentence type ['mutant']
+entity:  ['fats']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  Does the One Million Trees Project have the backing of planting organisations , landowners and Belfast City councillors ?
+sentence type ['mutant']
+entity:  ['planting']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  We are fortunate to have a strong supply chain for the nuclear industry in the Workington constituency .
+sentence type ['original']
+entity:  ['constituency']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['Scientific Interest']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['of']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NFF
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['Area of Special Scientific Interest']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  Meta says it is reviewing this decision carefully .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NFF
+sentence:  Are we fortunate to have a strong supply chain for the nuclear industry in the Workington constituency ?
+sentence type ['mutant']
+entity:  ['constituency']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Lucy Powell MP , Labour 's shadow culture secretary , criticised the decision to remove obligations over legal but harmful material .
+sentence type ['original']
+entity:  ['MP']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did welsh rugby lose another former captain and a legendary broadcaster when Eddie Butler died during a charity trek in Peru , aged 65 ?
+sentence type ['mutant']
+entity:  ['welsh']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NFF
+sentence:  Did news of the meeting with Apple come after Mr Musk was told he faced huge work ahead to bring Twitter into compliance with new European Union rules on disinformation or face a possible ban ?
+sentence type ['mutant']
+entity:  ['meeting']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Did Sir Jon , who is deputy governor for financial stability at the Bank , also say the recent volatility in the value of cryptocurrencies posed a threat ?
+sentence type ['mutant']
+entity:  ['financial']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Meta official said the platform had implemented changes to reduce the potential for data to be scraped using phone numbers .
+sentence type ['original']
+entity:  ['phone']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Meta official said the platform had implemented changes to reduce the potential for data to be scraped using phone numbers .
+sentence type ['original']
+entity:  ['phone numbers']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Will it be a challenge to Starlink , the satellite broadband service developed by Elon Musk ?
+sentence type ['mutant']
+entity:  ['broadband']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It was one of the reasons Belfast was listed as one of the world 's leading climate action cities in 2022 .
+sentence type ['original']
+entity:  ['climate action']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Lynne Bell say Love Learning was now propping up Gorgie Farm with £ 20 , 000 a month ?
+sentence type ['mutant']
+entity:  ['Love Learning']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  Mr Johnson said Cumbria County Council had brokered an agreement with Mr Hagan to give the peripatetic porkers a new home .
+sentence type ['original']
+entity:  ['home']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does the Three Forks store guarantee something is available to pick up when the retrieval mission arrives ?
+sentence type ['mutant']
+entity:  ['store']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did it add that employment would be secured and grown across all trades , engineering disciplines and support professions in Cumbria for decades to come ?
+sentence type ['mutant']
+entity:  ['support']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NFF
+sentence:  Does the report simply call for a clear end date for the new oil and gas licensing rounds in the North Sea so the government can continue to demonstrate its international climate leadership ?
+sentence type ['mutant']
+entity:  ['leadership']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Dr Mariel Purcell , consultant in spinal injuries , said that since he started his career 30 years ago more patients now had the potential to get back on their feet .
+sentence type ['original']
+entity:  ['injuries']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  We 've had this paired sample strategy to ensure that we had one tube to put down in the depot and one tube to carry with us , explained Katie Stack Morgan , the deputy project scientist on Perseverance .
+sentence type ['original']
+entity:  ['Perseverance']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Did I just think that I was being greedy ?
+sentence type ['mutant']
+entity:  ['greedy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  This vehicle incorporates the big thrusters needed to make manoeuvres .
+sentence type ['original']
+entity:  ['thrusters']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  Does Mr Mousley , 45 , a former builder who now works in marketing , set up the Facebook group a month ago and already have more than 200 followers ?
+sentence type ['mutant']
+entity:  ['Facebook']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Does Mr Mousley , 45 , a former builder who now works in marketing , set up the Facebook group a month ago and already have more than 200 followers ?
+sentence type ['mutant']
+entity:  ['Facebook group']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did Erin McDaid , the trust 's head of communications , say the charity was particularly proud of its role establishing the Attenborough Nature Reserve , near Beeston , in 1966 ?
+sentence type ['mutant']
+entity:  ['communications']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NTT
+sentence:  His simple heartfelt videos struck a chord across the Philippines , especially among the poorest communities which have been hit by multiple crises .
+sentence type ['original']
+entity:  ['crises']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NFF
+sentence:  Does the UN 's World Food Programme ( WFP ) have a target of getting emergency food aid to 2 ?
+sentence type ['mutant']
+entity:  ['Programme']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was it one of the reasons Belfast was listed as one of the world 's leading climate action cities in 2022 ?
+sentence type ['mutant']
+entity:  ['climate action']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does she feel she learned more from educational gaming than traditional schoolwork as it was a good way to advance motor , maths , English and history skills without it being boring ?
+sentence type ['mutant']
+entity:  ['educational']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does Meta say it is reviewing this decision carefully ?
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['Person']
+new_prediction:  ['Person']
+evaluation: NTT
+sentence:  WWF Scotland and RSPB Scotland are among those watching the world heritage bid closely .
+sentence type ['original']
+entity:  ['heritage']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  She feels she learned more from educational gaming than traditional schoolwork as it was a good way to advance motor , maths , English and history skills without it being boring .
+sentence type ['original']
+entity:  ['educational']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Sir Jon , who is deputy governor for financial stability at the Bank , also said the recent volatility in the value of cryptocurrencies posed a threat .
+sentence type ['original']
+entity:  ['financial']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Lucy Powell MP , Labour 's shadow culture secretary , criticise the decision to remove obligations over legal but harmful material ?
+sentence type ['mutant']
+entity:  ['MP']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It will be a challenge to Starlink , the satellite broadband service developed by Elon Musk .
+sentence type ['original']
+entity:  ['broadband']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Mr Musk , who bought Twitter for $ 44bn ( £ 36bn ) , say before the poll closed that he would abide by the result ?
+sentence type ['mutant']
+entity:  ['poll']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Did more electricity come from renewable and nuclear power sources than from fossil fuels gas and coal , the second highest after 2020 ?
+sentence type ['mutant']
+entity:  ['fossil']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Dr Mariel Purcell , consultant in spinal injuries , say that since he started his career 30 years ago more patients now had the potential to get back on their feet ?
+sentence type ['mutant']
+entity:  ['injuries']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation:  NTT
+sentence:  News of the meeting with Apple came after Mr Musk was told he faced huge work ahead to bring Twitter into compliance with new European Union rules on disinformation or face a possible ban .
+sentence type ['original']
+entity:  ['meeting']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  People in Guernsey making Christmas dinner are being told to prevent fats or oils from going down the sink .
+sentence type ['original']
+entity:  ['fats']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Does this vehicle incorporate the big thrusters needed to make manoeuvres ?
+sentence type ['mutant']
+entity:  ['thrusters']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Should we not wait until it is large and connected to develop the regulatory frameworks necessary to prevent a crypto shock that could have a much greater destabilising impact ?
+sentence type ['mutant']
+entity:  ['frameworks']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did his simple heartfelt videos strike a chord across the Philippines , especially among the poorest communities which have been hit by multiple crises ?
+sentence type ['mutant']
+entity:  ['crises']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: TF
+sentence:  Did Mr Johnson say Cumbria County Council had brokered an agreement with Mr Hagan to give the peripatetic porkers a new home ?
+sentence type ['mutant']
+entity:  ['home']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Lewis Shields , 21 , added that the course has been a real eye opener to the business world surrounding esports .
+sentence type ['original']
+entity:  ['business']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT

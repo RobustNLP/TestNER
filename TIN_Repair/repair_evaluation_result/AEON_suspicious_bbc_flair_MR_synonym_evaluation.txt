@@ -1,0 +1,1324 @@
+sentence:  Elon Musk has said Apple has halted most of its advertising on Twitter and accused the company of threatening to remove the platform from its app store .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Jessica Groves has called her entire project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['s Fish & Chips']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jessica Groves has called her entire project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['Fish & Chips']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The merger itself is currently under Federal investigation .
+sentence type ['original']
+entity:  ['Federal']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  His youtube channel , Farmer P , has 37 , 500 subscribers and some videos get hundreds of thousands of views .
+sentence type ['mutant']
+entity:  ['Farmer P']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  In 2021 , the company sued over Apple ' s commission for access to their app market , as the App Store is referred to in the case .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Norrie believes securing Unesco status could offer new opportunities in sustainable tourism and branding of good produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for people and help European companies grow .
+sentence type ['original']
+entity:  ['Internal Market']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Its reasonable debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['mutant']
+entity:  ['Hate']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Its reasonable debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['mutant']
+entity:  ['debate Not Hate']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the first zone in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['Nature Prescriptions']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  This windstorm is set to bring the iciest Christmas in decades , say forecasters .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Jessica Groves has called her project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['original']
+entity:  ['s Fish & Chips']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Jessica Groves has called her project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['original']
+entity:  ['Fish & Chips']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Jessica Groves has called her project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['original']
+entity:  ['Never Changing']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Department for Digital , Culture , Media & Sport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Culture , Media & Sport']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Department for Digital']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Rather than using rotor like Vertical Aerospace and Volocopter , Lilium uses 30 electric jets that can be tilted in unison to swing between vertical lift and forward flight .
+sentence type ['mutant']
+entity:  ['Vertical Aerospace']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  In 2020 , UK mobile networks were ordered to strip out good kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The families of Haftom and Makda have been seeking treatment in Mekelle , the capital of the Tigray region .
+sentence type ['original']
+entity:  ['Haftom']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  The families of Haftom and Makda have been seeking treatment in Mekelle , the capital of the Tigray region .
+sentence type ['original']
+entity:  ['Makda']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Rather than using axles like Vertical Aerospace and Volocopter , Lilium uses 30 electric jets that can be tilted in unison to swing between vertical lift and forward flight .
+sentence type ['mutant']
+entity:  ['Vertical Aerospace']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  This internal network originated in the United States , Meta wrote .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the bed sheets are washed they shed tiny plastic microfibres .
+sentence type ['mutant']
+entity:  ['UN']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the bed sheets are washed they shed tiny plastic microfibres .
+sentence type ['mutant']
+entity:  ['Environment Programme']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the bed sheets are washed they shed tiny plastic microfibres .
+sentence type ['mutant']
+entity:  ['UN Environment Programme']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  According to the Inquirer , the suspect cleaned out his father ' s gun safe , including reorganising firearms and sorting through ammunition , before the actual victim came over to watch a Netflix series together .
+sentence type ['mutant']
+entity:  ['Netflix']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  There ' s sufficient room in earth orbit for the solar power satellites , and the Sun ' s supply of energy is vast .
+sentence type ['mutant']
+entity:  ['Sun']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the factory in the outskirts of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  He has said he hopes to make money by turning Twitter verification into a paid subscription service , but currently the vast majority of the site ' s revenue comes from advertising .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The speech praises the government for its future success in managing the economy and implementing its ambitious plan for Brexit .
+sentence type ['mutant']
+entity:  ['Brexit']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the platform had largely remained the same or increased since the merger .
+sentence type ['mutant']
+entity:  ['Trust and Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the platform had largely remained the same or increased since the merger .
+sentence type ['mutant']
+entity:  ['and Safety']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The search terms in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+evaluation: TF
+sentence:  The Google search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+evaluation: TF
+sentence:  In a statement , Parlement Technologies said : The company has mutually agreed with Ye to terminate the intent of sale .
+sentence type ['original']
+entity:  ['Ye']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the factory in the city of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The speech praises the government for its success in managing the economy and implementing its ambitious plan for Brexit .
+sentence type ['original']
+entity:  ['Brexit']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  The US and other Western countries have made improvements to female education in Afghanistan a prior condition for the formal recognition of the Taliban government .
+sentence type ['original']
+entity:  ['Taliban']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  In 2020 , UK mobile networks were ordered to strip out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['original']
+entity:  ['5G']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  A high bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['mutant']
+entity:  ['Unesco World Heritage']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  A high bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['mutant']
+entity:  ['World Heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A high bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The feud comes as many companies have halted spending on Twitter amid concerns about Mr Musk ' s content moderation plans for the site .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more many people were putting devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  In 2021 , the company sued over Apple ' s commission for complete access to their walled garden , as the App Store is referred to in the case .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['Newport West Labour']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['Newport']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['West Labour']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  For those stuck at home , a film about the campaign to save a Carmarthen cinema hit the small screen and leading Flintshire actor Jonathan Pryce would later receive a knighthood from the Queen .
+sentence type ['original']
+entity:  ['Queen']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competitors from Ed Sheeran , Drake and Taylor Swift .
+sentence type ['mutant']
+entity:  ['Drake']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Around three billion litres of water are lost through more leaks across hundreds of thousands of miles of water pipe in England and Wales daily , says water industry economic regulator Ofwat .
+sentence type ['mutant']
+entity:  ['Ofwat']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['original']
+entity:  ['Twitter HQ']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Now the direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It also takes less fuel to launch a spacecraft from the Moon than from Earth to travel into deep space , says Dr Lucinda King , space project manager at the University of Portsmouth .
+sentence type ['original']
+entity:  ['Moon']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a free demo using a basic robot .
+sentence type ['mutant']
+entity:  ['5G and 6G Innovation Centre']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a free demo using a basic robot .
+sentence type ['mutant']
+entity:  ['6G']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a free demo using a basic robot .
+sentence type ['mutant']
+entity:  ['5G and']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a free demo using a basic robot .
+sentence type ['mutant']
+entity:  ['Innovation Centre']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Rather than using rotors like Vertical Aerospace and Volocopter , Lilium uses 30 electric jets that can be tilted in unison to swing between vertical lift and forward flight .
+sentence type ['original']
+entity:  ['Vertical Aerospace']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after riots at the factory in the city of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Five should be visible with the milky way , while the two furthest away , Uranus and Neptune , will be better viewed with binoculars .
+sentence type ['mutant']
+entity:  ['Uranus']
+ori_prediction:  ['LOC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Five should be visible with the milky way , while the two furthest away , Uranus and Neptune , will be better viewed with binoculars .
+sentence type ['mutant']
+entity:  ['Neptune']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  In 2021 , the company sued over Apple ' s commission for access to their walled garden , as the App Store is referred to in the case .
+sentence type ['original']
+entity:  ['App Store']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A report found the Dippy effect saw panelists increase everywhere it toured , including Birmingham , Cardiff and Glasgow .
+sentence type ['mutant']
+entity:  ['Dippy']
+ori_prediction:  ['PER']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  This network originated in the United States , Meta wrote .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: TF
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['US']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The same search in Russian resulted in the further suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the last area in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['Prescriptions']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  This storm is set to bring the iciest Christmas in decades , say forecasts .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  This storm is set to bring the iciest Christmas in decades , say forecast .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  In a statement , Parlement Technologies said : The whole company has mutually agreed with Ye to terminate the intent of sale .
+sentence type ['mutant']
+entity:  ['Ye']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Thousands of flights have been cancelled , preventing many people from reaching their extended families at Christmas .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['ORG', 'PER']
+new_prediction:  ['ORG', 'ORG', 'ORG']
+evaluation: NTT
+evaluation: FT
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner sledgehammer']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner orchestra']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Jessica Groves has called her particular project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['s Fish & Chips']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jessica Groves has called her particular project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['Fish & Chips']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  It ' s known there ' s water at the south pole of the Moon , says Dr King .
+sentence type ['original']
+entity:  ['Moon']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Some experts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the clothes are washed they shed tiny plastic microfibres .
+sentence type ['original']
+entity:  ['UN']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the clothes are washed they shed tiny plastic microfibres .
+sentence type ['original']
+entity:  ['Environment Programme']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  According to the UN Environment Programme , about 60 % of material made into clothing is plastic , such as polyester or acrylic , and every time the clothes are washed they shed tiny plastic microfibres .
+sentence type ['original']
+entity:  ['UN Environment Programme']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  According to the Inquirer , the suspect cleaned out his father ' s gun safe , including reorganising firearms and sorting through ammunition , before the victim came over to watch a Netflix series together .
+sentence type ['original']
+entity:  ['Netflix']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  People looking to recycle their Christmas decorations can drop them off at five locations across Cheltenham .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  It ' s called distant because the path takes Orion a long , long way from the Moon ' s surface ( 61 , 000 km ; 38 , 000 miles ) and retrograde because it sends the capsule in the opposite direction to the lunar body ' s direction of travel .
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Penguin chicks and pygmy goats are among the new entries in the list of residents at London Zoo , which is conducting its annual census .
+sentence type ['original']
+entity:  ['London Zoo']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a demo using a basic robot .
+sentence type ['original']
+entity:  ['5G and 6G Innovation Centre']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a demo using a basic robot .
+sentence type ['original']
+entity:  ['6G']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a demo using a basic robot .
+sentence type ['original']
+entity:  ['5G and']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a demo using a basic robot .
+sentence type ['original']
+entity:  ['Innovation Centre']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The US and other Western countries have made improvements to female education in Afghanistan a prior condition for the equal status of the Taliban government .
+sentence type ['mutant']
+entity:  ['Taliban']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: TF
+sentence:  Thousands of flights have been cancelled , preventing many people from reaching their families at Christmas .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  Around three billion litres of water are lost through leaking across hundreds of thousands of miles of water pipe in England and Wales daily , says water industry economic regulator Ofwat .
+sentence type ['mutant']
+entity:  ['Ofwat']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Penguin chicks and pygmy goats are among the new entries in the list of residences at London Zoo , which is conducting its annual census .
+sentence type ['mutant']
+entity:  ['London Zoo']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Jon , from Yorkshire , said he could not access any relevant data via 5G during his train commute to Leeds , which affected his job .
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  It also takes less fuel to launch a low earth orbit from the Moon than from Earth to travel into deep space , says Dr Lucinda King , space project manager at the University of Portsmouth .
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the new plan would enable innovative services for people and help European companies grow .
+sentence type ['mutant']
+entity:  ['Internal Market']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Wildfires on National Trust land scorched areas such as Zennor Head , Cornwall , Bolberry Down in south Devon , Baggy Point in north Devon and Studland in Dorset , destroying homes of many species including rare sand lizards .
+sentence type ['mutant']
+entity:  ['National Trust']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The children of Haftom and Makda have been seeking treatment in Mekelle , the capital of the Tigray region .
+sentence type ['mutant']
+entity:  ['Haftom']
+ori_prediction:  ['LOC']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  The children of Haftom and Makda have been seeking treatment in Mekelle , the capital of the Tigray region .
+sentence type ['mutant']
+entity:  ['Makda']
+ori_prediction:  ['LOC']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  In 2021 , the company sued over Apple ' s commission for full access to their walled garden , as the App Store is referred to in the case .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Wildfires on National Trust land scorched areas such as Zennor Head , Cornwall , Bolberry Down in south Devon , Baggy Point in north Devon and Studland in Dorset , destroying homes of species including rare sand lizards .
+sentence type ['original']
+entity:  ['National Trust']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Around three billion litres of water are lost through leaks across hundreds of thousands of miles of water pipe in England and Wales daily , says water industry economic regulator Ofwat .
+sentence type ['original']
+entity:  ['Ofwat']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these battery charger in with household rubbish or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['original']
+entity:  ['ESA']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The same search in Russian resulted in the recommendations Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner sledgehammer']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the recommendations Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the recommendations Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner orchestra']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that Global warming was affecting the UK .
+sentence type ['mutant']
+entity:  ['State of the UK Climate']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that Global warming was affecting the UK .
+sentence type ['mutant']
+entity:  ['State of the UK Climate report']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  A bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['original']
+entity:  ['Unesco World Heritage']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['original']
+entity:  ['World Heritage']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A bid for Unesco World Heritage status is to be formally submitted this early year , with a decision from Unesco expected in 2024 .
+sentence type ['original']
+entity:  ['Unesco']
+ori_prediction:  ['ORG', 'ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+evaluation: FT
+sentence:  Rather than using driveshafts like Vertical Aerospace and Volocopter , Lilium uses 30 electric jets that can be tilted in unison to swing between vertical lift and forward flight .
+sentence type ['mutant']
+entity:  ['Vertical Aerospace']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK .
+sentence type ['original']
+entity:  ['State of the UK Climate']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK .
+sentence type ['original']
+entity:  ['State of the UK Climate report']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for other people and help European companies grow .
+sentence type ['mutant']
+entity:  ['Internal Market']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the mfr in the city of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  AST will not sell service providers directly to customers , instead it is working with phone service providers , to offer its satellite coverage as an extra option .
+sentence type ['mutant']
+entity:  ['.']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Its Debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['original']
+entity:  ['Debate Not Hate']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Its Debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['original']
+entity:  ['Not Hate']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Its Debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['original']
+entity:  ['Hate']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down pirated material on their platforms .
+sentence type ['mutant']
+entity:  ['Department for Digital , Culture , Media & Sport']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down pirated material on their platforms .
+sentence type ['mutant']
+entity:  ['Culture , Media & Sport']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down pirated material on their platforms .
+sentence type ['mutant']
+entity:  ['Department for Digital']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competition from Ed Sheeran , Drake and Taylor Swift .
+sentence type ['original']
+entity:  ['Drake']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  This whole network originated in the United States , Meta wrote .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  With 5G connectivity , the other robots responded immediately to my commands , via an Xbox controller , for it to move .
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  It ' s called distant because the crossroad takes Orion a long way from the Moon ' s surface ( 61 , 000 km ; 38 , 000 miles ) and retrograde because it sends the capsule in the opposite direction to the lunar body ' s direction of travel .
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  And the previous boss of charity the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['mutant']
+entity:  ['the Samaritans']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  And the previous boss of charity the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['mutant']
+entity:  ['Samaritans']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  It ' s known there ' s salty water at the south pole of the Moon , says Dr King .
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the second area in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['Nature Prescriptions']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  In addition , Perseverance will drop samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['original']
+entity:  ['Perseverance']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  He said this included some keeper taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['mutant']
+entity:  ['Tiny Giants']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  He had been lecturing in computing when he raised the idea of starting a BTec in esports with management .
+sentence type ['original']
+entity:  ['BTec']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Senator Maria Cantwell , the computer chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['mutant']
+entity:  ['US']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Senator Maria Cantwell , the computer chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['mutant']
+entity:  ['Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Senator Maria Cantwell , the computer chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['mutant']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the actual platform had largely remained the same or increased since the takeover .
+sentence type ['mutant']
+entity:  ['Trust and Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the actual platform had largely remained the same or increased since the takeover .
+sentence type ['mutant']
+entity:  ['and Safety']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It faced a huge backlash to the images , released as part of a campaign to promote its Objects range .
+sentence type ['original']
+entity:  ['Objects']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The diplomat was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['mutant']
+entity:  ['Newport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The diplomat was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['mutant']
+entity:  ['West Labour']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The diplomat was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['mutant']
+entity:  ['Newport West Labour']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The feud comes as many companies have halted spending on Twitter amid questions about Mr Musk ' s content moderation plans for the site .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  In 2021 , the company sued over Apple ' s commission for access to their own platform , as the App Store is referred to in the case .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Five should be visible with the naked eye , while the two furthest away , Uranus and Neptune , will be better viewed with binoculars .
+sentence type ['original']
+entity:  ['Uranus']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Five should be visible with the naked eye , while the two furthest away , Uranus and Neptune , will be better viewed with binoculars .
+sentence type ['original']
+entity:  ['Neptune']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  It means that not only could Donald Trump lose a lot of money by using Twitter ( by spooking new investors ) but he could also get sued .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  His channel , Farmer P , has 37 , 500 subscribers and some videos get hundreds of thousands of views .
+sentence type ['original']
+entity:  ['Farmer P']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  A report found the Dippy effect saw visitors increase everywhere it toured , including Birmingham , Cardiff and Glasgow .
+sentence type ['original']
+entity:  ['Dippy']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  On a video posted on the platform Rumble , Jones said he did not care about being on Twitter , reports news website Axios .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  AST will not sell services directly to customers , instead it is working with phone service providers , to offer its satellite coverage as an extra option .
+sentence type ['original']
+entity:  ['.']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It ' s called distant because the path takes Orion a long way from the Moon ' s surface ( 61 , 000 km ; 38 , 000 miles ) and retrograde because it sends the capsule in the opposite direction to the lunar body ' s direction of travel .
+sentence type ['original']
+entity:  ['Moon']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  And the boss of charitable organization the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['mutant']
+entity:  ['the Samaritans']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  And the boss of charitable organization the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['mutant']
+entity:  ['Samaritans']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Last year Apple suspended social media platform Parler from the store , saying it did n't do enough to remove hate speech .
+sentence type ['original']
+entity:  ['Parler']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Last year Apple suspended social media platform Parler from the shop , saying it did n't do enough to remove hate speech .
+sentence type ['mutant']
+entity:  ['Parler']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  In 2021 , the said company sued over Apple ' s commission for access to their walled garden , as the App Store is referred to in the case .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['original']
+entity:  ['Tiny Giants']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['original']
+entity:  ['Giants']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting only devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Musk has also reactivated the Twitter accounts of rapper Ye ( formerly Kanye West ) and influencer Andrew Tate .
+sentence type ['original']
+entity:  ['Ye']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more even people were putting devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Musk has also reactivated the Twitter accounts of Kanye west Ye ( formerly Kanye West ) and influencer Andrew Tate .
+sentence type ['mutant']
+entity:  ['Ye']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Now the other direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['mutant']
+entity:  ['Twitter HQ']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Now the other direction at Twitter HQ is changing , the question is whether these accounts will return or new ones will be emboldened to share incorrect information , that could influence the decisions people make about their health .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The google search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the platform had largely remained the same or increased since the takeover .
+sentence type ['original']
+entity:  ['Trust and Safety']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the platform had largely remained the same or increased since the takeover .
+sentence type ['original']
+entity:  ['and Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  But a new type of therapist at the Queen Elizabeth National Spinal Injuries Unit in Glasgow has given him fresh hope .
+sentence type ['mutant']
+entity:  ['Queen Elizabeth National Spinal Injuries Unit']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  This storm is set to bring the iciest Christmas in decades , say forecasters .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  This huge storm is set to bring the iciest Christmas in decades , say forecasters .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the first boss in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['Nature Prescriptions']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  On a Youtube video posted on the platform Rumble , Jones said he did not care about being on Twitter , reports news website Axios .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Some analysts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Wildfires on National Trust land scorched areas such as Zennor Head , Cornwall , Bolberry Down in south Devon , Baggy Point in north Devon and Studland in Dorset , destroying homes of sentient species including rare sand lizards .
+sentence type ['mutant']
+entity:  ['National Trust']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Additionally , it has been announced a mountain side rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to beam a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The searches in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER', 'PER']
+new_prediction:  ['PER', 'PER']
+evaluation: NFF
+evaluation: NFF
+sentence:  It faced a huge backlash to the pictures , released as part of a campaign to promote its Objects range .
+sentence type ['mutant']
+entity:  ['Objects']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Jon , from Yorkshire , said he could not access any data via 5G during his train commute to Leeds , which affected his job .
+sentence type ['original']
+entity:  ['5G']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to beam a broadband signal down to Earth .
+sentence type ['original']
+entity:  ['Starlink']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Norrie believes securing Unesco status could offer new opportunities in sustainable tourism and branding of local produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['original']
+entity:  ['Unesco']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Jessica Groves has called her other project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['s Fish & Chips']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jessica Groves has called her other project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['Fish & Chips']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Jessica Groves has called her other project outside Steve ' s Fish & Chips in Tamworth ' The Never Changing Face Of Britain ' s Chip Shops ' .
+sentence type ['mutant']
+entity:  ['Never Changing']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the entire platform had largely remained the same or increased since the takeover .
+sentence type ['mutant']
+entity:  ['Trust and Safety']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  However Yoel Roth , the former head of Trust and Safety at Twitter , told the New York Times that moderation at the entire platform had largely remained the same or increased since the takeover .
+sentence type ['mutant']
+entity:  ['and Safety']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  In addition , Perseverance will drop few samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  In spite of whole debacle , Mr Musk ' s popularity on Twitter is undeniable and growing .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the factory in the little town of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  In spite of recent controversies , Mr Musk ' s popularity on Twitter is undeniable and growing .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  He has said he hopes to make even more money by turning Twitter verification into a paid subscription service , but currently the vast majority of the site ' s revenue comes from advertising .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Norrie believes securing Unesco status could offer new opportunities in sustainable tourism and branding of local products , while at the same time highlighting the environmental value of the peatland .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  But a new type of therapy at the Queen Elizabeth National Spinal Injuries Unit in Glasgow has given him fresh hope .
+sentence type ['original']
+entity:  ['Queen Elizabeth National Spinal Injuries Unit']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these new batteries in with household rubbish or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  There ' s sufficient room in orbit for the solar power satellites , and the Sun ' s supply of energy is vast .
+sentence type ['original']
+entity:  ['Sun']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Around three billion litres of water are lost through leak across hundreds of thousands of miles of water pipe in England and Wales daily , says water industry economic regulator Ofwat .
+sentence type ['mutant']
+entity:  ['Ofwat']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the factory in the town of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  With 5G connectivity , the robot responded immediately to my commands , via an Xbox controller , for it to move .
+sentence type ['original']
+entity:  ['5G']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  People looking to recycle their Christmas trees can drop them off at five locations across Cheltenham .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  And the boss of charity the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['original']
+entity:  ['the Samaritans']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  And the boss of charity the Samaritans , Julie Bentley , said the damaging impact that this type of content has does n't end on your 18th birthday .
+sentence type ['original']
+entity:  ['Samaritans']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Its serious debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['mutant']
+entity:  ['debate Not Hate']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Its serious debate Not Hate , external campaign hopes to raise awareness of the role of local councillors and encourage healthy debate .
+sentence type ['mutant']
+entity:  ['Not Hate']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The wholly owned subsidiary itself is currently under Federal investigation .
+sentence type ['mutant']
+entity:  ['Federal']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the single fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['mutant']
+entity:  ['Giants']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the single fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['mutant']
+entity:  ['Tiny Giants']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  He had been lecturing in computations when he raised the idea of starting a BTec in esports with management .
+sentence type ['mutant']
+entity:  ['BTec']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Elon Musk has said Apple has halted most of its free advertising on Twitter and accused the company of threatening to remove the platform from its app store .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  It means that not only could Donald Trump lose a lot of money by using Twitter ( by spooking investors ) but he could also get sued .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  For those stuck at home , a film about the campaign to save a Carmarthen cinema hit the large screen and leading Flintshire actor Jonathan Pryce would later receive a knighthood from the Queen .
+sentence type ['mutant']
+entity:  ['Queen']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the first area in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['original']
+entity:  ['Nature Prescriptions']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Jess McFall , social prescribing manager at High Peak Community and Voluntary Support , said : To be the first area in England involved in Nature Prescriptions is exciting and inspiring .
+sentence type ['original']
+entity:  ['Prescriptions']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT

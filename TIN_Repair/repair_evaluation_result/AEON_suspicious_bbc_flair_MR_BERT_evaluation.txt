@@ -1,0 +1,1028 @@
+sentence:  Chinx ( OS ) told the BBC he was pleased the video would be restored and had not understood why it had been taken down in the first place .
+sentence type ['original']
+entity:  ['OS']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to install at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  But overall , I think it has been a positive experience for me and I am grateful to Twitter for allowing Ada Lovelace Day to flourish in the way that it has .
+sentence type ['original']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  She also has an Instagram account which she uses to celebrate her recovery , sharing her own exercise routines , recipes and weight loss updates .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Coughlan said his company will make the NuCell that will generate power for the National Grid .
+sentence type ['original']
+entity:  ['National Grid']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Norrie believes securing Unesco status could offer new opportunities in sustainable tourism and branding of local produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['original']
+entity:  ['Unesco']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  There ' s sufficient room in orbit for the various power satellites , and the Sun ' s supply of energy is vast .
+sentence type ['mutant']
+entity:  ['Sun']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  You can check exactly what can and ca n't be recycled in your area using Recycle Now ' s Recycling Locator .
+sentence type ['original']
+entity:  ['Locator']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many customers used their FTX token wallets like bank accounts , expecting their funds to be safe .
+sentence type ['mutant']
+entity:  ['FTX']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the crowds people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the crowds people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Norrie believes securing Unesco status could promote new opportunities in sustainable tourism and branding of local produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Twitter is a front thing for me , because I get the word out … I might not be here talking to you right now as president if I did n't have an honest way of getting the word out , he said .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Last month , Foxconn apologised for a technical error in its payment system after protests at the factory in the city of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The National Trust has warned that extreme weather seen in the UK in 2022 has set a benchmark for what a UK year could be like from now on .
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['LOC', 'LOC']
+new_prediction:  ['LOC', 'MISC']
+evaluation: NTT
+evaluation: TF
+sentence:  He said : For me this is such an achievement opportunity for Cornwall and something I ' m now desperate to see happen .
+sentence type ['mutant']
+entity:  ['Cornwall']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The Met Office said the subtropical bomb cyclone that sent temperatures plunging in the US over Christmas was causing the unsettled weather in the UK .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  Dr Steven Andrews , Flow Country world heritage project coordinator , says it was acknowledged during public consultations there were big concerns around perceived new restrictions .
+sentence type ['original']
+entity:  ['Flow Country']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to met the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to met the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  In 2023 , Russia , India and the European Space Agency will be launching missions to the Moon , and further into deep space .
+sentence type ['original']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  There ' s sufficient room in orbit for the solar power satellites , and the Sun ' s supply of energy is vast .
+sentence type ['original']
+entity:  ['Sun']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  In addition , Perseverance will consist samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Wrexham was named Wales ' seventh city to witness the Queen ' s Platinum Jubilee , however , hopes of also becoming the UK ' s next city of culture were dashed .
+sentence type ['mutant']
+entity:  ['Platinum Jubilee']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to transmit a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to produce at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to sell at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['original']
+entity:  ['Order']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Wrexham was named Wales ' seventh city to honour the Queen ' s Platinum Jubilee , however , hopes of also becoming the UK ' s next city of culture were dashed .
+sentence type ['mutant']
+entity:  ['Platinum Jubilee']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Mr Coughlan said his company will create the NuCell that will generate power for the National Grid .
+sentence type ['mutant']
+entity:  ['National Grid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Historic England , which is providing £ 10 , 000 , said Vindolanda , close to Hadrian ' s Wall , was the most important archaeological site in Europe .
+sentence type ['mutant']
+entity:  ['Historic']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  However , when we asked ChatGPT to record an exchange between the two men , their relationship was somewhat different .
+sentence type ['mutant']
+entity:  ['ChatGPT']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to broadcast a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  However , when we asked ChatGPT to see an exchange between the two men , their relationship was somewhat different .
+sentence type ['mutant']
+entity:  ['ChatGPT']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Pioneer of Belfast glides above the water , quiet and smooth , leaving little wake behind it .
+sentence type ['original']
+entity:  ['Pioneer of Belfast']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  The Pioneer of Belfast glides above the water , quiet and smooth , leaving little wake behind it .
+sentence type ['original']
+entity:  ['Belfast']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper GI is an extremely busy department and adopting Versius signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['original']
+entity:  ['Versius']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Not only that , but Mr Trump is only bound by the agreement to post exclusively on Truth Social until July 2023 , says Ohlrogge .
+sentence type ['original']
+entity:  ['Truth Social']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  However , when we asked ChatGPT to write an exchange between the two men , their relationship was somewhat different .
+sentence type ['original']
+entity:  ['ChatGPT']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Mr Coughlan said his company will build the NuCell that will generate power for the National Grid .
+sentence type ['mutant']
+entity:  ['National Grid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  ELMS is designed to improve the EU ' s common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['CAP']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Mark Harding , one of Oban ' s owners , said he was elated to return him alive .
+sentence type ['mutant']
+entity:  ['Oban']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  They said the messages would direct victims to the Metropolitan Police website which would apply people to register with Action Fraud .
+sentence type ['mutant']
+entity:  ['Action Fraud']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Norrie believes securing Unesco status could generate new opportunities in sustainable tourism and branding of local produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Twitter is a bitch thing for me , because I get the word out … I might not be here talking to you right now as president if I did n't have an honest way of getting the word out , he said .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  She said her silence was not down to a lack of disgust and outrage , but because she wanted to get to Balenciaga to understand for myself how this could have happened .
+sentence type ['mutant']
+entity:  ['Balenciaga']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Norrie believes securing Unesco status could give new opportunities in sustainable tourism and branding of local produce , while at the same time highlighting the environmental value of the peatland .
+sentence type ['mutant']
+entity:  ['Unesco']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  However , when we asked ChatGPT to find an exchange between the two men , their relationship was somewhat different .
+sentence type ['mutant']
+entity:  ['ChatGPT']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to replace at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  SEI is working on a project called Cassiopeia , which plans to build a constellation of very large satellites in a high Earth orbit .
+sentence type ['mutant']
+entity:  ['Earth']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  In 2023 , Russia , India and the European Space Agency will undertake launching missions to the Moon , and further into deep space .
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would provide innovative services for people and help European companies grow .
+sentence type ['mutant']
+entity:  ['Internal']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  In all honesty , I do n't think Ada Lovelace Day would achieve become the movement that it did without the help of Twitter .
+sentence type ['mutant']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Wildfires on National Trust land scorched areas such as Zennor Head , Cornwall , Bolberry Down in south Devon , Baggy Point in north Devon and Studland in Dorset , destroying homes of species including large sand lizards .
+sentence type ['mutant']
+entity:  ['National Trust']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  He said : For me this is such an exciting opportunity for Cornwall and something I ' m now desperate to see happen .
+sentence type ['original']
+entity:  ['Cornwall']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  You can track exactly what can and ca n't be recycled in your area using Recycle Now ' s Recycling Locator .
+sentence type ['mutant']
+entity:  ['Locator']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the library nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Twitter is a priority thing for me , because I get the word out … I might not be here talking to you right now as president if I did n't have an honest way of getting the word out , he said .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  However , when we asked ChatGPT to monitor an exchange between the two men , their relationship was somewhat different .
+sentence type ['mutant']
+entity:  ['ChatGPT']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Not only that , but Mr Trump is only bound by the agreement to stay exclusively on Truth Social until July 2023 , says Ohlrogge .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Historic England , which is providing £ 10 , 000 , said Vindolanda , close to Hadrian ' s Wall , was the most exciting archaeological site in Europe .
+sentence type ['original']
+entity:  ['Historic']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The deal could still fall through , at which point Donald Trump ' s legal commitment to post exclusively on Truth Social would also be ripped up .
+sentence type ['original']
+entity:  ['Truth Social']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Kittiwakes are a form type of gull which are on the conservation red list and global numbers have fallen by 40 % since the 1970s , according to the RSPB .
+sentence type ['mutant']
+entity:  ['Kittiwakes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Kittiwakes are a small type of gull which are on the conservation red list and global numbers have fallen by 40 % since the 1970s , according to the RSPB .
+sentence type ['original']
+entity:  ['Kittiwakes']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The decision to renewable Elms had angered farmers , who wanted to know the details on what work would be rewarded , and conservationists , who feared its environmental focus would be weakened .
+sentence type ['mutant']
+entity:  ['Elms']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Twitter is a hobby thing for me , because I get the word out … I might not be here talking to you right now as president if I did n't have an honest way of getting the word out , he said .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to learn new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to learn new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Dr Steven Andrews , Flow Country world heritage project coordinator , says it was acknowledged during rehearsal consultations there were big concerns around perceived new restrictions .
+sentence type ['mutant']
+entity:  ['Flow Country']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  ELMS is designed to address the EU ' s common agricultural policy ( CAP ) .
+sentence type ['mutant']
+entity:  ['CAP']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The decision to review Elms had angered farmers , who wanted to know the details on what work would be rewarded , and conservationists , who feared its environmental focus would be weakened .
+sentence type ['original']
+entity:  ['Elms']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Not only that , but Mr Trump is only bound by the agreement to continue exclusively on Truth Social until July 2023 , says Ohlrogge .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Chinx ( OS ) told the BBC he was sure the video would be restored and had not understood why it had been taken down in the first place .
+sentence type ['mutant']
+entity:  ['OS']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  Jupiter is the next brightest planet , and should appear higher in the sky where Saturn should also be visible .
+sentence type ['original']
+entity:  ['Jupiter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to be the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['original']
+entity:  ['ESA']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  In addition , Perseverance will clean samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Jupiter is the cool brightest planet , and should appear higher in the sky where Saturn should also be visible .
+sentence type ['mutant']
+entity:  ['Jupiter']
+ori_prediction:  ['LOC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Twitter is a wonderful thing for me , because I get the word out … I might not be here talking to you right now as president if I did n't have an honest way of getting the word out , he said .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The Independent Conservative is asking the authority to donate up to a national campaign challenging the abuse and intimidation of councillors .
+sentence type ['mutant']
+entity:  ['Independent Conservative']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Kittiwakes are a type type of gull which are on the conservation red list and global numbers have fallen by 40 % since the 1970s , according to the RSPB .
+sentence type ['mutant']
+entity:  ['Kittiwakes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In 2020 , UK mobile networks were ordered to replace out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  In addition , Perseverance will drop samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['original']
+entity:  ['Perseverance']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Wildfires on National Trust land scorched areas such as Zennor Head , Cornwall , Bolberry Down in south Devon , Baggy Point in north Devon and Studland in Dorset , destroying homes of species including rare sand lizards .
+sentence type ['original']
+entity:  ['National Trust']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  However , when we asked ChatGPT to investigate an exchange between the two men , their relationship was somewhat different .
+sentence type ['mutant']
+entity:  ['ChatGPT']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  When Maria contacted Rafael Bessa to ask for help , she noticed he was unable to talk to the hotel manager in French , despite his claim to have attended an French boarding school in the Alps .
+sentence type ['mutant']
+entity:  ['French']
+ori_prediction:  ['MISC', 'MISC']
+new_prediction:  ['LOC', 'MISC']
+evaluation: TF
+evaluation: NTT
+sentence:  Whilst across Hogmanay and New Year ' s Day we ' re seeing an eclipse picture , we ' ll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['mutant']
+entity:  ['Hogmanay']
+ori_prediction:  ['LOC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  In all honesty , I do n't think Ada Lovelace Day would have become the movement that it did without the help of Twitter .
+sentence type ['original']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  But overall , I think it has been a positive experience for me and I am grateful to Twitter for allowing Ada Lovelace Day to grow in the way that it has .
+sentence type ['mutant']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: FF
+sentence:  In addition , Perseverance will smell samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Wrexham was named Wales ' seventh city to mark the Queen ' s Platinum Jubilee , however , hopes of also becoming the UK ' s next city of culture were dashed .
+sentence type ['original']
+entity:  ['Platinum Jubilee']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to bounce a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Supt Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Last month , Foxconn apologised for a breakdown error in its payment system after protests at the factory in the city of Zhengzhou over Covid restrictions and claims of overdue pay .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Mark Harding , one of Oban ' s owners , said he was elated to come him alive .
+sentence type ['mutant']
+entity:  ['Oban']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Thierry Breton , EU Commissioner for the Internal Market , said the plan would enable innovative services for people and help European companies grow .
+sentence type ['original']
+entity:  ['Internal']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  When Maria contacted Rafael Bessa to ask for help , she noticed he was unable to talk to the hotel manager in French , despite his claim to have attended an exclusive boarding school in the Alps .
+sentence type ['original']
+entity:  ['French']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to carry a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  She also has an Instagram account which she uses to chart her recovery , sharing her own exercise routines , recipes and weight loss updates .
+sentence type ['original']
+entity:  ['Instagram']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a global art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['original']
+entity:  ['German']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  They said the messages would direct victims to the Metropolitan Police website which would ask people to join with Action Fraud .
+sentence type ['mutant']
+entity:  ['Action Fraud']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Independent Conservative is asking the authority to contribute up to a national campaign challenging the abuse and intimidation of councillors .
+sentence type ['mutant']
+entity:  ['Independent Conservative']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  They said the messages would direct victims to the Metropolitan Police website which would ask people to register with Action Fraud .
+sentence type ['original']
+entity:  ['Action Fraud']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  He has said he hopes to make money by turning Twitter verification into a profitable subscription service , but currently the vast majority of the site ' s revenue comes from advertising .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  In 2020 , UK mobile networks were ordered to use out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['mutant']
+entity:  ['5G']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  While you ' Re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ["Queen ' s"]
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  While you ' Re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' Re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  While you ' Re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ["Queen '"]
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  He has said he hopes to make money by turning Twitter verification into a paid subscription service , but currently the vast majority of the site ' s revenue comes from advertising .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Jupiter is the cold brightest planet , and should appear higher in the sky where Saturn should also be visible .
+sentence type ['mutant']
+entity:  ['Jupiter']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  The Met Office said the same bomb cyclone that sent temperatures plunging in the US over Christmas was causing the unsettled weather in the UK .
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do come to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do come to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to curb children and take down illegal content on their platforms .
+sentence type ['mutant']
+entity:  ['Department for Digital , Culture , Media & Sport']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to curb children and take down illegal content on their platforms .
+sentence type ['mutant']
+entity:  ['Culture , Media & Sport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to curb children and take down illegal content on their platforms .
+sentence type ['mutant']
+entity:  ['Department for Digital']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Met Office said the deadly bomb cyclone that sent temperatures plunging in the US over Christmas was causing the unsettled weather in the UK .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to get a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Chinx ( OS ) told the BBC he was happy the video would be restored and had not understood why it had been taken down in the first place .
+sentence type ['mutant']
+entity:  ['OS']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  It was looted from the Abu Sir necropolis in north Egypt by a German art trafficking network , which smuggled it through Germany into the US in 2008 .
+sentence type ['mutant']
+entity:  ['German']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Whilst across Hogmanay and New Year ' s Day we ' re seeing an improving picture , we ' ll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['original']
+entity:  ['Hogmanay']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to bring a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Det Supt Rance warned other undertake enablers will have taken over to provide services to fraudsters .
+sentence type ['mutant']
+entity:  ['Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['PER']
+evaluation: TF
+sentence:  Det Supt Rance warned other undertake enablers will have taken over to provide services to fraudsters .
+sentence type ['mutant']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to send a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  They will get another 500 yuan if the recruit remains in the role for a month , a post seen by the BBC on the rich messaging app WeChat said .
+sentence type ['mutant']
+entity:  ['WeChat']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  A UK government spokesman said : Following a detailed national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to provide at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to encounter the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to encounter the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['mutant']
+entity:  ['Handy Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The Perseverance rover has begun gathering the evidence that may address the question of whether there is life on Mars .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  A UK government spokesman said : Following a strategic national security assessment , the business secretary decided to issue a Final Order requiring Nexperia to sell at least 86 % of Newport Wafer Fab to mitigate potential national security risks .
+sentence type ['mutant']
+entity:  ['Order']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Pioneer of Belfast glides above the water , quiet and distant , leaving little wake behind it .
+sentence type ['mutant']
+entity:  ['Pioneer of Belfast']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The Pioneer of Belfast glides above the water , quiet and distant , leaving little wake behind it .
+sentence type ['mutant']
+entity:  ['Belfast']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The deal could still fall through , at which point Donald Trump ' s legal commitment to appear exclusively on Truth Social would also be ripped up .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  SEI is working on a project called Cassiopeia , which plans to place a constellation of very large satellites in a high Earth orbit .
+sentence type ['original']
+entity:  ['Earth']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Mr Coughlan said his company will develop the NuCell that will generate power for the National Grid .
+sentence type ['mutant']
+entity:  ['National Grid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  They will get another 500 yuan if the recruit remains in the role for a month , a post seen by the BBC on the popular messaging app WeChat said .
+sentence type ['original']
+entity:  ['WeChat']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to beam a broadband signal down to Earth .
+sentence type ['original']
+entity:  ['Starlink']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Wrexham was named Wales ' seventh city to celebrate the Queen ' s Platinum Jubilee , however , hopes of also becoming the UK ' s next city of culture were dashed .
+sentence type ['mutant']
+entity:  ['Platinum Jubilee']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Mark Harding , one of Oban ' s owners , said he was elated to arrive him alive .
+sentence type ['mutant']
+entity:  ['Oban']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Kittiwakes are a subgroup type of gull which are on the conservation red list and global numbers have fallen by 40 % since the 1970s , according to the RSPB .
+sentence type ['mutant']
+entity:  ['Kittiwakes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Not only that , but Mr Trump is only bound by the agreement to appear exclusively on Truth Social until July 2023 , says Ohlrogge .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  She said her silence was not down to a lack of disgust and outrage , but because she wanted to speak to Balenciaga to understand for myself how this could have happened .
+sentence type ['original']
+entity:  ['Balenciaga']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  The National Trust has warned that extreme weather seen in the UK in 2022 has set a benchmark for what a typical year could be like from now on .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  ELMS is designed to replace the EU ' s common agricultural policy ( CAP ) .
+sentence type ['original']
+entity:  ['CAP']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Chinx ( OS ) told the BBC he was unsure the video would be restored and had not understood why it had been taken down in the first place .
+sentence type ['mutant']
+entity:  ['OS']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  In addition , Perseverance will clear samples of soil and atmosphere , along with a special tube that ' s been recording conditions inside the rover , including any contaminants given off from the vehicle .
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  You can locate exactly what can and ca n't be recycled in your area using Recycle Now ' s Recycling Locator .
+sentence type ['mutant']
+entity:  ['Locator']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Independent Conservative is asking the authority to sign up to a national campaign challenging the abuse and intimidation of councillors .
+sentence type ['original']
+entity:  ['Independent Conservative']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Many customers used their FTX digital wallets like bank accounts , expecting their funds to be safe .
+sentence type ['original']
+entity:  ['FTX']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mark Harding , one of Oban ' s owners , said he was elated to find him alive .
+sentence type ['original']
+entity:  ['Oban']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these batteries in with household trash or mixing them with other recycling .
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Higgs , upper gastrointestinal ( GI ) consultant , said : Upper GI is an extremely challenge department and adopting Versius signifies a new era for the specialty , as many more patients will receive minimal access surgery .
+sentence type ['mutant']
+entity:  ['Versius']
+ori_prediction:  ['MISC']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  Jupiter is the light brightest planet , and should appear higher in the sky where Saturn should also be visible .
+sentence type ['mutant']
+entity:  ['Jupiter']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  The Royal Zoological Society of Scotland ( RZSS ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would follow confirmed closer to the time .
+sentence type ['mutant']
+entity:  ['.']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Royal Zoological Society of Scotland ( RZSS ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would follow confirmed closer to the time .
+sentence type ['mutant']
+entity:  ['RZSS']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ['Helpers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ['Handy Helpers']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ["Queen ' s"]
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  While you ' re a student living up in Queen ' s , you do n't get to know the other people around Belfast , but through Handy Helpers and initiatives like helping out at the tree nursery , you really do get to meet new people and it ' s fantastic .
+sentence type ['original']
+entity:  ["Queen '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Royal Zoological Society of Scotland ( RZSS ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would be confirmed closer to the time .
+sentence type ['original']
+entity:  ['.']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The Royal Zoological Society of Scotland ( RZSS ) , which runs Edinburgh Zoo , said the details of the pandas ' departure would be confirmed closer to the time .
+sentence type ['original']
+entity:  ['RZSS']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Additionally , it has been announced a mountain rescue base at Wasdale Head in the Lake District will be one of three remote area ' s taking part in a government trial featuring Elon Musk ' s Starlink , which uses satellites to deliver a broadband signal down to Earth .
+sentence type ['mutant']
+entity:  ['Starlink']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  In 2020 , UK mobile networks were ordered to strip out kit made by Chinese technology company Huawei from all 5G infrastructure , after it was deemed a national security risk .
+sentence type ['original']
+entity:  ['5G']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The Perseverance rover has begun gathering the evidence that may answer the question of whether there is life on Mars .
+sentence type ['original']
+entity:  ['Perseverance']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Department for Digital , Culture , Media & Sport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Culture , Media & Sport']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A spokesperson for the Department for Digital , Culture , Media & Sport said : Social media companies are n't doing enough to protect children and take down illegal content on their platforms .
+sentence type ['original']
+entity:  ['Department for Digital']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  According to the Inquirer , the suspect cleaned out his father ' s gun safe , including reorganising firearms and sorting through ammunition , before the victim came over to watch a Netflix series together .
+sentence type ['original']
+entity:  ['Netflix']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  According to the Inquirer , the suspect cleaned out his father ' s gun safe , including reorganising firearms and sorting through ammunition , before the victim came over to discuss a Netflix series together .
+sentence type ['mutant']
+entity:  ['Netflix']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT

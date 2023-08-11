@@ -1,0 +1,1871 @@
+sentence:  In all honesty , I do n't think Ada Lovelace Day would have become the movement that it did without the help of Twitter .
+sentence type ['original']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  One of them , Brand Safety Institute ( Twitter ) , told the BBC that BSI ' s reputation for being a commendable and reliable partner in the fight for brand safety in the last several years was under threat .
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with three per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with three per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Speaking about Lupin , Garfield and Tabor , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Garfield']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Lupin , Garfield and Tabor , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Lupin , Garfield and Tabor , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Garfield , Tabor and Lupin , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Garfield , Tabor and Lupin , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  One of the world ' s foremost tropical biology research institutes , STRI ( the Smithsonian Tropical Research Institute ) , runs several projects in which its scientists work alongside indigenous peoples .
+sentence type ['mutant']
+entity:  ['the Smithsonian Tropical Research Institute']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  One of the world ' s foremost tropical biology research institutes , STRI ( the Smithsonian Tropical Research Institute ) , runs several projects in which its scientists work alongside indigenous peoples .
+sentence type ['mutant']
+entity:  ['(']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its JUICE ( Jupiter Icy Moon Explorer ) in April 2023 .
+sentence type ['mutant']
+entity:  ['Jupiter Icy Moon Explorer']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to 3 , 000 Covid deaths in every three in China , compared with million per million in the UK and 2 , 400 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in Aberdeenshire , the River Tyne in East Lothian and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['Borders']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in Aberdeenshire , the River Tyne in East Lothian and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many parts of the North have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of UK , Northern Ireland and England .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Despite the ructions in the crypto world caused by the Bank of England ' s collapse , Sir Jon said the need for a UK digital currency was still being considered by FTX .
+sentence type ['mutant']
+entity:  ['the Bank of England']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In his speech , Sir Jon noted that the UK ' s financial regulator , FTX , had been warning for several weeks before the Financial Conduct Authority ' s collapse that this firm may be providing financial services or products in the UK without our authorisation … you are unlikely to get your money back if things go wrong .
+sentence type ['mutant']
+entity:  ['the Financial Conduct Authority']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Wales Today , Aberystwyth University and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to million Covid deaths in every 3 , 000 in China , compared with 2 , 400 per million in the US and three per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Last year , the private company that owns Truth Social , Trump Media & Technology Group ( TMTG ) , announced its intention to merge with a shell company trading on the stock exchange called Digital World Acquisition Corp ( DWAC ) .
+sentence type ['original']
+entity:  ['Digital World Acquisition Corp']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  One of them , BBC ( BSI ) , told the Brand Safety Institute that Twitter ' s reputation for being a commendable and reliable partner in the fight for brand safety in the last several years was under threat .
+sentence type ['mutant']
+entity:  ['Brand Safety Institute']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in East Lothian , the Lower Tweed in Aberdeenshire and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Installations took place at Five Rivers in Salisbury , Corsham ' s Springfield Campus and the Olympiad in Chippenham .
+sentence type ['original']
+entity:  ['Five Rivers']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NFF
+sentence:  Installations took place at Five Rivers in Salisbury , Corsham ' s Springfield Campus and the Olympiad in Chippenham .
+sentence type ['original']
+entity:  ['Corsham']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Installations took place at Five Rivers in Salisbury , Corsham ' s Springfield Campus and the Olympiad in Chippenham .
+sentence type ['original']
+entity:  ['Springfield Campus']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NTT
+sentence:  Southwest ' s CEO said Tuesday that he had reached out to US Transportation Secretary Pete Buttigieg to discuss the matter .
+sentence type ['original']
+entity:  ['Southwest']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  A hybrid vehicle eliminates the range anxiety as it can switch to gasoline , which is relevant as we are still far behind with charging infrastructure in Rwanda , says Joshua Nshuti , from Greenleaf Motors , Mitsubishi ' s official dealer in Rwanda .
+sentence type ['original']
+entity:  ['Greenleaf Motors']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on Borders in Aberdeenshire , the River Tyne in East Lothian and the Lower Tweed in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In his speech , Sir Jon noted that the UK ' s financial regulator , the Financial Conduct Authority , had been warning for several weeks before FTX ' s collapse that this firm may be providing financial services or products in the UK without our authorisation … you are unlikely to get your money back if things go wrong .
+sentence type ['original']
+entity:  ['the Financial Conduct Authority']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  A new generation of underground robotic pipe patrollers is being tested at ICAIR ( the Integrated Civil and Infrastructure Research Centre ) at the University of Sheffield .
+sentence type ['mutant']
+entity:  ['the Integrated Civil and Infrastructure Research Centre']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  A new generation of underground robotic pipe patrollers is being tested at ICAIR ( the Integrated Civil and Infrastructure Research Centre ) at the University of Sheffield .
+sentence type ['mutant']
+entity:  ['ICAIR']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['three']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  Many parts of the North have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of Northern Ireland , UK and England .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  It lifted away from Kourou at 02:47 GMT local time on Wednesday ( 22:47 / 03:47 CET on Tuesday ) .
+sentence type ['mutant']
+entity:  ['03:47 CET']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It lifted away from Kourou at 02:47 GMT local time on Wednesday ( 22:47 / 03:47 CET on Tuesday ) .
+sentence type ['mutant']
+entity:  ['22:47']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Cat expert Roger Tabor , from Essex in Brightlingsea , says the reason they chose supermarkets is because both these cats are very social animals , which does n't happen unless they ' re socialised with people very early on .
+sentence type ['mutant']
+entity:  ['Essex']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  Media Matters , a watchdog site , reported last week that half of Twitter ' s top advertisers had pulled their advertising on Twitter after concerns about the direction of Twitter .
+sentence type ['original']
+entity:  ['Media Matters']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  What started out last week as 5 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['a month ago']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  What started out last week as 5 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 %']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NTT
+sentence:  What started out last week as 5 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The digital trade agreement was struck at a London meeting of Trade Secretary Kemi Badenoch and Ukraine ' s Minister for Trade and Economy Yulia Svyrydenko .
+sentence type ['original']
+entity:  ['Trade']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 3 , 000 in China , compared with million per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Vale of Glamorgan in Barry .
+sentence type ['mutant']
+entity:  ['Vale']
+ori_prediction:  ['FAC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Vale of Glamorgan in Barry .
+sentence type ['mutant']
+entity:  ['of Glamorgan']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Vale of Glamorgan in Barry .
+sentence type ['mutant']
+entity:  ['Vale of Glamorgan']
+ori_prediction:  ['NULL']
+new_prediction:  ['FAC']
+evaluation: FT
+sentence:  Transportation ' s CEO said Tuesday that he had reached out to US Southwest Secretary Pete Buttigieg to discuss the matter .
+sentence type ['mutant']
+entity:  ['Southwest']
+ori_prediction:  ['LOC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Dan Ives , senior equity analyst at Wedbush Securities , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk ' s reign as Twitter chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['original']
+entity:  ['Wedbush Securities']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Dan Ives , senior equity analyst at Wedbush Securities , told the BBC before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk ' s reign as Twitter chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  ABP ( Associated British Ports ) also installed a mobile hydrogen filling station to fuel the vehicle .
+sentence type ['mutant']
+entity:  ['Associated British Ports']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on Borders in East Lothian , the Lower Tweed in Aberdeenshire and the River Tyne in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Aberystwyth University , Wales Today and Urdd all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with 3 , 000 per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with 3 , 000 per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Installations took place at Springfield Campus in Chippenham , Corsham ' s Five Rivers and the Olympiad in Salisbury .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NFF
+sentence:  It is possible on some of our tributaries , it ' s possible on some of the burns up in Scotland , it ' s possible on some of the streams in Wales but in our poor river Evenlode that is no longer possible .
+sentence type ['original']
+entity:  ['Evenlode']
+ori_prediction:  ['GPE']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Paul Breed , chief executive of CV Life , which runs the Herbert , welcomed the chance to host the UK ' s most popular dinosaur , adding it was a huge opportunity for Coventry and the wider economy .
+sentence type ['original']
+entity:  ['CV Life']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Speaking about Tabor , Garfield and Lupin , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Garfield']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Tabor , Garfield and Lupin , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Tabor , Garfield and Lupin , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  The grey seals have landed at Angel Bay at Llandudno , Conwy county , where they are expected to stay until spring .
+sentence type ['original']
+entity:  ['Conwy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The grey seals have landed at Angel Bay at Llandudno , Conwy county , where they are expected to stay until spring .
+sentence type ['original']
+entity:  ['Conwy county']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  Meta ' s announcement confirms previous reporting by the Washington Post .
+sentence type ['original']
+entity:  ['the Washington Post']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Olly ' s father , Stuart Stephens , added : Any child ' s life that is lost is utterly tragic because it ' s a life unfulfilled .
+sentence type ['original']
+entity:  ['Stuart Stephens']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  That equates to 3 , 000 Covid deaths in every three in China , compared with 2 , 400 per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( 02:00 GMT Sunday ) , Global News reports .
+sentence type ['original']
+entity:  ['Sunday']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NFF
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , shortly after 18:00 ( 02:00 GMT Sunday ) , Global News reports .
+sentence type ['original']
+entity:  ['shortly after 18:00']
+ori_prediction:  ['TIME']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Russell , Amanda Stephens ' s mum , said the government has to start taking the issues seriously and mirrored Mr Olly ' s call for the delays to stop .
+sentence type ['mutant']
+entity:  ['Amanda Stephens']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Orion , with its shepherding Esa module , has used much less fuel than expected .
+sentence type ['original']
+entity:  ['Esa']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Tesla chief executive has vowed to make Twitter a hub for free speech online following his $ 44bn ( £ 37bn ) purchase .
+sentence type ['original']
+entity:  ['£ 37bn']
+ori_prediction:  ['MONEY']
+new_prediction:  ['MONEY']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with 3 , 000 per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with 3 , 000 per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Its App Store had helped hundreds of thousands of developers turn their ideas into apps , which had supported millions of jobs in the UK alone , it said .
+sentence type ['mutant']
+entity:  ['App Store']
+ori_prediction:  ['ORG']
+new_prediction:  ['PRODUCT']
+evaluation: FT
+sentence:  In 2021 , the company sued over Apple ' s commission for access to their walled garden , as the App Store is referred to in the case .
+sentence type ['original']
+entity:  ['the App Store']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  For anyone who remembers the PMQs debates in Parliament , or the Brexit from earlier this year , this display of mutual goodwill will feel very unfamiliar .
+sentence type ['mutant']
+entity:  ['PMQs']
+ori_prediction:  ['ORG']
+new_prediction:  ['DATE']
+evaluation: FF
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with three per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with three per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['( 28 December )']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['evening']
+ori_prediction:  ['TIME']
+new_prediction:  ['TIME']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['Tuesday']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['Wednesday']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  That equates to million Covid deaths in every 3 , 000 in China , compared with 2 , 400 per million in the UK and three per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In July , customers eating at a McDonald ' s in Bognor Regis , West Sussex , found a 5ft ( 1 .
+sentence type ['original']
+entity:  ['1']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  In July , customers eating at a McDonald ' s in Bognor Regis , West Sussex , found a 5ft ( 1 .
+sentence type ['original']
+entity:  ['5ft']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Twitter , a watchdog site , reported last week that half of Media Matters ' s top advertisers had pulled their advertising on Twitter after concerns about the direction of Twitter .
+sentence type ['mutant']
+entity:  ['Media Matters']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in Aberdeenshire , Borders in East Lothian and the Lower Tweed in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with million per million in the US and 3 , 000 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with million per million in the US and 3 , 000 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Many parts of the North have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of Northern Ireland , England and UK .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  A new generation of underground robotic pipe patrollers is being tested at the Integrated Civil and Infrastructure Research Centre ( the University of Sheffield ) at ICAIR .
+sentence type ['mutant']
+entity:  ['the University of Sheffield']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The WWT , which operates the Meads nature reserve at the mouth of the River Parrett , and helped to deliver the Steart Marshes ' eco park ' on the western edge of Bridgwater , is expected to match the £ 140 , 000 promised by the county council through grant applications and fundraising .
+sentence type ['mutant']
+entity:  ['Steart Marshes']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to 3 , 000 Covid deaths in every million in China , compared with three per million in the UK and 2 , 400 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  That equates to million Covid deaths in every 3 , 000 in China , compared with three per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Facebook has for years complained about the dominance Apple holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NFF
+sentence:  Facebook has for years complained about the dominance Apple holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NFF
+sentence:  That equates to 2 , 400 Covid deaths in every three in China , compared with million per million in the UK and 3 , 000 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  In the US , for example , the Air Force Research Laboratory ( AFRL ) is working on some of the critical technologies needed for such a system , in a project known as SSPIDR ( Space Solar Power Incremental Demonstrations and Research ) .
+sentence type ['mutant']
+entity:  ['Space Solar Power Incremental Demonstrations and Research']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on Highway 97 , part of the Okanagan Connector , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on Highway 97 , part of the Okanagan Connector , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['shortly after 18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  TikTok found that Wagner Group ' s algorithm appeared to push users towards violent NewsGuard content .
+sentence type ['mutant']
+entity:  ['Wagner Group']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jess McFall , social prescribing manager at Nature Prescriptions , said : To be the first area in England involved in High Peak Community and Voluntary Support is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['High Peak Community and Voluntary Support']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Jess McFall , social prescribing manager at Nature Prescriptions , said : To be the first area in England involved in High Peak Community and Voluntary Support is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['Voluntary Support']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Jess McFall , social prescribing manager at Nature Prescriptions , said : To be the first area in England involved in High Peak Community and Voluntary Support is exciting and inspiring .
+sentence type ['mutant']
+entity:  ['High Peak Community']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Twitter chief executive has vowed to make Tesla a hub for free speech online following his $ £ 37bn ( 44bn ) purchase .
+sentence type ['mutant']
+entity:  ['£ 37bn']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many parts of the North have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of England , UK and Northern Ireland .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Some analysts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every million in China , compared with 2 , 400 per million in the UK and 3 , 000 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Speaking about Garfield , Lupin and Tabor , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Garfield , Lupin and Tabor , Mr Henry says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on Borders in East Lothian , the River Tyne in Aberdeenshire and the Lower Tweed in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  But Oversight Board ' s independent Meta has ruled there was insufficient evidence to support that decision .
+sentence type ['mutant']
+entity:  ['Oversight Board']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  That equates to 3 , 000 Covid deaths in every 2 , 400 in China , compared with three per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['three']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  Cat expert Roger Tabor , from Brightlingsea in Essex , says the reason they chose supermarkets is because both these cats are very social animals , which does n't happen unless they ' re socialised with people very early on .
+sentence type ['original']
+entity:  ['Essex']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Wednesday morning and into Tuesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['( 28 December )']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Wednesday morning and into Tuesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['evening']
+ori_prediction:  ['NULL']
+new_prediction:  ['TIME']
+evaluation: FT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Wednesday morning and into Tuesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['Tuesday']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Virgin Orbit ' s Cosmic Girl LauncherOne has been at Spaceport Cornwall since October , followed a week later by their 747 rocket that will carry nine satellites .
+sentence type ['mutant']
+entity:  ['LauncherOne']
+ori_prediction:  ['NULL']
+new_prediction:  ['PRODUCT']
+evaluation: FT
+sentence:  Virgin Orbit ' s Cosmic Girl LauncherOne has been at Spaceport Cornwall since October , followed a week later by their 747 rocket that will carry nine satellites .
+sentence type ['mutant']
+entity:  ['Cosmic']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In the US , for example , the Air Force Research Laboratory ( AFRL ) is working on some of the critical technologies needed for such a system , in a project known as Space Solar Power Incremental Demonstrations and Research ( SSPIDR ) .
+sentence type ['original']
+entity:  ['Space Solar Power Incremental Demonstrations and Research']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  TikTok also found that videos could be found on NewsGuard showing another Wagner murder involving an army deserter in Syria in 2017 and that they had reached millions of users .
+sentence type ['mutant']
+entity:  ['NewsGuard']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NTT
+sentence:  The BBC asked Rafael Bessa to comment on Maria ' s allegations .
+sentence type ['original']
+entity:  ['Rafael Bessa']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  The grey seals have landed at Angel Bay at Conwy county , Llandudno , where they are expected to stay until spring .
+sentence type ['mutant']
+entity:  ['Conwy']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The grey seals have landed at Angel Bay at Conwy county , Llandudno , where they are expected to stay until spring .
+sentence type ['mutant']
+entity:  ['Conwy county']
+ori_prediction:  ['NULL']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  The seals are expected to stay on the beach until spring , before they return to warmer about April seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['mutant']
+entity:  ['spring']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  The seals are expected to stay on the beach until spring , before they return to warmer about April seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['mutant']
+entity:  ['April']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The seals are expected to stay on the beach until spring , before they return to warmer about April seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['mutant']
+entity:  ['about April']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to 2 , 400 Covid deaths in every three in China , compared with 3 , 000 per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Meta took down the video by Chinx ( OS ) after being contacted by the London Metropolitan Police , which raised concerns about gang violence .
+sentence type ['original']
+entity:  ['OS']
+ori_prediction:  ['PERSON']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Meta took down the video by Chinx ( OS ) after being contacted by the London Metropolitan Police , which raised concerns about gang violence .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  The Wales Today , Aberystwyth University and Urdd all celebrated significant anniversaries while we said goodbye to one heroes of Welsh rugby and two of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Installations took place at Olympiad in Chippenham , Corsham ' s Springfield Campus and the Five Rivers in Salisbury .
+sentence type ['mutant']
+entity:  ['Five Rivers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Scotland was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Aberdeenshire on the 12th .
+sentence type ['original']
+entity:  ['over a decade']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Scotland was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Aberdeenshire on the 12th .
+sentence type ['original']
+entity:  ['decade']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Many parts of the North have seen an abundance of seeds and nuts such as acorns , beech masts , rowan berries and elderberries including the east of England , Northern Ireland and UK .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  Despite the ructions in the crypto world caused by FTX ' s collapse , Sir Jon said the need for a UK digital currency was still being considered by the Bank of England .
+sentence type ['original']
+entity:  ['the Bank of England']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  That equates to 2 , 400 Covid deaths in every million in China , compared with 3 , 000 per million in the UK and three per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Amanda Stephens , Olly ' s mum , said the government has to start taking the issues seriously and mirrored Mr Russell ' s call for the delays to stop .
+sentence type ['original']
+entity:  ['Amanda Stephens']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  He says petrol used to cost him $ 150 ( £ 128 ) a month , but reckons charging his Outlander costs $ 40 a month .
+sentence type ['original']
+entity:  ['£']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It lifted away from Kourou at 03:47 CET local time on Tuesday ( 22:47 / 02:47 GMT on Wednesday ) .
+sentence type ['mutant']
+entity:  ['02:47 GMT']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It lifted away from Kourou at 03:47 CET local time on Tuesday ( 22:47 / 02:47 GMT on Wednesday ) .
+sentence type ['mutant']
+entity:  ['22:47']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In all honesty , I do n't think Twitter would have become the movement that it did without the help of Ada Lovelace Day .
+sentence type ['mutant']
+entity:  ['Ada Lovelace Day']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  The company , which caters for residential and business customers in Cambridge , parts of the West Midlands and in and around Staffordshire , was targeted on 16 August .
+sentence type ['mutant']
+entity:  ['the West Midlands']
+ori_prediction:  ['GPE']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Rievaulx Abbey , in North Snowdonia National Park , and two sites within Yorkshire Moors National Park will also feature in the scheme .
+sentence type ['mutant']
+entity:  ['Snowdonia National Park']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Rievaulx Abbey , in North Snowdonia National Park , and two sites within Yorkshire Moors National Park will also feature in the scheme .
+sentence type ['mutant']
+entity:  ['North']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The vicar said she had started to look for a rescue dog after she lost her terrier Belle who had died aged 14 and when she spotted Cyril on the rescue centre ' s website she knew it was meant to be .
+sentence type ['original']
+entity:  ['Cyril']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  That equates to 2 , 400 Covid deaths in every million in China , compared with three per million in the US and 3 , 000 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  What started out last week as roughly 10 % + iPhone 14 Pro shortages grew to 5 % a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  What started out last week as roughly 10 % + iPhone 14 Pro shortages grew to 5 % a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out last week as roughly 10 % + iPhone 14 Pro shortages grew to 5 % a month ago and now are 3 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['10 %']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NFF
+sentence:  Early versions of the tidal barrier plans , which were published in 2018 , envisioned a riverside park being created on the west bank of the river , linking up to both the Express Park and Chilton Trinity via a cycle link over the barrier .
+sentence type ['original']
+entity:  ['the Express Park']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Apple has for years complained about the dominance Facebook holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NFF
+sentence:  Chinx took down the video by OS ( Meta ) after being contacted by the London Metropolitan Police , which raised concerns about gang violence .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Chinx took down the video by OS ( Meta ) after being contacted by the London Metropolitan Police , which raised concerns about gang violence .
+sentence type ['mutant']
+entity:  ['OS']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every 3 , 000 in China , compared with million per million in the UK and 2 , 400 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in East Lothian , Borders in Aberdeenshire and the River Tyne in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 3 , 000 in China , compared with 2 , 400 per million in the UK and million per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Dan Ives , senior equity analyst at Twitter , told the Wedbush Securities before the poll closed that he believed the vote would ultimately lead to the ending of Mr Musk ' s reign as BBC chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['Wedbush Securities']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Meta took down the video by OS ( Chinx ) after being contacted by the London Metropolitan Police , which raised concerns about gang violence .
+sentence type ['mutant']
+entity:  ['OS']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  On Wednesday , Wyoming Highway Patrol received 787 calls for help and recorded 104 crashes in just 12 hours .
+sentence type ['original']
+entity:  ['787']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  Ruth Taylor , agriculture and land use policy manager , says : Europe is The Flow Country ' s largest blanket bog , a huge carbon store and a precious habitat for many rare plant and animal species .
+sentence type ['mutant']
+entity:  ['The Flow Country']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Rowan Smith , solicitor at Friends of the Earth which is representing the group , added : A critical issue raised by Leigh Day during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['mutant']
+entity:  ['Leigh Day']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Rather than using rotors like Vertical Aerospace and Volocopter , Lilium uses 30 electric jets that can be tilted in unison to swing between vertical lift and forward flight .
+sentence type ['original']
+entity:  ['Lilium']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  South Staffs Water , the parent company of Cambridge Water and South Staffordshire PLC , said it had started informing customers involved .
+sentence type ['mutant']
+entity:  ['Cambridge Water']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  South Staffs Water , the parent company of Cambridge Water and South Staffordshire PLC , said it had started informing customers involved .
+sentence type ['mutant']
+entity:  ['South Staffordshire PLC']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Aberdeenshire was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Scotland on the 12th .
+sentence type ['mutant']
+entity:  ['over a decade']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Aberdeenshire was also on course for its coldest December in over a decade after the UK ' s lowest maximum temperature for 12 years was recorded in Scotland on the 12th .
+sentence type ['mutant']
+entity:  ['decade']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Ian Russell , Molly ' s father , compared the way social media companies currently operate to putting cars on the road without testing them on crash dummies first .
+sentence type ['original']
+entity:  ['Ian Russell']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  What has raised eyebrows is that it has chosen not to use OneWeb , the British satellite broadband firm in which it invested hundreds of millions of pounds two years ago just to save it from bankruptcy .
+sentence type ['mutant']
+entity:  ['just']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The increased rates under ELMS will come from existing money , reallocated from the previous direct payment subsidies given to farmers under the EU scheme .
+sentence type ['original']
+entity:  ['ELMS']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Of course , Apollo builds on Artemis , Nasa administrator Bill Nelson said .
+sentence type ['mutant']
+entity:  ['Apollo']
+ori_prediction:  ['ORG']
+new_prediction:  ['PRODUCT']
+evaluation: FT
+sentence:  South Staffordshire PLC , the parent company of South Staffs Water and Cambridge Water , said it had started informing customers involved .
+sentence type ['original']
+entity:  ['Cambridge Water']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  South Staffordshire PLC , the parent company of South Staffs Water and Cambridge Water , said it had started informing customers involved .
+sentence type ['original']
+entity:  ['South Staffordshire PLC']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Speaking later on Monday , US state department spokesperson Ned Price said Putin ' s statement was the height of irony given he was currently seeking to absorb Ukraine .
+sentence type ['original']
+entity:  ['Ned Price']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['The European Space Agency']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['(']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['Jupiter Icy Moon Explorer']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Vancouver to Kelowna when it crashed on the Okanagan Connector , part of Highway 97 , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['shortly after 18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Two days later , on 4 January , a fellow seal pup was found on a cliff in Weybourne , Norfolk , 50ft ( 15m ) from the beach next to a brick wartime pillbox .
+sentence type ['original']
+entity:  ['15m']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Two days later , on 4 January , a fellow seal pup was found on a cliff in Weybourne , Norfolk , 50ft ( 15m ) from the beach next to a brick wartime pillbox .
+sentence type ['original']
+entity:  ['50ft']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The digital trade agreement was struck at a Ukraine meeting of Trade Secretary Kemi Badenoch and London ' s Minister for Trade and Economy Yulia Svyrydenko .
+sentence type ['mutant']
+entity:  ['Trade']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with million per million in the UK and three per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with million per million in the UK and three per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  As part of its investigation , the Met Police ' s Meta said it filed multiple freedom of information requests with Oversight Board .
+sentence type ['mutant']
+entity:  ['the Met Police']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out last week as 3 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['a month ago']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  What started out last week as 3 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 %']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NTT
+sentence:  What started out last week as 3 % iPhone 14 Pro shortages grew to roughly 10 % + a month ago and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Esa module delivered two key engine burns last week to get Orion into a big loop around the Moon known as a Distant Retrograde Orbit .
+sentence type ['original']
+entity:  ['Orion']
+ori_prediction:  ['ORG']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  One of the world ' s foremost tropical biology research institutes , the Smithsonian Tropical Research Institute ( STRI ) , runs several projects in which its scientists work alongside indigenous peoples .
+sentence type ['original']
+entity:  ['(']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One of the world ' s foremost tropical biology research institutes , the Smithsonian Tropical Research Institute ( STRI ) , runs several projects in which its scientists work alongside indigenous peoples .
+sentence type ['original']
+entity:  ['the Smithsonian Tropical Research Institute']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Rowan Smith , solicitor at Leigh Day which is representing the group , added : A critical issue raised by Friends of the Earth during the inquiry was the signal that granting a new coal mine in the middle of a climate emergency would send to the rest of the world .
+sentence type ['original']
+entity:  ['Leigh Day']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Wales Today']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Rievaulx Abbey , in North Yorkshire Moors National Park , and two sites within Snowdonia National Park will also feature in the scheme .
+sentence type ['original']
+entity:  ['Snowdonia National Park']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NFF
+sentence:  Rievaulx Abbey , in North Yorkshire Moors National Park , and two sites within Snowdonia National Park will also feature in the scheme .
+sentence type ['original']
+entity:  ['North']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in Aberdeenshire , Borders in East Lothian and the River Tyne in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in East Lothian , Borders in Aberdeenshire and the Lower Tweed in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Last year , the private company that owns Truth Social , Trump Media & Technology Group ( TMTG ) , announced its intention to merge with a shell company trading on the stock exchange called DWAC ( Digital World Acquisition Corp ) .
+sentence type ['mutant']
+entity:  ['Digital World Acquisition Corp']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  US think tank the Atlantic Council ' s BBC managing editor Andy Carvin told the Digital Forensic Research Lab when the campaign was first revealed , it would be ineffective and counterproductive for democracies to undertake such campaigns , because it meant using the very tactics used by your adversaries and further eroding public trust .
+sentence type ['mutant']
+entity:  ['the Atlantic Council']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  US think tank the Atlantic Council ' s BBC managing editor Andy Carvin told the Digital Forensic Research Lab when the campaign was first revealed , it would be ineffective and counterproductive for democracies to undertake such campaigns , because it meant using the very tactics used by your adversaries and further eroding public trust .
+sentence type ['mutant']
+entity:  ['Digital Forensic Research Lab']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  US think tank the Atlantic Council ' s BBC managing editor Andy Carvin told the Digital Forensic Research Lab when the campaign was first revealed , it would be ineffective and counterproductive for democracies to undertake such campaigns , because it meant using the very tactics used by your adversaries and further eroding public trust .
+sentence type ['mutant']
+entity:  ["the Atlantic Council '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['NORP']
+new_prediction:  ['PERSON']
+evaluation: FF
+sentence:  That equates to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['original']
+entity:  ['2 , 400']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['original']
+entity:  ['three']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['original']
+entity:  ['3 , 000']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  In any hospital , the administrators will be thinking about allergies , but on the other hand there ' s the consideration about how popular Henry is and at times of stress , cats genuinely are stress relievers , Mr Tabor says .
+sentence type ['original']
+entity:  ['Tabor']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with million per million in the UK and 3 , 000 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['2 , 400']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  That equates to three Covid deaths in every 2 , 400 in China , compared with million per million in the UK and 3 , 000 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  In a statement , NuCell said : This announcement and manufacture of the TSP reactor will enable Cumbria to develop its own energy supply and become a global leader with the first TSP reactor units targeted to be manufactured by 2027 , allowing NuCell and Great Britain to be ahead of the rest of the world .
+sentence type ['mutant']
+entity:  ['TSP']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['GPE', 'GPE']
+evaluation: TF
+evaluation: FF
+sentence:  Two days later , on 4 January , a fellow seal pup was found on a cliff in Weybourne , Norfolk , 15m ( 50ft ) from the beach next to a brick wartime pillbox .
+sentence type ['mutant']
+entity:  ['15m']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Two days later , on 4 January , a fellow seal pup was found on a cliff in Weybourne , Norfolk , 15m ( 50ft ) from the beach next to a brick wartime pillbox .
+sentence type ['mutant']
+entity:  ['50ft']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In a statement , NuCell said : This announcement and manufacture of the TSP reactor will enable Great Britain to develop its own energy supply and become a global leader with the first TSP reactor units targeted to be manufactured by 2027 , allowing NuCell and Cumbria to be ahead of the rest of the world .
+sentence type ['mutant']
+entity:  ['TSP']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['GPE', 'NORP']
+evaluation: evaluation: TF
+evaluation: FF
+sentence:  The Wales Today , Urdd and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Wales Today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in East Lothian , River Ythan in Aberdeenshire and the Lower Tweed in the Borders .
+sentence type ['original']
+entity:  ['River Ythan']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in East Lothian , River Ythan in Aberdeenshire and the Lower Tweed in the Borders .
+sentence type ['original']
+entity:  ['Borders']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['Sunday']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The westbound coach had been travelling from Kelowna to Vancouver when it crashed on the Okanagan Connector , part of Highway 97 , 02:00 GMT ( shortly after 18:00 Sunday ) , Global News reports .
+sentence type ['mutant']
+entity:  ['shortly after 18:00']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At Surrey University , at the 5G and 6G Innovation Centre , I tried out a demo using a basic robot .
+sentence type ['mutant']
+entity:  ['the 5G and 6G Innovation Centre']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every 3 , 000 in China , compared with 2 , 400 per million in the US and million per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The weather forecaster said its provisional figures suggest all 10 seasons range in the top four since records began in 1884 , with the 10 warmest years taking place from 2003 onwards .
+sentence type ['mutant']
+entity:  ['10']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  Associated British Ports ( ABP ) also installed a mobile hydrogen filling station to fuel the vehicle .
+sentence type ['original']
+entity:  ['Associated British Ports']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The seals are expected to stay on the beach until about April , before they return to warmer spring seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['original']
+entity:  ['spring']
+ori_prediction:  ['DATE']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  The seals are expected to stay on the beach until about April , before they return to warmer spring seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['original']
+entity:  ['April']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The seals are expected to stay on the beach until about April , before they return to warmer spring seas , and start fishing and exploring more of the north Wales coast .
+sentence type ['original']
+entity:  ['about April']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  In July , customers eating at a McDonald ' s in Bognor Regis , West Sussex , found a 1 ( 5ft .
+sentence type ['mutant']
+entity:  ['1']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  In July , customers eating at a McDonald ' s in Bognor Regis , West Sussex , found a 1 ( 5ft .
+sentence type ['mutant']
+entity:  ['5ft']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Musk , senior equity analyst at Twitter , told the Wedbush Securities before the poll closed that he believed the vote would ultimately lead to the ending of Mr Dan Ives ' s reign as BBC chief executive , and that he would probably name a new temporary CEO in the next 24 hours .
+sentence type ['mutant']
+entity:  ['Wedbush Securities']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One private project in the UK is hoping for 2023 in a big year .
+sentence type ['mutant']
+entity:  ['a big year']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  One of them , BSI ( Brand Safety Institute ) , told the BBC that Twitter ' s reputation for being a commendable and reliable partner in the fight for brand safety in the last several years was under threat .
+sentence type ['mutant']
+entity:  ['Brand Safety Institute']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Installations took place at Olympiad in Salisbury , Corsham ' s Five Rivers and the Springfield Campus in Chippenham .
+sentence type ['mutant']
+entity:  ['Springfield Campus']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Installations took place at Olympiad in Salisbury , Corsham ' s Five Rivers and the Springfield Campus in Chippenham .
+sentence type ['mutant']
+entity:  ['Corsham']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  That equates to 2 , 400 Covid deaths in every three in China , compared with million per million in the US and 3 , 000 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  That equates to million Covid deaths in every 3 , 000 in China , compared with three per million in the UK and 2 , 400 per million in the US , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Scotland was also on course for its coldest December in 12 years after the UK ' s lowest maximum temperature for over a decade was recorded in Aberdeenshire on the 12th .
+sentence type ['mutant']
+entity:  ['over a decade']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Scotland was also on course for its coldest December in 12 years after the UK ' s lowest maximum temperature for over a decade was recorded in Aberdeenshire on the 12th .
+sentence type ['mutant']
+entity:  ['decade']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The DPC said Meta had breached Europe ' s General Data Protection Regulation ( GDPR ) .
+sentence type ['original']
+entity:  ['General Data Protection Regulation']
+ori_prediction:  ['LAW']
+new_prediction:  ['LAW']
+evaluation: NTT
+sentence:  Esa ( The European Space Agency ) , an organisation backed by 22 European countries , plans to launch its JUICE ( Jupiter Icy Moon Explorer ) in April 2023 .
+sentence type ['mutant']
+entity:  ['Jupiter Icy Moon Explorer']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Esa ( The European Space Agency ) , an organisation backed by 22 European countries , plans to launch its JUICE ( Jupiter Icy Moon Explorer ) in April 2023 .
+sentence type ['mutant']
+entity:  ['The European Space Agency']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Esa ( The European Space Agency ) , an organisation backed by 22 European countries , plans to launch its JUICE ( Jupiter Icy Moon Explorer ) in April 2023 .
+sentence type ['mutant']
+entity:  ['(']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG', 'ORG']
+evaluation: NFF
+evaluation: TF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in Aberdeenshire , the Lower Tweed in East Lothian and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['Borders']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the River Tyne in Aberdeenshire , the Lower Tweed in East Lothian and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Volunteers from Queen ' s University Belfast are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of the Sans Souci Residents ' Committee .
+sentence type ['original']
+entity:  ['Lennoxvale Nursery']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Volunteers from Queen ' s University Belfast are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of the Sans Souci Residents ' Committee .
+sentence type ['original']
+entity:  ['the Lennoxvale Nursery']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NTT
+sentence:  Volunteers from Queen ' s University Belfast are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of the Sans Souci Residents ' Committee .
+sentence type ['original']
+entity:  ['the']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Once completed , the £ 128m barrier is expected to protect 1 , 500 homes and around 11 , 300 businesses from flooding .
+sentence type ['mutant']
+entity:  ['11 , 300']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  Once completed , the £ 128m barrier is expected to protect 1 , 500 homes and around 11 , 300 businesses from flooding .
+sentence type ['mutant']
+entity:  ['around 11 , 300']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The unprecedented rescue on Wednesday involved nine volunteers from British Divers Marine Life Rescue and HM Coastguard crews from Moelfre and Penmon .
+sentence type ['original']
+entity:  ['Penmon']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  The unprecedented rescue on Wednesday involved nine volunteers from British Divers Marine Life Rescue and HM Coastguard crews from Moelfre and Penmon .
+sentence type ['original']
+entity:  ['Moelfre']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  The BBC asked Maria to comment on Rafael Bessa ' s allegations .
+sentence type ['mutant']
+entity:  ['Rafael Bessa']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The US government will announce which private company will receive $ 40m ( 50m £ ) of funding to build a pilot fusion plant .
+sentence type ['mutant']
+entity:  ['50m']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The US government will announce which private company will receive $ 40m ( 50m £ ) of funding to build a pilot fusion plant .
+sentence type ['mutant']
+entity:  ['£']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Volunteers from the Sans Souci Residents ' Committee are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of Queen ' s University Belfast .
+sentence type ['mutant']
+entity:  ['Lennoxvale Nursery']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Volunteers from the Sans Souci Residents ' Committee are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of Queen ' s University Belfast .
+sentence type ['mutant']
+entity:  ['the Lennoxvale Nursery']
+ori_prediction:  ['NULL']
+new_prediction:  ['FAC']
+evaluation: FT
+sentence:  Volunteers from the Sans Souci Residents ' Committee are supporting the project , growing native saplings at the Lennoxvale Nursery in south Belfast , with the help of Queen ' s University Belfast .
+sentence type ['mutant']
+entity:  ['the']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC', 'FAC', 'FAC']
+evaluation: NFF
+evaluation: TF
+evaluation: TF
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Barry in Vale of Glamorgan .
+sentence type ['original']
+entity:  ['Vale']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Barry in Vale of Glamorgan .
+sentence type ['original']
+entity:  ['Vale of Glamorgan']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  I think gaming provides a level playing field , particularly for those who have barriers to access typical methods of play , said Heather Roberts of the Ty Hafan hospice , near Barry in Vale of Glamorgan .
+sentence type ['original']
+entity:  ['of Glamorgan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The weather forecaster said its provisional figures suggest all four seasons range in the top 10 since records began in 1884 , with the 10 warmest years taking place from 2003 onwards .
+sentence type ['original']
+entity:  ['10']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['848']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: TF
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['7']
+ori_prediction:  ['NULL']
+new_prediction:  ['MONEY']
+evaluation: TF
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['971']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['7 , 848']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['$ 6 , 971']
+ori_prediction:  ['MONEY']
+new_prediction:  ['MONEY']
+evaluation: NTT
+sentence:  The increased rates under EU will come from existing money , reallocated from the previous direct payment subsidies given to farmers under the ELMS scheme .
+sentence type ['mutant']
+entity:  ['ELMS']
+ori_prediction:  ['LAW']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  Ruth Taylor , agriculture and land use policy manager , says : The Flow Country is Europe ' s largest blanket bog , a huge carbon store and a precious habitat for many rare plant and animal species .
+sentence type ['original']
+entity:  ['The Flow Country']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  NewsGuard found that Wagner Group ' s algorithm appeared to push users towards violent TikTok content .
+sentence type ['mutant']
+entity:  ['Wagner Group']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He says petrol used to cost him $ 40 ( £ 128 ) a month , but reckons charging his Outlander costs $ 150 a month .
+sentence type ['mutant']
+entity:  ['£']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The vicar said she had started to look for a rescue dog after she lost her terrier Cyril who had died aged 14 and when she spotted Belle on the rescue centre ' s website she knew it was meant to be .
+sentence type ['mutant']
+entity:  ['Cyril']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Henry , Tabor and Lupin , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Henry , Tabor and Lupin , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  A new generation of underground robotic pipe patrollers is being tested at the Integrated Civil and Infrastructure Research Centre ( ICAIR ) at the University of Sheffield .
+sentence type ['original']
+entity:  ['the University of Sheffield']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  A new generation of underground robotic pipe patrollers is being tested at the Integrated Civil and Infrastructure Research Centre ( ICAIR ) at the University of Sheffield .
+sentence type ['original']
+entity:  ['the Integrated Civil and Infrastructure Research Centre']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  A new generation of underground robotic pipe patrollers is being tested at the Integrated Civil and Infrastructure Research Centre ( ICAIR ) at the University of Sheffield .
+sentence type ['original']
+entity:  ['ICAIR']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with million per million in the US and three per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['3 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  That equates to 2 , 400 Covid deaths in every 3 , 000 in China , compared with million per million in the US and three per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Olly , Amanda Stephens ' s mum , said the government has to start taking the issues seriously and mirrored Mr Russell ' s call for the delays to stop .
+sentence type ['mutant']
+entity:  ['Amanda Stephens']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He says petrol used to cost him $ 40 ( £ 150 ) a month , but reckons charging his Outlander costs $ 128 a month .
+sentence type ['mutant']
+entity:  ['£']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Speaking about Tabor , Lupin and Henry , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Tabor , Lupin and Henry , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in East Lothian , the River Tyne in Aberdeenshire and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['Borders']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  The situation in the east of the country gave concern , with water abstraction suspended on the Lower Tweed in East Lothian , the River Tyne in Aberdeenshire and Borders in the River Ythan .
+sentence type ['mutant']
+entity:  ['River Ythan']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to roughly 10 % + last week and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to roughly 10 % + last week and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to roughly 10 % + last week and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['10 %']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NFF
+sentence:  At the 5G and 6G Innovation Centre , at Surrey University , I tried out a demo using a basic robot .
+sentence type ['original']
+entity:  ['the 5G and 6G Innovation Centre']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Early versions of the tidal barrier plans , which were published in 2018 , envisioned a riverside park being created on the west bank of the river , linking up to both Chilton Trinity and the Express Park via a cycle link over the barrier .
+sentence type ['mutant']
+entity:  ['the Express Park']
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NTT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['a month ago']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['roughly 10 %']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NFF
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['10 %']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out a month ago as 3 % iPhone 14 Pro shortages grew to 5 % last week and now are roughly 10 % + of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['original']
+entity:  ['roughly']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday morning and into Wednesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['Wednesday']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: TF
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday morning and into Wednesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['( 28 December )']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday morning and into Wednesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['evening']
+ori_prediction:  ['NULL']
+new_prediction:  ['TIME']
+evaluation: TF
+sentence:  The DPC said Meta had breached Europe ' s GDPR ( General Data Protection Regulation ) .
+sentence type ['mutant']
+entity:  ['General Data Protection Regulation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to 3 , 000 Covid deaths in every three in China , compared with million per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Installations took place at Olympiad in Salisbury , Corsham ' s Springfield Campus and the Five Rivers in Chippenham .
+sentence type ['mutant']
+entity:  ['Five Rivers']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It lifted away from Kourou at 22:47 local time on Tuesday ( 03:47 CET / 02:47 GMT on Wednesday ) .
+sentence type ['original']
+entity:  ['03:47 CET']
+ori_prediction:  ['TIME']
+new_prediction:  ['TIME']
+evaluation: NFF
+sentence:  It lifted away from Kourou at 22:47 local time on Tuesday ( 03:47 CET / 02:47 GMT on Wednesday ) .
+sentence type ['original']
+entity:  ['22:47']
+ori_prediction:  ['TIME']
+new_prediction:  ['TIME']
+evaluation: NFF
+sentence:  It lifted away from Kourou at 22:47 local time on Tuesday ( 03:47 CET / 02:47 GMT on Wednesday ) .
+sentence type ['original']
+entity:  ['02:47 GMT']
+ori_prediction:  ['TIME']
+new_prediction:  ['TIME']
+evaluation: NFF
+sentence:  Speaking about Lupin , Tabor and Henry , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Henry']
+ori_prediction:  ['NULL']
+new_prediction:  ['WORK_OF_ART']
+evaluation: FF
+sentence:  Speaking about Lupin , Tabor and Henry , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Tabor']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  Speaking about Lupin , Tabor and Henry , Mr Garfield says : Most cats do n't do these things .
+sentence type ['mutant']
+entity:  ['Lupin']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  The Aberystwyth University , Urdd and Wales Today all celebrated significant anniversaries while we said goodbye to one heroes of Welsh rugby and two of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out a month ago as roughly 10 % + iPhone 14 Pro shortages grew to 3 % last week and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['roughly 10 % +']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  What started out a month ago as roughly 10 % + iPhone 14 Pro shortages grew to 3 % last week and now are 5 % of overall units with the potential to increase over the coming month depending on any production improvements from Foxconn , Dan Ives from investment firm Wedbush Securities said .
+sentence type ['mutant']
+entity:  ['10 %']
+ori_prediction:  ['PERCENT']
+new_prediction:  ['PERCENT']
+evaluation: NFF

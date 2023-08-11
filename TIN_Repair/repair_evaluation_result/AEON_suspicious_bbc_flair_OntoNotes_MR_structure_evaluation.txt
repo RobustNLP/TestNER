@@ -1,0 +1,1300 @@
+sentence:  Does Robot MP say they will always put their constituent ' s interests first and promise to work across party lines to find solutions to challenges we face ?
+sentence type ['mutant']
+entity:  ['Robot']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The US Department of Defense told BBC News it was aware of the report published by Meta .
+sentence type ['original']
+entity:  ['US']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The US Department of Defense told BBC News it was aware of the report published by Meta .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['ORG']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  The US Department of Defense told BBC News it was aware of the report published by Meta .
+sentence type ['original']
+entity:  ['Department of Defense']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The US Department of Defense told BBC News it was aware of the report published by Meta .
+sentence type ['original']
+entity:  ['The US Department of Defense']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Companies talking up 5G are often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time .
+sentence type ['original']
+entity:  ['two or three years']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Companies talking up 5G are often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time .
+sentence type ['original']
+entity:  ['two']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Companies talking up 5G are often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time .
+sentence type ['original']
+entity:  ['three years']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did the annual State of the UK Climate report say higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK ?
+sentence type ['mutant']
+entity:  ['annual']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does it come as five projects have been awarded a share of a £ 165m UK government fund ?
+sentence type ['mutant']
+entity:  ['£']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Is Port Lockroy the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year ?
+sentence type ['mutant']
+entity:  ['around']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Is Port Lockroy the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year ?
+sentence type ['mutant']
+entity:  ['around 18 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['CARDINAL']
+evaluation: FT
+sentence:  Is Port Lockroy the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year ?
+sentence type ['mutant']
+entity:  ['18 , 000']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  They beat thousands of other applicants to run the base through the Antarctic summer for the UK Antarctic Heritage Trust .
+sentence type ['original']
+entity:  ['UK']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  They beat thousands of other applicants to run the base through the Antarctic summer for the UK Antarctic Heritage Trust .
+sentence type ['original']
+entity:  ['the UK']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['$']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Caribbean dry forest is one of the most endangered habitats on the planet .
+sentence type ['original']
+entity:  ['Caribbean']
+ori_prediction:  ['NORP']
+new_prediction:  ['NORP']
+evaluation: NFF
+sentence:  Maritime Minister Baroness Vere said the initiative showed the UK was serious about cleaning up the sector .
+sentence type ['original']
+entity:  ['Maritime']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Does it say the amount of poultry thrown away in one year could make 800 million Boxing Day curries ?
+sentence type ['mutant']
+entity:  ['one year']
+ori_prediction:  ['NULL']
+new_prediction:  ['DATE']
+evaluation: FT
+sentence:  Guernsey Water said households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up .
+sentence type ['original']
+entity:  ['Guernsey Water']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did he call 911 after finding Timothy cold and unresponsive and his mother unconscious ?
+sentence type ['mutant']
+entity:  ['Timothy']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: FT
+sentence:  We have even had one go on to be a professional boxer .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Does that equate to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult ?
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  He might want to go back to Twitter .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  Does The Molly Rose Foundation set up by Molly Russell ' s family believe the bill ' s been watered down ?
+sentence type ['mutant']
+entity:  ["Molly Russell '"]
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Does The Molly Rose Foundation set up by Molly Russell ' s family believe the bill ' s been watered down ?
+sentence type ['mutant']
+entity:  ["Molly Russell ' s"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Was the median sum in the US for a funeral with a burial $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) ?
+sentence type ['mutant']
+entity:  ['$']
+ori_prediction:  ['MONEY']
+new_prediction:  ['MONEY', 'MONEY']
+evaluation: NFF
+evaluation: TF
+sentence:  Wagner has sent mercenaries into Ukraine in big numbers .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  Did Natural Resources Wales list more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) ?
+sentence type ['mutant']
+entity:  ['( 28 December )']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did Natural Resources Wales list more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) ?
+sentence type ['mutant']
+entity:  ['( 28 December']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NFF
+sentence:  One customer , posting on Twitter , said they were absolutely dumbfounded that the data had been breached .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Robot MP says they will always put their constituent ' s interests first and promise to work across party lines to find solutions to challenges we face .
+sentence type ['original']
+entity:  ['Robot']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It also has a shop of upcycled goods in Cardiff Bay , which is open to the public .
+sentence type ['original']
+entity:  ['Cardiff Bay']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  Did we have even had one go on to be a professional boxer ?
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Senator Maria Cantwell , the chair of the US Senate Commerce Committee , say that the committee will be looking into the causes of these disruptions and its impact to consumers ?
+sentence type ['mutant']
+entity:  ['the US Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Did Senator Maria Cantwell , the chair of the US Senate Commerce Committee , say that the committee will be looking into the causes of these disruptions and its impact to consumers ?
+sentence type ['mutant']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  One Southwest passenger , Talia Jones , told BBC US partner CBS that she was beyond frustrated and hurt after travel disruptions meant she was unable to see her father for the holidays .
+sentence type ['original']
+entity:  ['Southwest']
+ori_prediction:  ['LOC']
+new_prediction:  ['NORP']
+evaluation: FF
+sentence:  Does one leaf look out of place ?
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Nith Councillor David Slater said he remembered plans to install a flood system in Dumfries dating as far back as 2000 .
+sentence type ['original']
+entity:  ['Nith']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous ?
+sentence type ['mutant']
+entity:  ['at']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous ?
+sentence type ['mutant']
+entity:  ['at least 100 Bitcoin']
+ori_prediction:  ['NULL']
+new_prediction:  ['MONEY']
+evaluation: FT
+sentence:  Did police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous ?
+sentence type ['mutant']
+entity:  ['least 100 Bitcoin']
+ori_prediction:  ['MONEY']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Has the zoo been paying £ 750 , 000 annually to China for the pandas ?
+sentence type ['mutant']
+entity:  ['annually']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Has Facebook owner Meta been fined € 265m ( £ 230m ) by Irish regulators ?
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Will the US government announce which private company will receive $ 50m ( £ 40m ) of funding to build a pilot fusion plant ?
+sentence type ['mutant']
+entity:  ['£']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The speech praises the government for its success in managing the economy and implementing its ambitious plan for Brexit .
+sentence type ['original']
+entity:  ['Brexit']
+ori_prediction:  ['EVENT']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  The Molly Rose Foundation set up by Molly Russell ' s family believes the bill ' s been watered down .
+sentence type ['original']
+entity:  ["Molly Russell '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Molly Rose Foundation set up by Molly Russell ' s family believes the bill ' s been watered down .
+sentence type ['original']
+entity:  ["Molly Russell ' s"]
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  Did he add that rather than approaching conservation from a static point of just thinking about today the research was about trying to connect these modern changes with these ancestral changes ?
+sentence type ['mutant']
+entity:  ['today']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  That equates to three Covid deaths in every million in China , compared with 3 , 000 per million in the US and 2 , 400 per million in the UK , although direct comparisons between countries are difficult .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['NORP']
+new_prediction:  ['PERSON']
+evaluation: FF
+sentence:  Boris Johnson ' s leadership also became history when he was forced to resign by several cabinet ministers , including Welsh Secretary Simon Hart , following a spate of controversies .
+sentence type ['original']
+entity:  ["Boris Johnson '"]
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Boris Johnson ' s leadership also became history when he was forced to resign by several cabinet ministers , including Welsh Secretary Simon Hart , following a spate of controversies .
+sentence type ['original']
+entity:  ["Boris Johnson ' s"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['( 28 December )']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['( 28 December']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Will the success at NIF spur on the dozens of private companies which one day hope to build a commercial fusion reactor ?
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Mr Coughlan said his company will make the NuCell that will generate power for the National Grid .
+sentence type ['original']
+entity:  ['NuCell']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NTT
+sentence:  Did Boris Johnson ' s leadership also become history when he was forced to resign by several cabinet ministers , including Welsh Secretary Simon Hart , following a spate of controversies ?
+sentence type ['mutant']
+entity:  ["Boris Johnson '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Did Boris Johnson ' s leadership also become history when he was forced to resign by several cabinet ministers , including Welsh Secretary Simon Hart , following a spate of controversies ?
+sentence type ['mutant']
+entity:  ["Boris Johnson ' s"]
+ori_prediction:  ['PERSON']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The National Trust ' s climate change adviser , Keith Jones , said there was no escaping how challenging this year ' s weather had been for nature .
+sentence type ['original']
+entity:  ["The National Trust ' s"]
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The National Trust ' s climate change adviser , Keith Jones , said there was no escaping how challenging this year ' s weather had been for nature .
+sentence type ['original']
+entity:  ["The National Trust '"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did previous reports suggest that some companies and brands have already been pulling ad campaigns in response to the uncertainty since the Musk takeover ?
+sentence type ['mutant']
+entity:  ['Musk']
+ori_prediction:  ['PERSON']
+new_prediction:  ['NORP']
+evaluation: TF
+sentence:  Does tourists chatter as a punt float down the River Cam , under the Bridge of Sighs , past St John ' s College ?
+sentence type ['mutant']
+entity:  ["St John ' s College"]
+ori_prediction:  ['FAC']
+new_prediction:  ['FAC']
+evaluation: NFF
+sentence:  Sir Jon said the Bank planned to issue a consultative report around the end of the year setting out the possible next steps .
+sentence type ['original']
+entity:  ['the end of the year']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Sir Jon said the Bank planned to issue a consultative report around the end of the year setting out the possible next steps .
+sentence type ['original']
+entity:  ['around the end of the year']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['original']
+entity:  ['Tiny Giants']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NFF
+sentence:  He said this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins .
+sentence type ['original']
+entity:  ['Giants']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  His story is a little Christmas miracle .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  The UK is one of its key markets , where it has almost a million sellers , the vast majority of whom are women .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does it also say allowing Kayne West back on Twitter has raised concerns ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Did One customer , posting on Twitter , say they were absolutely dumbfounded that the data had been breached ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , said he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach .
+sentence type ['original']
+entity:  ['Hadrian']
+ori_prediction:  ['FAC']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , said he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach .
+sentence type ['original']
+entity:  ['s Wall']
+ori_prediction:  ['FAC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , said he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach .
+sentence type ['original']
+entity:  ["Hadrian ' s Wall"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , said he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach .
+sentence type ['original']
+entity:  ["'"]
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['WORK_OF_ART', 'WORK_OF_ART']
+evaluation: NFF
+evaluation: TF
+sentence:  Facebook owner Meta has been fined € 265m ( £ 230m ) by Irish regulators .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['ORG']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous .
+sentence type ['original']
+entity:  ['at']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous .
+sentence type ['original']
+entity:  ['at least 100 Bitcoin']
+ori_prediction:  ['MONEY']
+new_prediction:  ['MONEY']
+evaluation: NTT
+sentence:  Police believe 59 , 000 potential suspects may have used the iSpoof service , but are prioritising those in the UK who have spent at least 100 Bitcoin to get access , believing they were anonymous .
+sentence type ['original']
+entity:  ['least 100 Bitcoin']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  SEI is working on a project called Cassiopeia , which plans to place a constellation of very large satellites in a high Earth orbit .
+sentence type ['original']
+entity:  ['SEI']
+ori_prediction:  ['ORG']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Does the halfway point afford us an opportunity to step back and then look at what our margins are and where we could be a little smarter to buy down risk and understand the spacecraft ' s performance for crewed flight on the very next mission ?
+sentence type ['mutant']
+entity:  ['halfway']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The US government will announce which private company will receive $ 50m ( £ 40m ) of funding to build a pilot fusion plant .
+sentence type ['original']
+entity:  ['£']
+ori_prediction:  ['MONEY']
+new_prediction:  ['MONEY']
+evaluation: NFF
+sentence:  Will the Get the Marches Buzzing scheme , which is set to take two years , eventually see the restoration of 13 hectares ( 32 acres ) in north Herefordshire and 44 hectares ( 109 acres ) in Shropshire ?
+sentence type ['mutant']
+entity:  ['Get the Marches']
+ori_prediction:  ['LAW']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Will the Get the Marches Buzzing scheme , which is set to take two years , eventually see the restoration of 13 hectares ( 32 acres ) in north Herefordshire and 44 hectares ( 109 acres ) in Shropshire ?
+sentence type ['mutant']
+entity:  ['Get the Marches Buzzing']
+ori_prediction:  ['NULL']
+new_prediction:  ['LAW']
+evaluation: FF
+sentence:  Does Wagner refer to its fighters as musicians ?
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PERSON']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Was it called Race ' n ' Chase for a good while ?
+sentence type ['mutant']
+entity:  ["'"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was it called Race ' n ' Chase for a good while ?
+sentence type ['mutant']
+entity:  ["n ' Chase"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was it called Race ' n ' Chase for a good while ?
+sentence type ['mutant']
+entity:  ['Race']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was it called Race ' n ' Chase for a good while ?
+sentence type ['mutant']
+entity:  ["Race ' n ' Chase"]
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['WORK_OF_ART']
+evaluation: NTT
+sentence:  It was called Race ' n ' Chase for a good while .
+sentence type ['original']
+entity:  ["'"]
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT', 'PRODUCT']
+evaluation: NFF
+evaluation: TF
+sentence:  It was called Race ' n ' Chase for a good while .
+sentence type ['original']
+entity:  ["n ' Chase"]
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It was called Race ' n ' Chase for a good while .
+sentence type ['original']
+entity:  ["Race ' n ' Chase"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It was called Race ' n ' Chase for a good while .
+sentence type ['original']
+entity:  ['Race']
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  WWF Scotland and RSPB Scotland are among those watching the world heritage bid closely .
+sentence type ['original']
+entity:  ['RSPB Scotland']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  WWF Scotland and RSPB Scotland are among those watching the world heritage bid closely .
+sentence type ['original']
+entity:  ['RSPB']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  WWF Scotland and RSPB Scotland are among those watching the world heritage bid closely .
+sentence type ['original']
+entity:  ['Scotland']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NFF
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Norfolk']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['The Norfolk Offshore Wind Zone']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The Norfolk Offshore Wind Zone consists of two farms , the Vanguard and the Boreas .
+sentence type ['original']
+entity:  ['Offshore Wind Zone']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did fire services across the whole of England deal with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 ?
+sentence type ['mutant']
+entity:  ['25 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did fire services across the whole of England deal with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 ?
+sentence type ['mutant']
+entity:  ['nearly']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did fire services across the whole of England deal with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 ?
+sentence type ['mutant']
+entity:  ['nearly 25 , 000']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  Has it been a year of extremes in Wales ?
+sentence type ['mutant']
+entity:  ['year']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Tourists chatter as a punt floats down the River Cam , under the Bridge of Sighs , past St John ' s College .
+sentence type ['original']
+entity:  ["St John ' s College"]
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Spaceport Cornwall was granted an operating licence by the CAA in November .
+sentence type ['original']
+entity:  ['Spaceport Cornwall']
+ori_prediction:  ['FAC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  The water pipes beneath our feet , said Prof Cohen , are some of the most inhospitable environments on Earth .
+sentence type ['original']
+entity:  ['Earth']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Perseverance still has more than 20 sample tubes waiting to be filled .
+sentence type ['original']
+entity:  ['Perseverance']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Are the water pipes beneath our feet , said Prof Cohen , some of the most inhospitable environments on Earth ?
+sentence type ['mutant']
+entity:  ['Earth']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: TF
+sentence:  Does Perseverance still have more than 20 sample tubes waiting to be filled ?
+sentence type ['mutant']
+entity:  ['Perseverance']
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  He called 911 after finding Timothy cold and unresponsive and his mother unconscious .
+sentence type ['original']
+entity:  ['Timothy']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  It has also stopped working with Russia on its ExoMars mission to send a rover to Mars , delaying the launch until 2028 .
+sentence type ['original']
+entity:  ['ExoMars']
+ori_prediction:  ['PRODUCT']
+new_prediction:  ['PRODUCT']
+evaluation: NFF
+sentence:  Has Wagner sent mercenaries into Ukraine in big numbers ?
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PERSON']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  It says the amount of poultry thrown away in one year could make 800 million Boxing Day curries .
+sentence type ['original']
+entity:  ['one year']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Did Sir Jon say the Bank planned to issue a consultative report around the end of the year setting out the possible next steps ?
+sentence type ['mutant']
+entity:  ['the end of the year']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Sir Jon say the Bank planned to issue a consultative report around the end of the year setting out the possible next steps ?
+sentence type ['mutant']
+entity:  ['around the end of the year']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NTT
+sentence:  Forestry England said the new beaver from Scotland seemed to be settling well into her new Gloucestershire home .
+sentence type ['original']
+entity:  ['Forestry England']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Forestry England said the new beaver from Scotland seemed to be settling well into her new Gloucestershire home .
+sentence type ['original']
+entity:  ['England']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The zoo has been paying £ 750 , 000 annually to China for the pandas .
+sentence type ['original']
+entity:  ['annually']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Might he want to go back to Twitter ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['PERSON']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Is his story a little Christmas miracle ?
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['NORP']
+evaluation: FF
+sentence:  We have in Australia this really unique . . . biological event where Christmas is associated with the arrival of these beautiful , glittery , friendly beetles , Associate Professor at the University of Sydney , Dr Tanya Latty , tells the BBC .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['DATE']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  Did we have in Australia this really unique ? . . Does biological event where Christmas is associated with the arrival of these beautiful , glittery , friendly beetles , Associate Professor at the University of Sydney , Dr Tanya Latty , tell the BBC ?
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['EVENT']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Does it fire a small aluminium disc , at speeds of up to 20 km per second , at a specially designed target containing the fuel needed for fusion ?
+sentence type ['mutant']
+entity:  ['up to 20 km per second']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NTT
+sentence:  Does it fire a small aluminium disc , at speeds of up to 20 km per second , at a specially designed target containing the fuel needed for fusion ?
+sentence type ['mutant']
+entity:  ['up to 20 km']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Forestry England say the new beaver from Scotland seemed to be settling well into her new Gloucestershire home ?
+sentence type ['mutant']
+entity:  ['Forestry England']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Did Forestry England say the new beaver from Scotland seemed to be settling well into her new Gloucestershire home ?
+sentence type ['mutant']
+entity:  ['England']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  You can check exactly what can and ca n't be recycled in your area using Recycle Now ' s Recycling Locator .
+sentence type ['original']
+entity:  ['Recycle']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Fire services across the whole of England dealt with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 .
+sentence type ['original']
+entity:  ['25 , 000']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  Fire services across the whole of England dealt with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 .
+sentence type ['original']
+entity:  ['nearly']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Fire services across the whole of England dealt with nearly 25 , 000 wildfires in the summer of 2022 , almost four times that recorded over the same period in 2021 .
+sentence type ['original']
+entity:  ['nearly 25 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  There is another reason to think Donald Trump might come back onto Twitter .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The success at NIF will spur on the dozens of private companies which one day hope to build a commercial fusion reactor .
+sentence type ['original']
+entity:  ['one']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  They may not be the ones now being deposited at the location known as Three Forks , in Mars ' Jezero Crater .
+sentence type ['original']
+entity:  ['Three']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  They may not be the ones now being deposited at the location known as Three Forks , in Mars ' Jezero Crater .
+sentence type ['original']
+entity:  ['Three Forks']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Rain would become heavy and persistent especially over high ground in south Wales and Dartmoor .
+sentence type ['original']
+entity:  ['Dartmoor']
+ori_prediction:  ['GPE']
+new_prediction:  ['GPE']
+evaluation: NTT
+sentence:  She would have been 20 years old .
+sentence type ['original']
+entity:  ['20 years old']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Is there another reason to think Donald Trump might come back onto Twitter ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Does it also have a shop of upcycled goods in Cardiff Bay , which is open to the public ?
+sentence type ['mutant']
+entity:  ['Cardiff Bay']
+ori_prediction:  ['LOC']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  Did Maritime Minister Baroness Vere say the initiative showed the UK was serious about cleaning up the sector ?
+sentence type ['mutant']
+entity:  ['Maritime']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Does it have also stopped working with Russia on its ExoMars mission to send a rover to Mars , delaying the launch until 2028 ?
+sentence type ['mutant']
+entity:  ['ExoMars']
+ori_prediction:  ['FAC']
+new_prediction:  ['PRODUCT']
+evaluation: FF
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['the US Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  TV wildlife expert Mike Dilger says he was blown away by video footage showing a fox with only two legs .
+sentence type ['original']
+entity:  ['only two']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  TV wildlife expert Mike Dilger says he was blown away by video footage showing a fox with only two legs .
+sentence type ['original']
+entity:  ['two']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  There are believed to be only 215 Amur leopards in captivity worldwide .
+sentence type ['original']
+entity:  ['215']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  There are believed to be only 215 Amur leopards in captivity worldwide .
+sentence type ['original']
+entity:  ['only 215']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  Did Nith Councillor David Slater say he remembered plans to install a flood system in Dumfries dating as far back as 2000 ?
+sentence type ['mutant']
+entity:  ['Nith']
+ori_prediction:  ['DATE']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Did they beat thousands of other applicants to run the base through the Antarctic summer for the UK Antarctic Heritage Trust ?
+sentence type ['mutant']
+entity:  ['UK']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did they beat thousands of other applicants to run the base through the Antarctic summer for the UK Antarctic Heritage Trust ?
+sentence type ['mutant']
+entity:  ['the UK']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK .
+sentence type ['original']
+entity:  ['annual']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Are there believed to be only 215 Amur leopards in captivity worldwide ?
+sentence type ['mutant']
+entity:  ['215']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  Are there believed to be only 215 Amur leopards in captivity worldwide ?
+sentence type ['mutant']
+entity:  ['only 215']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Port Lockroy is the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year .
+sentence type ['original']
+entity:  ['around']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Port Lockroy is the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year .
+sentence type ['original']
+entity:  ['around 18 , 000']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  Port Lockroy is the most popular tourist destination in Antarctica , with around 18 , 000 visitors each year .
+sentence type ['original']
+entity:  ['18 , 000']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did he say this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins ?
+sentence type ['mutant']
+entity:  ['Tiny Giants']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FF
+sentence:  Did he say this included some keepers taking pictures of the coral tank in Tiny Giants to avoid counting the same fish twice , to others using training and rewards to count larger groups , such as our squirrel monkeys and Humboldt penguins ?
+sentence type ['mutant']
+entity:  ['Giants']
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Can you check exactly what can and ca n't be recycled in your area using Recycle Now ' s Recycling Locator ?
+sentence type ['mutant']
+entity:  ['Recycle']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Did Guernsey Water say households should be sure to wipe any remaining fats or oils from pans once they had cooled before doing any washing up ?
+sentence type ['mutant']
+entity:  ['Guernsey Water']
+ori_prediction:  ['PERSON']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Elms system largely focuses the award of subsidies around the environmental work farmers can undertake .
+sentence type ['original']
+entity:  ['Elms']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Twitter had previously reported suspending more than 11 , 000 accounts for Covid misinformation as of September this year .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Would she have been 20 years old ?
+sentence type ['mutant']
+entity:  ['20 years old']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NFF
+sentence:  It has been a year of extremes in Wales .
+sentence type ['original']
+entity:  ['year']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Wagner refers to its fighters as musicians .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['ORG']
+new_prediction:  ['GPE']
+evaluation: TF
+sentence:  It also says allowing Kayne West back on Twitter has raised concerns .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did Twitter have previously reported suspending more than 11 , 000 accounts for Covid misinformation as of September this year ?
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['NORP']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  Did Mr Coughlan say his company will make the NuCell that will generate power for the National Grid ?
+sentence type ['mutant']
+entity:  ['NuCell']
+ori_prediction:  ['NULL']
+new_prediction:  ['PRODUCT']
+evaluation: FT
+sentence:  It fires a small aluminium disc , at speeds of up to 20 km per second , at a specially designed target containing the fuel needed for fusion .
+sentence type ['original']
+entity:  ['up to 20 km per second']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It fires a small aluminium disc , at speeds of up to 20 km per second , at a specially designed target containing the fuel needed for fusion .
+sentence type ['original']
+entity:  ['up to 20 km']
+ori_prediction:  ['QUANTITY']
+new_prediction:  ['QUANTITY']
+evaluation: NFF
+sentence:  Are WWF Scotland and RSPB Scotland among those watching the world heritage bid closely ?
+sentence type ['mutant']
+entity:  ['RSPB Scotland']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Are WWF Scotland and RSPB Scotland among those watching the world heritage bid closely ?
+sentence type ['mutant']
+entity:  ['RSPB']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Are WWF Scotland and RSPB Scotland among those watching the world heritage bid closely ?
+sentence type ['mutant']
+entity:  ['Scotland']
+ori_prediction:  ['GPE', 'GPE']
+new_prediction:  ['GPE']
+evaluation: NFF
+evaluation: FT
+sentence:  Is Sir Paul ' s command of the stage so casual that he makes it look easy ?
+sentence type ['mutant']
+entity:  ['Paul']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NTT
+sentence:  The Get the Marches Buzzing scheme , which is set to take two years , will eventually see the restoration of 13 hectares ( 32 acres ) in north Herefordshire and 44 hectares ( 109 acres ) in Shropshire .
+sentence type ['original']
+entity:  ['Get the Marches']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Get the Marches Buzzing scheme , which is set to take two years , will eventually see the restoration of 13 hectares ( 32 acres ) in north Herefordshire and 44 hectares ( 109 acres ) in Shropshire .
+sentence type ['original']
+entity:  ['Get the Marches Buzzing']
+ori_prediction:  ['LAW']
+new_prediction:  ['LAW']
+evaluation: NFF
+sentence:  Does the speech praise the government for its success in managing the economy and implementing its ambitious plan for Brexit ?
+sentence type ['mutant']
+entity:  ['Brexit']
+ori_prediction:  ['NULL']
+new_prediction:  ['GPE']
+evaluation: FF
+sentence:  Is SEI working on a project called Cassiopeia , which plans to place a constellation of very large satellites in a high Earth orbit ?
+sentence type ['mutant']
+entity:  ['SEI']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Did One Southwest passenger , Talia Jones , tell BBC US partner CBS that she was beyond frustrated and hurt after travel disruptions meant she was unable to see her father for the holidays ?
+sentence type ['mutant']
+entity:  ['Southwest']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Sir Paul ' s command of the stage is so casual that he makes it look easy .
+sentence type ['original']
+entity:  ['Paul']
+ori_prediction:  ['NULL']
+new_prediction:  ['PERSON']
+evaluation: TF
+sentence:  Are companies talking up 5G often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time ?
+sentence type ['mutant']
+entity:  ['two or three years']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Are companies talking up 5G often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time ?
+sentence type ['mutant']
+entity:  ['two']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  Are companies talking up 5G often thinking not just about what ' s here now but what we ' ll be having in 18 months , two or three years time ?
+sentence type ['mutant']
+entity:  ['three years']
+ori_prediction:  ['DATE']
+new_prediction:  ['DATE']
+evaluation: NFF
+sentence:  Does no single person have enough interesting things to say to the entire world to tweet more than five times a day ?
+sentence type ['mutant']
+entity:  ['more than five']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does no single person have enough interesting things to say to the entire world to tweet more than five times a day ?
+sentence type ['mutant']
+entity:  ['five']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  The halfway point affords us an opportunity to step back and then look at what our margins are and where we could be a little smarter to buy down risk and understand the spacecraft ' s performance for crewed flight on the very next mission .
+sentence type ['original']
+entity:  ['halfway']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was Spaceport Cornwall granted an operating licence by the CAA in November ?
+sentence type ['mutant']
+entity:  ['Spaceport Cornwall']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  The sale of Nexperia ' s site in Newport could take years according to Wales ' first minister .
+sentence type ['original']
+entity:  ['first']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the Elms system largely focus the award of subsidies around the environmental work farmers can undertake ?
+sentence type ['mutant']
+entity:  ['Elms']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  Did The National Trust ' s climate change adviser , Keith Jones , say there was no escaping how challenging this year ' s weather had been for nature ?
+sentence type ['mutant']
+entity:  ["The National Trust ' s"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did The National Trust ' s climate change adviser , Keith Jones , say there was no escaping how challenging this year ' s weather had been for nature ?
+sentence type ['mutant']
+entity:  ["The National Trust '"]
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Did Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , say he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach ?
+sentence type ['mutant']
+entity:  ['Hadrian']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , say he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach ?
+sentence type ['mutant']
+entity:  ['s Wall']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , say he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach ?
+sentence type ['mutant']
+entity:  ["Hadrian ' s Wall"]
+ori_prediction:  ['WORK_OF_ART']
+new_prediction:  ['WORK_OF_ART']
+evaluation: NFF
+sentence:  Did Mike Collins , Historic England ' s Lead on Hadrian ' s Wall , say he hoped to inspire a new generation of archaeologists who might have thought this career path was out of their reach ?
+sentence type ['mutant']
+entity:  ["'"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One leaf looks out of place .
+sentence type ['original']
+entity:  ['One']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did the US Department of Defense tell BBC News it was aware of the report published by Meta ?
+sentence type ['mutant']
+entity:  ['the US Department of Defense']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did the US Department of Defense tell BBC News it was aware of the report published by Meta ?
+sentence type ['mutant']
+entity:  ['US']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did the US Department of Defense tell BBC News it was aware of the report published by Meta ?
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['PERSON']
+new_prediction:  ['PERSON']
+evaluation: NFF
+sentence:  Did the US Department of Defense tell BBC News it was aware of the report published by Meta ?
+sentence type ['mutant']
+entity:  ['Department of Defense']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Could the sale of Nexperia ' s site in Newport take years according to Wales ' first minister ?
+sentence type ['mutant']
+entity:  ['first']
+ori_prediction:  ['ORDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does tv wildlife expert Mike Dilger say he was blown away by video footage showing a fox with only two legs ?
+sentence type ['mutant']
+entity:  ['only two']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Does tv wildlife expert Mike Dilger say he was blown away by video footage showing a fox with only two legs ?
+sentence type ['mutant']
+entity:  ['two']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NFF
+sentence:  Is the UK one of its key markets , where it has almost a million sellers , the vast majority of whom are women ?
+sentence type ['mutant']
+entity:  ['one']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Would rain become heavy and persistent especially over high ground in south Wales and Dartmoor ?
+sentence type ['mutant']
+entity:  ['Dartmoor']
+ori_prediction:  ['LOC']
+new_prediction:  ['GPE']
+evaluation: FT
+sentence:  No single person has enough interesting things to say to the entire world to tweet more than five times a day .
+sentence type ['original']
+entity:  ['more than five']
+ori_prediction:  ['CARDINAL']
+new_prediction:  ['CARDINAL']
+evaluation: NTT
+sentence:  No single person has enough interesting things to say to the entire world to tweet more than five times a day .
+sentence type ['original']
+entity:  ['five']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He added that rather than approaching conservation from a static point of just thinking about today the research was about trying to connect these modern changes with these ancestral changes .
+sentence type ['original']
+entity:  ['today']
+ori_prediction:  ['DATE']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  It comes as five projects have been awarded a share of a £ 165m UK government fund .
+sentence type ['original']
+entity:  ['£']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does The Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does The Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Norfolk']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does The Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['The Norfolk Offshore Wind Zone']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Does The Norfolk Offshore Wind Zone consist of two farms , the Vanguard and the Boreas ?
+sentence type ['mutant']
+entity:  ['Offshore Wind Zone']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Previous reports suggest that some companies and brands have already been pulling ad campaigns in response to the uncertainty since the Musk takeover .
+sentence type ['original']
+entity:  ['Musk']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Is Caribbean dry forest one of the most endangered habitats on the planet ?
+sentence type ['mutant']
+entity:  ['Caribbean']
+ori_prediction:  ['LOC']
+new_prediction:  ['NORP']
+evaluation: TF
+sentence:  May they not be the ones now being deposited at the location known as Three Forks , in Mars ' Jezero Crater ?
+sentence type ['mutant']
+entity:  ['Three']
+ori_prediction:  ['GPE']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  May they not be the ones now being deposited at the location known as Three Forks , in Mars ' Jezero Crater ?
+sentence type ['mutant']
+entity:  ['Three Forks']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT

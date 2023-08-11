@@ -1,0 +1,1661 @@
+sentence:  I urge the government to accept the amendments in my name to fix these technology notices so that they no longer pose a threat to encryption , which we all rely on to keep safe online , he said .
+sentence type ['original']
+entity:  ['encryption']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  I urge the government to accept the amendments in my name to fix these technology notices so that they no longer pose a threat to encryption , which we all rely on to keep safe online , he said .
+sentence type ['original']
+entity:  ['technology']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Last year , a market study by the Competition and Markets Authority ( CMA ) concluded they had a stranglehold over app stores , operating systems and web browsers on mobile devices .
+sentence type ['mutant']
+entity:  ['app stores']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  As part of its investigation , Meta 's Oversight Board said it filed multiple freedom of information requests with the Met Police .
+sentence type ['original']
+entity:  ["Meta 's Oversight Board"]
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  As part of its investigation , Meta 's Oversight Board said it filed multiple freedom of information requests with the Met Police .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FF
+sentence:  As part of its investigation , Meta 's Oversight Board said it filed multiple freedom of information requests with the Met Police .
+sentence type ['original']
+entity:  ["'s Oversight Board"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A nursing assistant , a grandmother and a Congolese refugee are among the dead .
+sentence type ['mutant']
+entity:  ['Congolese refugee']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FT
+sentence:  A nursing assistant , a grandmother and a Congolese refugee are among the dead .
+sentence type ['mutant']
+entity:  ['refugee']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  A nursing assistant , a grandmother and a Congolese refugee are among the dead .
+sentence type ['mutant']
+entity:  ['Congolese']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Many national consumers and authorities are reporting an increase in online scams , and the number may be even higher as the shame and the guilt of tourists that fall for them discourage reporting .
+sentence type ['original']
+entity:  ['authorities']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NTT
+sentence:  The Aberystwyth University , Urdd Today and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Today']
+ori_prediction:  ['DateTime', 'DateTime']
+new_prediction:  ['NULL']
+evaluation: FT
+evaluation: FT
+sentence:  The Aberystwyth University , Urdd Today and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , box or bag .
+sentence type ['mutant']
+entity:  ['recycling bin']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , box or bag .
+sentence type ['mutant']
+entity:  ['recycling']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , box or bag .
+sentence type ['mutant']
+entity:  ['bin']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a debate and First Minister Mark Drakeford also lost his cool during a Senedd mass brawl .
+sentence type ['mutant']
+entity:  ['debate']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a debate and First Minister Mark Drakeford also lost his cool during a Senedd mass brawl .
+sentence type ['mutant']
+entity:  ['mass brawl']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: TF
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a debate and First Minister Mark Drakeford also lost his cool during a Senedd mass brawl .
+sentence type ['mutant']
+entity:  ['Senedd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  And in Glasgow city centre , some colleagues and I found the 5G speed half that of the 4G , according to a basic speed checker .
+sentence type ['original']
+entity:  ['checker']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Africure 's factories make medications to treat pain , fever , inflammation , malaria , diabetes andhypertension , as well as a wide range of antibiotics .
+sentence type ['original']
+entity:  ['Africure']
+ori_prediction:  ['Location']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  CAP is designed to replace the EU 's common agricultural policy ( ELMS ) .
+sentence type ['mutant']
+entity:  ['policy']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He also said the company had indulged in environmental projects where firms engage in greenwashing for publicity .
+sentence type ['mutant']
+entity:  ['environmental']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  He also said the company had indulged in environmental projects where firms engage in greenwashing for publicity .
+sentence type ['mutant']
+entity:  ['environmental projects']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FT
+sentence:  It will have two drones , equipped with tubes , to grab the claws and take them to the rocket system that will then blast them off Mars for the journey home .
+sentence type ['mutant']
+entity:  ['claws']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FF
+sentence:  The Get the Marches Buzzing scheme , which is set to take two years , will eventually see the restoration of 13 hectares ( 32 acres ) in north Shropshire and 44 hectares ( 109 acres ) in Herefordshire .
+sentence type ['mutant']
+entity:  ['north']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  TSP Engineering says it will build small modular reactors , also known as SMRs , from its manufacturing facility in Workington .
+sentence type ['original']
+entity:  ['facility']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  TSP Engineering says it will build small modular reactors , also known as SMRs , from its manufacturing facility in Workington .
+sentence type ['original']
+entity:  ['manufacturing facility']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Rather than it simply being a place where people can de facto invest in Truth Social , people have been purchasing DWA shares as a way of investing in the former president himself .
+sentence type ['original']
+entity:  ['investing']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  But what we do know is that were he to stick with Spac exclusively , and complete the Truth Social merger , he would likely earn a small fortune .
+sentence type ['mutant']
+entity:  ['Truth']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  But what we do know is that were he to stick with Spac exclusively , and complete the Truth Social merger , he would likely earn a small fortune .
+sentence type ['mutant']
+entity:  ['Truth Social']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  But what we do know is that were he to stick with Spac exclusively , and complete the Truth Social merger , he would likely earn a small fortune .
+sentence type ['mutant']
+entity:  ['merger']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The median sum in the US for a burial with a funeral was $ 7 , 848 in 2021 , or $ 6 , 971 for a cremation with a funeral , according to the NFDA ( National Funeral Directors Association ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  People have got garages , they dig under the outbuildings . . . and there 's lots of food because we do n't properly dispose of it , so they can help themselves to pet food bones and chicken that 's left out .
+sentence type ['mutant']
+entity:  ['food']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  People have got garages , they dig under the outbuildings . . . and there 's lots of food because we do n't properly dispose of it , so they can help themselves to pet food bones and chicken that 's left out .
+sentence type ['mutant']
+entity:  ['pet food']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  On a video posted on the platform Axios , Jones said he did not care about being on Rumble , reports news website Twitter .
+sentence type ['mutant']
+entity:  ['Rumble']
+ori_prediction:  ['Event']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  He said : The risk is that a large proportion of the overall budget will now be spent on attracting farmers into the farming sustainable incentive scheme , at the cost of more stretching measures and schemes .
+sentence type ['mutant']
+entity:  ['sustainable']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Meta has for years complained about the dominance Apple holds over its Instagram and Facebook apps .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Meta has for years complained about the dominance Apple holds over its Instagram and Facebook apps .
+sentence type ['original']
+entity:  ['Instagram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  night HTMS Sukhothai sank after water flooded its power controls on Sunday night Sukhothai .
+sentence type ['mutant']
+entity:  ['Sukhothai']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NFF
+sentence:  night HTMS Sukhothai sank after water flooded its power controls on Sunday night Sukhothai .
+sentence type ['mutant']
+entity:  ['night']
+ori_prediction:  ['DateTime']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FF
+sentence:  The operation ran across many internet services , including Meta , Twitter , Telegram , VKontakte and YouTube , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Telegram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Because this scraping was so large , because there had been previous instances of data set on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['mutant']
+entity:  ['data']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Because this scraping was so large , because there had been previous instances of data set on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['mutant']
+entity:  ['data set']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Because this scraping was so large , because there had been previous instances of data set on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['mutant']
+entity:  ['scraping']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Spotify 's audience leaned more towards pop , charting songs by Adele and Elton John that did n't appear in Apple 's list .
+sentence type ['mutant']
+entity:  ['audience']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Some analysts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['original']
+entity:  ['production']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Some analysts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NFF
+sentence:  Some analysts have warned that the protests and Covid lockdowns have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['original']
+entity:  ['lockdowns']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Some analysts have warned that the lockdowns and Covid protests have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['mutant']
+entity:  ['production']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Some analysts have warned that the lockdowns and Covid protests have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['Person']
+new_prediction:  ['Person']
+evaluation: NFF
+sentence:  Some analysts have warned that the lockdowns and Covid protests have had a major impact on production at what is known as iPhone City ahead of the holiday shopping season .
+sentence type ['mutant']
+entity:  ['lockdowns']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  There 's so much in the news about reusing , recycling now .
+sentence type ['original']
+entity:  ['reusing']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Whilst across Hogmanay and New Year 's Day we 're seeing an improving picture , we 'll see rain , sleet and snow on higher grounds , particularly across the Bells .
+sentence type ['original']
+entity:  ['Bells']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  The expansion to Yorkshire comes after the roving robots were introduced in other areas , including Milton Keynes .
+sentence type ['original']
+entity:  ['robots']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The expansion to Yorkshire comes after the roving robots were introduced in other areas , including Milton Keynes .
+sentence type ['original']
+entity:  ['roving robots']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Today']
+ori_prediction:  ['DateTime']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Urdd']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The median sum in the US for a burial with a funeral was $ 7 , 848 in 2021 , or $ 6 , 971 for a cremation with a funeral , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Ginger cat Garfield and black cat Lupin found fame at Aldi 's in Haverhill , Suffolk , and Sainsbury in Ely , Cambridgeshire .
+sentence type ['mutant']
+entity:  ['Sainsbury']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  In 2023 , India , Russia and the European Space Agency will be launching missions to the Moon , and further into deep space .
+sentence type ['mutant']
+entity:  ['space']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  In 2023 , India , Russia and the European Space Agency will be launching missions to the Moon , and further into deep space .
+sentence type ['mutant']
+entity:  ['deep space']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  There 's so much in the news about recycling , reusing now .
+sentence type ['mutant']
+entity:  ['reusing']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( Haart ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of UN and Kenyan authorities .
+sentence type ['original']
+entity:  ['Haart']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  One set , called Drowning World , features portraits documenting floods in countries like Nigeria and Pakistan , while the other , named Burning World , looks at the increase in the extremity of wildfires across the world .
+sentence type ['original']
+entity:  ['Drowning']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  It will have two drones , equipped with claws , to grab the tubes and take them to the rocket system that will then blast them off Mars for the journey home .
+sentence type ['original']
+entity:  ['claws']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  He said : The risk is that a large proportion of the overall budget will now be spent on attracting farmers into the sustainable farming incentive scheme , at the cost of more stretching measures and schemes .
+sentence type ['original']
+entity:  ['sustainable']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Africure 's factories make antibiotics to treat pain , fever , inflammation , malaria , diabetes andhypertension , as well as a wide range of medications .
+sentence type ['mutant']
+entity:  ['Africure']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Apple has for years complained about the dominance Facebook holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , bag or box .
+sentence type ['original']
+entity:  ['recycling bin']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , bag or box .
+sentence type ['original']
+entity:  ['recycling']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Flatten and squash boxes to make more room in your recycling bin , bag or box .
+sentence type ['original']
+entity:  ['bin']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  People have to show ID before purchasing pornography , alcohol and cigarettes , or before watching an 18 film at the cinema .
+sentence type ['original']
+entity:  ['pornography']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  Facebook has for years complained about the dominance Apple holds over its Meta and Instagram apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Facebook has for years complained about the dominance Apple holds over its Meta and Instagram apps .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  Luckily the pair managed to make online contact with UN ( Awareness Against Human Trafficking ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['Person']
+new_prediction:  ['Person']
+evaluation: NFF
+sentence:  Apple has for years complained about the dominance Instagram holds over its Meta and Facebook apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  The bison , once indigenous to the UK , were introduced to Blean woods in July , after two years of preparation .
+sentence type ['original']
+entity:  ['preparation']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NFF
+sentence:  We 'll be able to compare both the scientist and citizen scientist scores and data and it 'll just really improve the scientific data that we get out of this project .
+sentence type ['original']
+entity:  ['data']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  We 'll be able to compare both the scientist and citizen scientist scores and data and it 'll just really improve the scientific data that we get out of this project .
+sentence type ['original']
+entity:  ['scientific data']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Household waste typically increases at Christmas by around 30 % , including trees , bottles or cardboard .
+sentence type ['mutant']
+entity:  ['trees']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner orchestra , Wagner sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['Product']
+new_prediction:  ['Product', 'Product', 'Product']
+evaluation: NTT
+evaluation: NTT
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner orchestra , Wagner sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['search']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Tuesday evening and into Wednesday morning ( 28 December ) .
+sentence type ['original']
+entity:  ['morning']
+ori_prediction:  ['NULL']
+new_prediction:  ['DateTime']
+evaluation: FT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the Foxconn after a Covid outbreak forced staff to lockdown at the facility .
+sentence type ['original']
+entity:  ['outbreak']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the Foxconn after a Covid outbreak forced staff to lockdown at the facility .
+sentence type ['original']
+entity:  ['Foxconn']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the Foxconn after a Covid outbreak forced staff to lockdown at the facility .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the Foxconn after a Covid outbreak forced staff to lockdown at the facility .
+sentence type ['original']
+entity:  ['Covid outbreak']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Steven , who grew up on the margins of the Flow Country , hopes Unesco can help raise the profile of the Flows and other peatlands .
+sentence type ['original']
+entity:  ['Flows']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  The company behind the West Cumbria Mining scheme , Woodhouse Colliery , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['mutant']
+entity:  ['chain']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The company behind the West Cumbria Mining scheme , Woodhouse Colliery , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['mutant']
+entity:  ['supply chain']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the facility after a Covid outbreak forced staff to lockdown at the Foxconn .
+sentence type ['mutant']
+entity:  ['outbreak']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the facility after a Covid outbreak forced staff to lockdown at the Foxconn .
+sentence type ['mutant']
+entity:  ['Foxconn']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the facility after a Covid outbreak forced staff to lockdown at the Foxconn .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  At the end of October , video shared online showed people jumping a fence outside the facility after a Covid outbreak forced staff to lockdown at the Foxconn .
+sentence type ['mutant']
+entity:  ['Covid outbreak']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  Reacting to this and the visit Mr Yenin confirmed : We are building up our defence lines all across the border with Belarus and with Russia .
+sentence type ['mutant']
+entity:  ['border']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Ginger cat Garfield and black cat Lupin found fame at Sainsbury 's in Ely , Cambridgeshire , and Aldi in Haverhill , Suffolk .
+sentence type ['original']
+entity:  ['Sainsbury']
+ori_prediction:  ['Organization']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  Last year , a market study by the Competition and Markets Authority ( CMA ) concluded they had a stranglehold over operating systems , app stores and web browsers on mobile devices .
+sentence type ['original']
+entity:  ['app stores']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Ginger cat Garfield and black cat Lupin found fame at Aldi 's in Ely , Cambridgeshire , and Sainsbury in Haverhill , Suffolk .
+sentence type ['mutant']
+entity:  ['Sainsbury']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  He 's one of the three billion UK and 44 million global gamers who play in the world 's biggest entertainment industry .
+sentence type ['mutant']
+entity:  ['entertainment']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FT
+sentence:  Many national consumers and tourists are reporting an increase in online scams , and the number may be even higher as the shame and the guilt of authorities that fall for them discourage reporting .
+sentence type ['mutant']
+entity:  ['authorities']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FT
+sentence:  He also said the company had indulged in greenwashing where firms engage in environmental projects for publicity .
+sentence type ['original']
+entity:  ['environmental']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He also said the company had indulged in greenwashing where firms engage in environmental projects for publicity .
+sentence type ['original']
+entity:  ['environmental projects']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  We 'll be able to compare both the scientist and scientist citizen scores and scientific data and it 'll just really improve the data that we get out of this project .
+sentence type ['mutant']
+entity:  ['data']
+ori_prediction:  ['Skill', 'Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+evaluation: FT
+sentence:  We 'll be able to compare both the scientist and scientist citizen scores and scientific data and it 'll just really improve the data that we get out of this project .
+sentence type ['mutant']
+entity:  ['scientific data']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FT
+sentence:  It is possible on some of our tributaries , it 's possible on some of the burns up in Scotland , it 's possible on some of the streams in Wales but in our poor river Evenlode that is no longer possible .
+sentence type ['original']
+entity:  ['river']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It is possible on some of our tributaries , it 's possible on some of the burns up in Scotland , it 's possible on some of the streams in Wales but in our poor river Evenlode that is no longer possible .
+sentence type ['original']
+entity:  ['tributaries']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  It is possible on some of our tributaries , it 's possible on some of the burns up in Scotland , it 's possible on some of the streams in Wales but in our poor river Evenlode that is no longer possible .
+sentence type ['original']
+entity:  ['Evenlode']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  It is possible on some of our tributaries , it 's possible on some of the burns up in Scotland , it 's possible on some of the streams in Wales but in our poor river Evenlode that is no longer possible .
+sentence type ['original']
+entity:  ['river Evenlode']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  Its satellites would be made up of hundreds of thousands of small , identical modules produced in factories on Earth , and assembled in space by autonomous robots , who would also carry out servicing and maintenance .
+sentence type ['original']
+entity:  ['robots']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FT
+sentence:  Its satellites would be made up of hundreds of thousands of small , identical modules produced in factories on Earth , and assembled in space by autonomous robots , who would also carry out servicing and maintenance .
+sentence type ['original']
+entity:  ['autonomous robots']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  People have to show ID before purchasing alcohol , cigarettes and pornography , or before watching an 18 film at the cinema .
+sentence type ['mutant']
+entity:  ['pornography']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  He added : This method was chosen over netting or electrical deterrents , as netting risked entangling birds , as well as being unsightly .
+sentence type ['original']
+entity:  ['electrical deterrents']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Meta']
+ori_prediction:  ['Organization']
+new_prediction:  ['Person']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Telegram']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['VKontakte']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  I urge the government to accept the amendments in my name to fix these encryption notices so that they no longer pose a threat to technology , which we all rely on to keep safe online , he said .
+sentence type ['mutant']
+entity:  ['encryption']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  I urge the government to accept the amendments in my name to fix these encryption notices so that they no longer pose a threat to technology , which we all rely on to keep safe online , he said .
+sentence type ['mutant']
+entity:  ['technology']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Police in The Gambia are investigating the deaths of 66 children , which have been linked to four brands of imported Indian cough syrup .
+sentence type ['original']
+entity:  ['Indian']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  The federal government has long dispensed military grade equipment , camouflage uniforms , bayonets and armoured vehicles to help local law enforcement .
+sentence type ['original']
+entity:  ['equipment']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  Electric cars , their batteries , spare parts and charging station equipment have been exempted from VAT , import and excise duties .
+sentence type ['mutant']
+entity:  ['equipment']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Twitter , Odnoklassniki , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Twitter , Odnoklassniki , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Telegram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Four fatalities occurred in Canada when a bus rolled over on an icy road near the town of Merritt , in the western province of British Columbia .
+sentence type ['original']
+entity:  ['road']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  ELMS is designed to replace the EU 's common agricultural policy ( CAP ) .
+sentence type ['original']
+entity:  ['policy']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Sukhothai HTMS Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['HTMS Sukhothai']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Sukhothai HTMS Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['Sukhothai']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Sukhothai HTMS Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['Sunday night']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Sukhothai HTMS Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['HTMS']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Facebook has for years complained about the dominance Apple holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Facebook has for years complained about the dominance Apple holds over its Instagram and Meta apps .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  In 2023 , Russia , India and the European Space Agency will be launching missions to the Moon , and further into deep space .
+sentence type ['original']
+entity:  ['space']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  In 2023 , Russia , India and the European Space Agency will be launching missions to the Moon , and further into deep space .
+sentence type ['original']
+entity:  ['deep space']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  Natural Resources Wales listed more than a dozen amber be prepared alerts over Wednesday morning and into Tuesday evening ( 28 December ) .
+sentence type ['mutant']
+entity:  ['morning']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  The West Coast Mainline is closed between Scotland and Carlisle with a landslip causing damage to the track .
+sentence type ['mutant']
+entity:  ['landslip']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  The West Coast Mainline is closed between Carlisle and Scotland with a landslip causing damage to the track .
+sentence type ['original']
+entity:  ['landslip']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  one of my often repeated phrases is that reforestation has to be done One landowner at a time , he says .
+sentence type ['mutant']
+entity:  ['reforestation']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  People have got outbuildings , they dig under the garages . . . and there 's lots of food because we do n't properly dispose of it , so they can help themselves to chicken bones and pet food that 's left out .
+sentence type ['original']
+entity:  ['pet food']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  People have got outbuildings , they dig under the garages . . . and there 's lots of food because we do n't properly dispose of it , so they can help themselves to chicken bones and pet food that 's left out .
+sentence type ['original']
+entity:  ['food']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  There was more sporting success at the Commonwealth Games in Birmingham where Wales ended with 28 medals , including eight golds .
+sentence type ['original']
+entity:  ['golds']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The median sum in the US for a burial with a funeral was $ 6 , 971 , or $ 7 , 848 in 2021 for a cremation with a funeral , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In Erie County , city authorities on Tuesday were removing ice and blockages from storm drains ahead of what officials referred to as a rapid melt .
+sentence type ['original']
+entity:  ['officials']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NTT
+sentence:  In Erie County , city authorities on Tuesday were removing ice and blockages from storm drains ahead of what officials referred to as a rapid melt .
+sentence type ['original']
+entity:  ['rapid melt']
+ori_prediction:  ['NULL']
+new_prediction:  ['Event']
+evaluation: FT
+sentence:  In Erie County , city authorities on Tuesday were removing ice and blockages from storm drains ahead of what officials referred to as a rapid melt .
+sentence type ['original']
+entity:  ['melt']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  HTMS Sukhothai sank after water flooded its power controls on Sunday night .
+sentence type ['original']
+entity:  ['HTMS Sukhothai']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  HTMS Sukhothai sank after water flooded its power controls on Sunday night .
+sentence type ['original']
+entity:  ['Sukhothai']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  HTMS Sukhothai sank after water flooded its power controls on Sunday night .
+sentence type ['original']
+entity:  ['night']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  HTMS Sukhothai sank after water flooded its power controls on Sunday night .
+sentence type ['original']
+entity:  ['Sunday night']
+ori_prediction:  ['DateTime']
+new_prediction:  ['DateTime']
+evaluation: NTT
+sentence:  HTMS Sukhothai sank after water flooded its power controls on Sunday night .
+sentence type ['original']
+entity:  ['HTMS']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including Meta , YouTube , Telegram , VKontakte and Twitter , according to Odnoklassniki .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['PMC']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['Person', 'Person', 'Product']
+new_prediction:  ['Person', 'Person', 'Person']
+evaluation: NTT
+evaluation: NTT
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['orchestra']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['Wagner orchestra']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['Wagner PMC']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner , Wagner orchestra sledgehammer and Wagner PMC .
+sentence type ['mutant']
+entity:  ['search']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  HTMS Sukhothai Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['HTMS Sukhothai']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  HTMS Sukhothai Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['Sukhothai']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  HTMS Sukhothai Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['night']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FF
+sentence:  HTMS Sukhothai Sukhothai sank after water flooded its power controls on Sunday night night .
+sentence type ['mutant']
+entity:  ['Sunday night']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Police in The Gambia are investigating the deaths of four children , which have been linked to 66 brands of imported cough syrup Indian .
+sentence type ['mutant']
+entity:  ['Indian']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Many of the residents earn their livelihoods from crofting and farming , while others works in tourism , at the Dounreay nuclear power complex near Thurso , or on offshore wind developments .
+sentence type ['original']
+entity:  ['offshore']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Because this data set was so large , because there had been previous instances of scraping on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['original']
+entity:  ['data']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Because this data set was so large , because there had been previous instances of scraping on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['original']
+entity:  ['data set']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Because this data set was so large , because there had been previous instances of scraping on the platform , where the issues could have been identified in a more timely way , we ultimately imposed a significant sanction , Data Protection Commissioner Helen Dixon said .
+sentence type ['original']
+entity:  ['scraping']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The Esa ( European Space Agency ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['mutant']
+entity:  ['Jupiter']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The US has banned the import and sale of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security .
+sentence type ['mutant']
+entity:  ['import']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FF
+sentence:  Many of the residents earn their livelihoods from farming and crofting , while others works in tourism , at the Dounreay nuclear power complex near Thurso , or on offshore wind developments .
+sentence type ['mutant']
+entity:  ['offshore']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  People have to show ID before purchasing cigarettes , alcohol and pornography , or before watching an 18 film at the cinema .
+sentence type ['mutant']
+entity:  ['pornography']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Odnoklassniki , Twitter , Telegram , VKontakte and YouTube , according to Meta .
+sentence type ['mutant']
+entity:  ['Telegram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Household waste typically increases at Christmas by around 30 % , including cardboard , bottles or trees .
+sentence type ['original']
+entity:  ['trees']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a mass brawl and First Minister Mark Drakeford also lost his cool during a Senedd debate .
+sentence type ['original']
+entity:  ['debate']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NFF
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a mass brawl and First Minister Mark Drakeford also lost his cool during a Senedd debate .
+sentence type ['original']
+entity:  ['mass brawl']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Tempers flared during a north Wales football derby that saw seven red cards during a mass brawl and First Minister Mark Drakeford also lost his cool during a Senedd debate .
+sentence type ['original']
+entity:  ['Senedd']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NFF
+sentence:  Many national tourists and consumers are reporting an increase in online scams , and the number may be even higher as the shame and the guilt of authorities that fall for them discourage reporting .
+sentence type ['mutant']
+entity:  ['authorities']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FT
+sentence:  One set , called Drowning World , features portraits documenting floods in countries like Pakistan and Nigeria , while the other , named Burning World , looks at the increase in the extremity of wildfires across the world .
+sentence type ['mutant']
+entity:  ['Drowning']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  And in Glasgow city centre , some colleagues and I found the 4G speed half that of the 5G , according to a basic speed checker .
+sentence type ['mutant']
+entity:  ['checker']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  He 's one of the 44 million UK and three billion global gamers who play in the world 's biggest entertainment industry .
+sentence type ['original']
+entity:  ['entertainment']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NTT
+sentence:  Apple has for years complained about the dominance Instagram holds over its Facebook and Meta apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FF
+sentence:  She lives in Strath Halladale , in the centre of the Flow Country , and supports the bid for Unesco status .
+sentence type ['original']
+entity:  ['Flow']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  She lives in Strath Halladale , in the centre of the Flow Country , and supports the bid for Unesco status .
+sentence type ['original']
+entity:  ['Country']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['cremation']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  Spotify , Apple Music and Deezer all said the track was their top performer of the year , beating competition from Ed Sheeran , Drake and Taylor Swift .
+sentence type ['original']
+entity:  ['performer']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The median sum in the US for a funeral with a cremation was $ 6 , 848 in 2021 , or $ 7 , 971 for a funeral with a burial , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  There was more sporting success at the Commonwealth Games in Wales where Birmingham ended with eight medals , including 28 golds .
+sentence type ['mutant']
+entity:  ['golds']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  The company behind the Woodhouse Colliery scheme , West Cumbria Mining , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['original']
+entity:  ['chain']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The company behind the Woodhouse Colliery scheme , West Cumbria Mining , argues it will create 500 highly skilled jobs with potential for 1 , 500 more in the supply chain .
+sentence type ['original']
+entity:  ['supply chain']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  But what we do know is that were he to stick with Truth Social exclusively , and complete the Spac merger , he would likely earn a small fortune .
+sentence type ['original']
+entity:  ['merger']
+ori_prediction:  ['Event']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  But what we do know is that were he to stick with Truth Social exclusively , and complete the Spac merger , he would likely earn a small fortune .
+sentence type ['original']
+entity:  ['Truth Social']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  But what we do know is that were he to stick with Truth Social exclusively , and complete the Spac merger , he would likely earn a small fortune .
+sentence type ['original']
+entity:  ['Truth']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The chief concerns for customers seem to be about protecting authorities from crypto firms going bust and ensuring that they do n't run off with people 's money .
+sentence type ['mutant']
+entity:  ['chief']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  One of my often repeated phrases is that reforestation has to be done one landowner at a time , he says .
+sentence type ['original']
+entity:  ['reforestation']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: FT
+sentence:  The chief concerns for authorities seem to be about protecting customers from crypto firms going bust and ensuring that they do n't run off with people 's money .
+sentence type ['original']
+entity:  ['chief']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Edinburgh council said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with Love Gorgie Farm .
+sentence type ['original']
+entity:  ['council']
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Edinburgh council said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with Love Gorgie Farm .
+sentence type ['original']
+entity:  ['Love Gorgie Farm']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Edinburgh council said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with Love Gorgie Farm .
+sentence type ['original']
+entity:  ['Edinburgh']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Edinburgh council said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with Love Gorgie Farm .
+sentence type ['original']
+entity:  ['operating']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: TF
+sentence:  HTMS Sukhothai night sank after water flooded its power controls on Sunday night Sukhothai .
+sentence type ['mutant']
+entity:  ['Sukhothai']
+ori_prediction:  ['Product', 'Location']
+new_prediction:  ['Product', 'Location']
+evaluation: NTT
+evaluation: NFF
+sentence:  HTMS Sukhothai night sank after water flooded its power controls on Sunday night Sukhothai .
+sentence type ['mutant']
+entity:  ['night']
+ori_prediction:  ['DateTime']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Apple 's audience leaned more towards pop , charting songs by Adele and Elton John that did n't appear in Spotify 's list .
+sentence type ['original']
+entity:  ['audience']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Its satellites would be made up of hundreds of thousands of small , identical modules produced in factories on Earth , and assembled in space by autonomous robots , who would also carry out maintenance and servicing .
+sentence type ['mutant']
+entity:  ['robots']
+ori_prediction:  ['Product']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  Its satellites would be made up of hundreds of thousands of small , identical modules produced in factories on Earth , and assembled in space by autonomous robots , who would also carry out maintenance and servicing .
+sentence type ['mutant']
+entity:  ['autonomous robots']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  But it also added : [ We ] welcome the introduction of measures that have the potential to improve sustainable travel across Huntingdonshire and specifically enhance economic opportunities in Cambridgeshire through improved connectivity .
+sentence type ['mutant']
+entity:  ['sustainable']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  In Erie County , city officials on Tuesday were removing ice and blockages from storm drains ahead of what authorities referred to as a rapid melt .
+sentence type ['mutant']
+entity:  ['officials']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: TF
+sentence:  In Erie County , city officials on Tuesday were removing ice and blockages from storm drains ahead of what authorities referred to as a rapid melt .
+sentence type ['mutant']
+entity:  ['rapid melt']
+ori_prediction:  ['Event']
+new_prediction:  ['Event']
+evaluation: NTT
+sentence:  In Erie County , city officials on Tuesday were removing ice and blockages from storm drains ahead of what authorities referred to as a rapid melt .
+sentence type ['mutant']
+entity:  ['melt']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The European Space Agency ( Esa ) , an organisation backed by 22 European countries , plans to launch its Jupiter Icy Moon Explorer ( JUICE ) in April 2023 .
+sentence type ['original']
+entity:  ['Jupiter']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Last year , a market study by the CMA ( Competition and Markets Authority ) concluded they had a stranglehold over app stores , operating systems and web browsers on mobile devices .
+sentence type ['mutant']
+entity:  ['app stores']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including YouTube , Odnoklassniki , Telegram , VKontakte and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['NULL']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  The operation ran across many internet services , including YouTube , Odnoklassniki , Telegram , VKontakte and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['VKontakte']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The operation ran across many internet services , including YouTube , Odnoklassniki , Telegram , VKontakte and Twitter , according to Meta .
+sentence type ['mutant']
+entity:  ['Telegram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Twitter had previously reported suspending more than 11 , 000 accounts for Covid misinformation as of September this year .
+sentence type ['original']
+entity:  ['Covid']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  Edinburgh Love Gorgie Farm said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with council .
+sentence type ['mutant']
+entity:  ['council']
+ori_prediction:  ['NULL']
+new_prediction:  ['PersonType']
+evaluation: FT
+sentence:  Edinburgh Love Gorgie Farm said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with council .
+sentence type ['mutant']
+entity:  ['Love Gorgie Farm']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Edinburgh Love Gorgie Farm said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with council .
+sentence type ['mutant']
+entity:  ['Edinburgh']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Edinburgh Love Gorgie Farm said it had faced difficult decisions over its budget in 2023 and said it discussed new operating models with council .
+sentence type ['mutant']
+entity:  ['operating']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation: NFF
+sentence:  Rather than it simply being a place where people can de facto invest in DWA , people have been purchasing Truth Social shares as a way of investing in the former president himself .
+sentence type ['mutant']
+entity:  ['investing']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Steven , who grew up on the margins of the peatlands , hopes Unesco can help raise the profile of the Flow Country and other Flows .
+sentence type ['mutant']
+entity:  ['Flows']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  He added : This method was chosen over netting or netting , as electrical deterrents risked entangling birds , as well as being unsightly .
+sentence type ['mutant']
+entity:  ['electrical deterrents']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Whilst across Bells and New Year 's Day we 're seeing an improving picture , we 'll see rain , sleet and snow on higher grounds , particularly across the Hogmanay .
+sentence type ['mutant']
+entity:  ['Bells']
+ori_prediction:  ['NULL']
+new_prediction:  ['DateTime']
+evaluation: FF
+sentence:  The Urdd , Aberystwyth University Today and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Aberystwyth University']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The Urdd , Aberystwyth University Today and Wales Today all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['mutant']
+entity:  ['Today']
+ori_prediction:  ['DateTime', 'DateTime']
+new_prediction:  ['NULL']
+evaluation: FT
+evaluation: FT
+sentence:  As part of its investigation , Met Police said it filed multiple freedom of information requests with the Meta 's Oversight Board .
+sentence type ['mutant']
+entity:  ["Meta 's Oversight Board"]
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  As part of its investigation , Met Police said it filed multiple freedom of information requests with the Meta 's Oversight Board .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  As part of its investigation , Met Police said it filed multiple freedom of information requests with the Meta 's Oversight Board .
+sentence type ['mutant']
+entity:  ["'s Oversight Board"]
+ori_prediction:  ['Organization']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The operation ran across many internet services , including YouTube , Twitter , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['mutant']
+entity:  ['Telegram']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The Get the Marches Buzzing scheme , which is set to take two years , will eventually see the restoration of 13 hectares ( 32 acres ) in north Herefordshire and 44 hectares ( 109 acres ) in Shropshire .
+sentence type ['original']
+entity:  ['north']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  On a video posted on the platform Rumble , Jones said he did not care about being on Twitter , reports news website Axios .
+sentence type ['original']
+entity:  ['Rumble']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The US has banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security .
+sentence type ['original']
+entity:  ['import']
+ori_prediction:  ['Skill']
+new_prediction:  ['Skill']
+evaluation:  NFF
+sentence:  The federal government has long dispensed military grade equipment , armoured vehicles , camouflage uniforms and bayonets to help local law enforcement .
+sentence type ['mutant']
+entity:  ['equipment']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NFF
+sentence:  Company records show FTX customers were based in 27 separate countries with Cayman Islands , Virgin Islands , Great Britain and China having the highest proportion of users .
+sentence type ['original']
+entity:  ['FTX']
+ori_prediction:  ['Organization']
+new_prediction:  ['Location']
+evaluation: TF
+sentence:  It is possible on some of our river Evenlode , it 's possible on some of the burns up in Wales , it 's possible on some of the streams in Scotland but in our poor tributaries that is no longer possible .
+sentence type ['mutant']
+entity:  ['river']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It is possible on some of our river Evenlode , it 's possible on some of the burns up in Wales , it 's possible on some of the streams in Scotland but in our poor tributaries that is no longer possible .
+sentence type ['mutant']
+entity:  ['tributaries']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  It is possible on some of our river Evenlode , it 's possible on some of the burns up in Wales , it 's possible on some of the streams in Scotland but in our poor tributaries that is no longer possible .
+sentence type ['mutant']
+entity:  ['Evenlode']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  It is possible on some of our river Evenlode , it 's possible on some of the burns up in Wales , it 's possible on some of the streams in Scotland but in our poor tributaries that is no longer possible .
+sentence type ['mutant']
+entity:  ['river Evenlode']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  Electric cars , their spare parts , batteries and charging station equipment have been exempted from VAT , import and excise duties .
+sentence type ['original']
+entity:  ['equipment']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  But it also added : [ We ] welcome the introduction of measures that have the potential to improve sustainable travel across Cambridgeshire and specifically enhance economic opportunities in Huntingdonshire through improved connectivity .
+sentence type ['original']
+entity:  ['sustainable']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  She lives in Strath Halladale , in the centre of the Country Flow , and supports the bid for Unesco status .
+sentence type ['mutant']
+entity:  ['Flow']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  She lives in Strath Halladale , in the centre of the Country Flow , and supports the bid for Unesco status .
+sentence type ['mutant']
+entity:  ['Country']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Four fatalities occurred in Merritt when a bus rolled over on an icy road near the town of British Columbia , in the western province of Canada .
+sentence type ['mutant']
+entity:  ['road']
+ori_prediction:  ['Location']
+new_prediction:  ['Location']
+evaluation: NTT
+sentence:  The median sum in the US for a burial with a funeral was $ 6 , 848 in 2021 , or $ 7 , 971 for a cremation with a funeral , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Great Britain to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Cumbria to be ahead of the rest of the world .
+sentence type ['original']
+entity:  ['NuCell reactor']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Great Britain to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Cumbria to be ahead of the rest of the world .
+sentence type ['original']
+entity:  ['NuCell reactor units']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Great Britain to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Cumbria to be ahead of the rest of the world .
+sentence type ['original']
+entity:  ['energy']
+ori_prediction:  ['Skill']
+new_prediction:  ['Product']
+evaluation: FF
+sentence:  A Congolese refugee , a nursing assistant and a grandmother are among the dead .
+sentence type ['original']
+entity:  ['Congolese refugee']
+ori_prediction:  ['PersonType']
+new_prediction:  ['PersonType']
+evaluation: NTT
+sentence:  A Congolese refugee , a nursing assistant and a grandmother are among the dead .
+sentence type ['original']
+entity:  ['refugee']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  A Congolese refugee , a nursing assistant and a grandmother are among the dead .
+sentence type ['original']
+entity:  ['Congolese']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Company records show FTX users were based in 27 separate countries with China , Cayman Islands , Great Britain and Virgin Islands having the highest proportion of customers .
+sentence type ['mutant']
+entity:  ['FTX']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FF
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Cumbria to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Great Britain to be ahead of the rest of the world .
+sentence type ['mutant']
+entity:  ['NuCell reactor']
+ori_prediction:  ['Product', 'Product']
+new_prediction:  ['Product', 'Product']
+evaluation: NTT
+evaluation: NTT
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Cumbria to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Great Britain to be ahead of the rest of the world .
+sentence type ['mutant']
+entity:  ['NuCell reactor units']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  In a statement , TSP said : This announcement and manufacture of the NuCell reactor will enable Cumbria to develop its own energy supply and become a global leader with the first NuCell reactor units targeted to be manufactured by 2027 , allowing TSP and Great Britain to be ahead of the rest of the world .
+sentence type ['mutant']
+entity:  ['energy']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: TF
+sentence:  The median sum in the US for a burial with a funeral was $ 6 , 848 in 2021 , or $ 7 , 971 for a cremation with a funeral , according to the NFDA ( National Funeral Directors Association ) .
+sentence type ['mutant']
+entity:  ['cremation']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Covid had previously reported suspending more than 11 , 000 accounts for Twitter misinformation as of September this year .
+sentence type ['mutant']
+entity:  ['Covid']
+ori_prediction:  ['Person']
+new_prediction:  ['Person']
+evaluation: NFF
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['PMC']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['Organization']
+new_prediction:  ['Product', 'Product', 'Product']
+evaluation: FF
+evaluation: FF
+evaluation: FF
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['orchestra']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner orchestra']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner PMC']
+ori_prediction:  ['Organization']
+new_prediction:  ['Organization']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['search']
+ori_prediction:  ['Skill']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Reacting to this and the visit Mr Yenin confirmed : We are building up our defence lines all across the border with Russia and with Belarus .
+sentence type ['original']
+entity:  ['border']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  On a video posted on the platform Twitter , Jones said he did not care about being on Rumble , reports news website Axios .
+sentence type ['mutant']
+entity:  ['Rumble']
+ori_prediction:  ['Event']
+new_prediction:  ['Organization']
+evaluation: FT
+sentence:  TSP Engineering says it will build small modular SMRs , also known as reactors , from its manufacturing facility in Workington .
+sentence type ['mutant']
+entity:  ['facility']
+ori_prediction:  ['Location']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  TSP Engineering says it will build small modular SMRs , also known as reactors , from its manufacturing facility in Workington .
+sentence type ['mutant']
+entity:  ['manufacturing facility']
+ori_prediction:  ['NULL']
+new_prediction:  ['Location']
+evaluation: FT
+sentence:  Apple Music , Deezer and Spotify all said the track was their top performer of the year , beating competition from Taylor Swift , Ed Sheeran and Drake .
+sentence type ['mutant']
+entity:  ['performer']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Luckily the pair managed to make online contact with Awareness Against Human Trafficking ( UN ) , a Kenyan charity that helps migrants in trouble , and they were eventually rescued and flown home with the help of Haart and Kenyan authorities .
+sentence type ['mutant']
+entity:  ['Haart']
+ori_prediction:  ['Person']
+new_prediction:  ['Person']
+evaluation: NFF
+sentence:  Apple Music , Deezer and Spotify all said the track was their top performer of the year , beating competition from Taylor Swift , Drake and Ed Sheeran .
+sentence type ['mutant']
+entity:  ['performer']
+ori_prediction:  ['PersonType']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The expansion to Milton Keynes comes after the roving robots were introduced in other areas , including Yorkshire .
+sentence type ['mutant']
+entity:  ['roving robots']
+ori_prediction:  ['Product']
+new_prediction:  ['Product']
+evaluation: NTT
+sentence:  The expansion to Milton Keynes comes after the roving robots were introduced in other areas , including Yorkshire .
+sentence type ['mutant']
+entity:  ['robots']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The bison , once indigenous to the Blean woods , were introduced to UK in July , after two years of preparation .
+sentence type ['mutant']
+entity:  ['preparation']
+ori_prediction:  ['NULL']
+new_prediction:  ['Skill']
+evaluation: TF
+sentence:  It will have two claws , equipped with tubes , to grab the drones and take them to the rocket system that will then blast them off Mars for the journey home .
+sentence type ['mutant']
+entity:  ['claws']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Apple has for years complained about the dominance Facebook holds over its Meta and Instagram apps .
+sentence type ['mutant']
+entity:  ['Meta']
+ori_prediction:  ['NULL']
+new_prediction:  ['Product']
+evaluation: FT
+sentence:  Apple has for years complained about the dominance Facebook holds over its Meta and Instagram apps .
+sentence type ['mutant']
+entity:  ['Instagram']
+ori_prediction:  ['Product']
+new_prediction:  ['NULL']
+evaluation: TF

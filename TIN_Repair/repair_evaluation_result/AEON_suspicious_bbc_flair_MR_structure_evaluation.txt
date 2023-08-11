@@ -1,0 +1,735 @@
+sentence:  Did The Urdd , Wales Today and Aberystwyth University all celebrate significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses ?
+sentence type ['mutant']
+entity:  ['The Urdd']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did The Urdd , Wales Today and Aberystwyth University all celebrate significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses ?
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did The Urdd , Wales Today and Aberystwyth University all celebrate significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses ?
+sentence type ['mutant']
+entity:  ['Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does it mean that not only could Donald Trump lose a lot of money by using Twitter ( by spooking investors ) but he could also get sued ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The enormous free display forms part of the second exhibition at the Soho Photography Quarter .
+sentence type ['original']
+entity:  ['Soho Photography Quarter']
+ori_prediction:  ['LOC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Did I start off really using Twitter as a bit of a diary ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Travellers have faced Hogmanay disruption on Scotland ' s railways after Friday ' s floods .
+sentence type ['original']
+entity:  ['Hogmanay']
+ori_prediction:  ['LOC']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK .
+sentence type ['original']
+entity:  ['State of the UK Climate']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The annual State of the UK Climate report said higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK .
+sentence type ['original']
+entity:  ['State of the UK Climate report']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Did the same search in Russian result in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra ?
+sentence type ['mutant']
+entity:  ['Wagner sledgehammer']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Did the same search in Russian result in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra ?
+sentence type ['mutant']
+entity:  ['Wagner PMC']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Did the same search in Russian result in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra ?
+sentence type ['mutant']
+entity:  ['Wagner']
+ori_prediction:  ['PER']
+new_prediction:  ['PER', 'PER']
+evaluation: NFF
+evaluation: FF
+sentence:  Both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds .
+sentence type ['original']
+entity:  ['Department for Environment']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds .
+sentence type ['original']
+entity:  ['Department for Environment , Food and Rural Affairs']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds .
+sentence type ['original']
+entity:  ['Food and Rural Affairs']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the M48 Severn Bridge remain closed in both directions between J1 and J2 due to high winds ?
+sentence type ['mutant']
+entity:  ['M48 Severn Bridge']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Does the M48 Severn Bridge remain closed in both directions between J1 and J2 due to high winds ?
+sentence type ['mutant']
+entity:  ['M48']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does the M48 Severn Bridge remain closed in both directions between J1 and J2 due to high winds ?
+sentence type ['mutant']
+entity:  ['Severn Bridge']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was Twitter the obvious solution ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: TF
+sentence:  The M48 Severn Bridge remains closed in both directions between J1 and J2 due to high winds .
+sentence type ['original']
+entity:  ['M48 Severn Bridge']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  The M48 Severn Bridge remains closed in both directions between J1 and J2 due to high winds .
+sentence type ['original']
+entity:  ['Severn Bridge']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The M48 Severn Bridge remains closed in both directions between J1 and J2 due to high winds .
+sentence type ['original']
+entity:  ['M48']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Twitter was the obvious solution .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Were Christmas cards late due to a postal strike while holiday travel was hit by industrial action by both rail workers and airport staff ?
+sentence type ['mutant']
+entity:  ['Christmas']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Did it say 142 iSpoof users were arrested across the world in November as part of a coordinated international operation ?
+sentence type ['mutant']
+entity:  ['iSpoof']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Louden , from Whauphill in Dumfries and Galloway , said he knew instantly after the accident that he was paralysed .
+sentence type ['original']
+entity:  ['Dumfries and Galloway']
+ori_prediction:  ['NULL']
+new_prediction:  ['LOC']
+evaluation: FT
+sentence:  Mr Louden , from Whauphill in Dumfries and Galloway , said he knew instantly after the accident that he was paralysed .
+sentence type ['original']
+entity:  ['Dumfries']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Mr Louden , from Whauphill in Dumfries and Galloway , said he knew instantly after the accident that he was paralysed .
+sentence type ['original']
+entity:  ['Galloway']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Is the funding coming from the Advanced Propulsion Centre ( APC ) programme ?
+sentence type ['mutant']
+entity:  ['Advanced Propulsion Centre']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Is the funding coming from the Advanced Propulsion Centre ( APC ) programme ?
+sentence type ['mutant']
+entity:  ['APC']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Mark Harding , one of Oban ' s owners , said he was elated to find him alive .
+sentence type ['original']
+entity:  ['Oban']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Clay died on his birthday .
+sentence type ['original']
+entity:  ['Mr']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['Special Scientific Interest']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['of Special Scientific Interest']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , forms part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 .
+sentence type ['original']
+entity:  ['of']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG', 'ORG']
+evaluation: NFF
+evaluation: TF
+sentence:  Did Det Supt Rance warn other criminal enablers will have taken over to provide services to fraudsters ?
+sentence type ['mutant']
+entity:  ['Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Det Supt Rance warn other criminal enablers will have taken over to provide services to fraudsters ?
+sentence type ['mutant']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Does the enormous free display form part of the second exhibition at the Soho Photography Quarter ?
+sentence type ['mutant']
+entity:  ['Soho Photography Quarter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  It means that not only could Donald Trump lose a lot of money by using Twitter ( by spooking investors ) but he could also get sued .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Did Mr Louden , from Whauphill in Dumfries and Galloway , say he knew instantly after the accident that he was paralysed ?
+sentence type ['mutant']
+entity:  ['Dumfries and Galloway']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Did Mr Louden , from Whauphill in Dumfries and Galloway , say he knew instantly after the accident that he was paralysed ?
+sentence type ['mutant']
+entity:  ['Dumfries']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Mr Louden , from Whauphill in Dumfries and Galloway , say he knew instantly after the accident that he was paralysed ?
+sentence type ['mutant']
+entity:  ['Galloway']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner sledgehammer']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner PMC']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: TF 
+sentence:  The same search in Russian resulted in the suggestions Wagner PMC , Wagner sledgehammer and Wagner orchestra .
+sentence type ['original']
+entity:  ['Wagner']
+ori_prediction:  ['ORG', 'PER']
+new_prediction:  ['ORG', 'ORG']
+evaluation: NTT
+evaluation: FT
+sentence:  Did Apple ' s audience lean more towards pop , charting songs by Adele and Elton John that did n't appear in Spotify ' s list ?
+sentence type ['mutant']
+entity:  ['Adele']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  The median sum in the US for a funeral with a burial was $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) .
+sentence type ['original']
+entity:  ['848']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Ben Johnson , from the Environmental Services Association ( ESA ) , told BBC News more and more people were putting devices containing these batteries in with household rubbish or mixing them with other recycling .
+sentence type ['original']
+entity:  ['ESA']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Has The US banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security ?
+sentence type ['mutant']
+entity:  ['The']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Has The US banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security ?
+sentence type ['mutant']
+entity:  ['US']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Has The US banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security ?
+sentence type ['mutant']
+entity:  ['The US']
+ori_prediction:  ['LOC']
+new_prediction:  ['ORG']
+evaluation: TF
+sentence:  Did Mr Coughlan say his company will make the NuCell that will generate power for the National Grid ?
+sentence type ['mutant']
+entity:  ['National Grid']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Did Mr Coughlan say his company will make the NuCell that will generate power for the National Grid ?
+sentence type ['mutant']
+entity:  ['NuCell']
+ori_prediction:  ['NULL']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  The US and other Western countries have made improvements to female education in Afghanistan a prior condition for the formal recognition of the Taliban government .
+sentence type ['original']
+entity:  ['Taliban']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Have travellers faced Hogmanay disruption on Scotland ' s railways after Friday ' s floods ?
+sentence type ['mutant']
+entity:  ['Hogmanay']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  The US has banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security .
+sentence type ['original']
+entity:  ['The']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  The US has banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security .
+sentence type ['original']
+entity:  ['US']
+ori_prediction:  ['LOC']
+new_prediction:  ['ORG']
+evaluation: FF
+sentence:  The US has banned the sale and import of new communications equipment from five Chinese companies , including Huawei and ZTE , amid concerns over national security .
+sentence type ['original']
+entity:  ['The US']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Ms Clark wants Nexperia to stay .
+sentence type ['original']
+entity:  ['Ms Clark']
+ori_prediction:  ['NULL']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  Ms Clark wants Nexperia to stay .
+sentence type ['original']
+entity:  ['Nexperia']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Ms Clark wants Nexperia to stay .
+sentence type ['original']
+entity:  ['Clark']
+ori_prediction:  ['PER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Christmas cards were late due to a postal strike while holiday travel was hit by industrial action by both rail workers and airport staff .
+sentence type ['original']
+entity:  ['Christmas']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  A report found the Dippy effect saw visitors increase everywhere it toured , including Birmingham , Cardiff and Glasgow .
+sentence type ['original']
+entity:  ['Dippy']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['The Urdd']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['The']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The Urdd , Wales Today and Aberystwyth University all celebrated significant anniversaries while we said goodbye to two heroes of Welsh rugby and one of our most beloved actresses .
+sentence type ['original']
+entity:  ['Urdd']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  SpaceX plans to take Japanese billionaire Yusaku Maezawa and eight other passengers on the dearMoon voyage around the Moon in late 2023 .
+sentence type ['original']
+entity:  ['Moon']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NFF
+sentence:  Did our Community Guidelines clearly outline that we do not allow people to use our platform to threaten or incite violence , or share attacks or slurs based on people ' s nationality or other protected characteristics ?
+sentence type ['mutant']
+entity:  ['Guidelines']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Mr Coughlan said his company will make the NuCell that will generate power for the National Grid .
+sentence type ['original']
+entity:  ['National Grid']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Mr Coughlan said his company will make the NuCell that will generate power for the National Grid .
+sentence type ['original']
+entity:  ['NuCell']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Does SpaceX plan to take Japanese billionaire Yusaku Maezawa and eight other passengers on the dearMoon voyage around the Moon in late 2023 ?
+sentence type ['mutant']
+entity:  ['Moon']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  The funding is coming from the Advanced Propulsion Centre ( APC ) programme .
+sentence type ['original']
+entity:  ['Advanced Propulsion Centre']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The funding is coming from the Advanced Propulsion Centre ( APC ) programme .
+sentence type ['original']
+entity:  ['APC']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: TF
+sentence:  Did Mr Clay die on his birthday ?
+sentence type ['mutant']
+entity:  ['Mr']
+ori_prediction:  ['PER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Was the median sum in the US for a funeral with a burial $ 7 , 848 in 2021 , or $ 6 , 971 for a funeral with a cremation , according to the National Funeral Directors Association ( NFDA ) ?
+sentence type ['mutant']
+entity:  ['848']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Historic England , which is providing £ 10 , 000 , say Vindolanda , close to Hadrian ' s Wall , was the most exciting archaeological site in Europe ?
+sentence type ['mutant']
+entity:  ['Historic England']
+ori_prediction:  ['LOC']
+new_prediction:  ['LOC']
+evaluation: NTT
+sentence:  Did Historic England , which is providing £ 10 , 000 , say Vindolanda , close to Hadrian ' s Wall , was the most exciting archaeological site in Europe ?
+sentence type ['mutant']
+entity:  ['England']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['PER']
+evaluation: TF
+sentence:  Did Det Supt Rance say the investigation remained active ?
+sentence type ['mutant']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The operation ran across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta .
+sentence type ['original']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['MISC']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['Special Scientific Interest']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: FF
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['of Special Scientific Interest']
+ori_prediction:  ['MISC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Does the reserve , which is owned by the Department of the Environment , Food and Agriculture and Manx National Heritage , form part of a wider Area of Special Scientific Interest ( ASSI ) established in 1996 ?
+sentence type ['mutant']
+entity:  ['of']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Does the feud come as many companies have halted spending on Twitter amid concerns about Mr Musk ' s content moderation plans for the site ?
+sentence type ['mutant']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Did the operation run across many internet services , including Twitter , YouTube , Telegram , VKontakte and Odnoklassniki , according to Meta ?
+sentence type ['mutant']
+entity:  ['Odnoklassniki']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  I started off really using Twitter as a bit of a diary .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Apple supplier Foxconn is ramping up efforts to recruit workers after unrest at the world ' s biggest iPhone factory .
+sentence type ['original']
+entity:  ['Apple']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Did both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds ?
+sentence type ['mutant']
+entity:  ['Department for Environment']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds ?
+sentence type ['mutant']
+entity:  ['Department for Environment , Food and Rural Affairs']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Did both the Department for Environment , Food and Rural Affairs ( Defra ) and the British Poultry Council stress the issue is with free range turkeys , and that there are no issues with supplies of other birds ?
+sentence type ['mutant']
+entity:  ['Food and Rural Affairs']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NFF
+sentence:  Did Ben Johnson , from the Environmental Services Association ( ESA ) , tell BBC News more and more people were putting devices containing these batteries in with household rubbish or mixing them with other recycling ?
+sentence type ['mutant']
+entity:  ['ESA']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['Newport West Labour']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['Newport']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  The delegation was hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible .
+sentence type ['original']
+entity:  ['West Labour']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Did Senator Maria Cantwell , the chair of the US Senate Commerce Committee , say that the committee will be looking into the causes of these disruptions and its impact to consumers ?
+sentence type ['mutant']
+entity:  ['US']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Senator Maria Cantwell , the chair of the US Senate Commerce Committee , say that the committee will be looking into the causes of these disruptions and its impact to consumers ?
+sentence type ['mutant']
+entity:  ['Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Did Senator Maria Cantwell , the chair of the US Senate Commerce Committee , say that the committee will be looking into the causes of these disruptions and its impact to consumers ?
+sentence type ['mutant']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Is Apple supplier Foxconn ramping up efforts to recruit workers after unrest at the world ' s biggest iPhone factory ?
+sentence type ['mutant']
+entity:  ['Apple']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NTT
+sentence:  Historic England , which is providing £ 10 , 000 , said Vindolanda , close to Hadrian ' s Wall , was the most exciting archaeological site in Europe .
+sentence type ['original']
+entity:  ['Historic England']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Historic England , which is providing £ 10 , 000 , said Vindolanda , close to Hadrian ' s Wall , was the most exciting archaeological site in Europe .
+sentence type ['original']
+entity:  ['England']
+ori_prediction:  ['LOC']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Apple ' s audience leaned more towards pop , charting songs by Adele and Elton John that did n't appear in Spotify ' s list .
+sentence type ['original']
+entity:  ['Adele']
+ori_prediction:  ['ORG']
+new_prediction:  ['PER']
+evaluation: FT
+sentence:  Have the US and other Western countries made improvements to female education in Afghanistan a prior condition for the formal recognition of the Taliban government ?
+sentence type ['mutant']
+entity:  ['Taliban']
+ori_prediction:  ['ORG']
+new_prediction:  ['MISC']
+evaluation: TF
+sentence:  Did Mark Harding , one of Oban ' s owners , say he was elated to find him alive ?
+sentence type ['mutant']
+entity:  ['Oban']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Did a report find the Dippy effect saw visitors increase everywhere it toured , including Birmingham , Cardiff and Glasgow ?
+sentence type ['mutant']
+entity:  ['Dippy']
+ori_prediction:  ['PER']
+new_prediction:  ['MISC']
+evaluation: FT
+sentence:  Did the annual State of the UK Climate report say higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK ?
+sentence type ['mutant']
+entity:  ['State of the UK Climate']
+ori_prediction:  ['MISC']
+new_prediction:  ['MISC']
+evaluation: NFF
+sentence:  Did the annual State of the UK Climate report say higher temperatures were the new normal and highlighted the ways that climate change was affecting the UK ?
+sentence type ['mutant']
+entity:  ['State of the UK Climate report']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['US']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['Senate Commerce Committee']
+ori_prediction:  ['ORG']
+new_prediction:  ['NULL']
+evaluation: FT
+sentence:  Senator Maria Cantwell , the chair of the US Senate Commerce Committee , said that the committee will be looking into the causes of these disruptions and its impact to consumers .
+sentence type ['original']
+entity:  ['US Senate Commerce Committee']
+ori_prediction:  ['NULL']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Supt Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Det Supt Rance warned other criminal enablers will have taken over to provide services to fraudsters .
+sentence type ['original']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
+sentence:  It said 142 iSpoof users were arrested across the world in November as part of a coordinated international operation .
+sentence type ['original']
+entity:  ['iSpoof']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Does Ms Clark want Nexperia to stay ?
+sentence type ['mutant']
+entity:  ['Ms Clark']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NTT
+sentence:  Does Ms Clark want Nexperia to stay ?
+sentence type ['mutant']
+entity:  ['Nexperia']
+ori_prediction:  ['PER']
+new_prediction:  ['ORG']
+evaluation: FT
+sentence:  Does Ms Clark want Nexperia to stay ?
+sentence type ['mutant']
+entity:  ['Clark']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Our Community Guidelines clearly outline that we do not allow people to use our platform to threaten or incite violence , or share attacks or slurs based on people ' s nationality or other protected characteristics .
+sentence type ['original']
+entity:  ['Guidelines']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was the delegation hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible ?
+sentence type ['mutant']
+entity:  ['Newport']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was the delegation hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible ?
+sentence type ['mutant']
+entity:  ['West Labour']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NTT
+sentence:  Was the delegation hosted by Newport West Labour MP Ruth Jones , who said she would be seeking a meeting with the business secretary as soon as possible ?
+sentence type ['mutant']
+entity:  ['Newport West Labour']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  The feud comes as many companies have halted spending on Twitter amid concerns about Mr Musk ' s content moderation plans for the site .
+sentence type ['original']
+entity:  ['Twitter']
+ori_prediction:  ['ORG']
+new_prediction:  ['ORG']
+evaluation: NTT
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Rance']
+ori_prediction:  ['PER']
+new_prediction:  ['PER']
+evaluation: NFF
+sentence:  Det Supt Rance said the investigation remained active .
+sentence type ['original']
+entity:  ['Det Supt Rance']
+ori_prediction:  ['NULL']
+new_prediction:  ['NULL']
+evaluation: NFF
