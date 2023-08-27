@@ -25,3 +25,6 @@ Examples of using TIN to detect the NER errors and then fix them are shown as be
 🔭:If you use any tools or datasets in this project, please kindly cite the following paper: Boxi Yu, Yiyan Hu, Qiuyang Mang, Wenhan Hu, Pinjia He.
 + [**ESEC/FSE'23**] 
 ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023.
+
+### Feedback
+Should you have any questions, please post to [the issue page](https://github.com/RobustNLP/TestNER/issues), or email Boxi Yu via boxiyu@link.cuhk.edu.cn.
