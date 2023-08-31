@@ -22,8 +22,8 @@ Examples of using TIN to detect the NER errors and then fix them are shown as be
 ![image](assets/NER_Repair.png)
 
 ### Citation
-🔭:If you use any tools or datasets in this project, please kindly cite the following paper: Boxi Yu, Yiyan Hu, Qiuyang Mang, Wenhan Hu, Pinjia He.
-+ [**ESEC/FSE'23**] 
+🔭:If you use any tools or datasets in this project, please kindly cite the following paper:
++ Boxi Yu, Yiyan Hu, Qiuyang Mang, Wenhan Hu, Pinjia He. [**ESEC/FSE'23**] 
 ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023.
 
 ### Feedback
